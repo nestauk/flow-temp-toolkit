@@ -1,46 +1,35 @@
-# Neat Starter
+# Flow Temp Toolkit
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
+> A website with guidance for organisations helping people turn down their boilers
 
-## Live Demo
+## Tech stack
 
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
+- [Netlify CMS](https://www.netlifycms.org/) - A headless CMS to edit site content.
+- [Eleventy](https://www.11ty.dev/) - A simple static site generator.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework to rapidly build modern websites.
+- [Netlify](https://www.netlify.com/) - Hosting. Commits to the `main` branch are automatically deployed.
 
-### Technologies used:
+## Local development
 
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Tailwind CSS](https://tailwindcss.com/)
-
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
-| ------------------------------------------------------------------------------------------------------------- |
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
-
-## Getting Started
-
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
-
-### 1\. Clone this Repository
+### 1. Clone this repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://github.com/nestauk/flow-temp-toolkit.git
 ```
 
-### 2\. Navigate to the directory
+### 2. Navigate to the directory
 
 ```
-cd neat-starter
+cd flow-temp-toolkit
 ```
 
-### 3\. Install dependencies
+### 3. Install dependencies
 
 ```
 npm install
 ```
 
-### 4\. Build the project to generate the first CSS
+### 4. Build the project to generate the first CSS
 
 This step is only required the very first time.
 
@@ -48,12 +37,24 @@ This step is only required the very first time.
 npm run build
 ```
 
-### 5\. Run Eleventy
+### 5. Run development servers
+
+Start a local development server...
 
 ```
 npm run start
 ```
 
-## Author
+Start a proxy server for local backend for CMS
 
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+```
+npx netlify-cms-proxy-server
+```
+
+Visit `http://localhost:8080/` to see the site.
+
+## Authoring content
+
+Visit the `[site]/admin` path in your browser to access the CMS to edit content. Users will need to be added via the Identity section on Netlify.
+
+Content can alse be edited by directly editing the relevant `*.md` in the `src` directory and `*.yaml` files in the `_data` directory.
