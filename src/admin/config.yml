@@ -1,8 +1,8 @@
 backend:
   # Use netlify identity as backend
   name: git-gateway
+  repo: nestauk/flow-temp-toolkit
   branch: main
-
 media_folder: "src/static/files"
 public_folder: "/static/files"
 
