@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<main>
+  <section class="max-w-screen-xl mx-auto px-4 mb-16">
+    <h1 class="text-5xl font-bold mt-20 mb-6">{{ title }}</h1>
+    <p class="text-2xl mb-14">{{ tagline }}</p>
+  </section>
+
+  <section class="markdown max-w-screen-xl mx-auto px-4 mb-16">
+    {{ content | safe }}
+  </section>
+
+  <section class="max-w-screen-xl mx-auto px-4 mb-16">
+    <div class="grid lg:grid-cols-2 gap-6 mb-14">
+      {% for s in shortcuts %}
+      <a
+        href="{{ s.url }}"
+        class="bg-green-200 hover:bg-green-100 p-6 rounded-md"
+      >
+        <h2 class="text-2xl font-bold mb-3">{{ s.title }}</h2>
+        <p>{{ s.description }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% include "./partials/banner.html" %}
+
+  <section class="max-w-screen-xl mx-auto px-4 my-16">
+    <h2 class="text-2xl font-bold mb-6">
+      Organisations supporting these principles
+    </h2>
+    <div class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 mb-14">
+      {% for l in logos %}
+      <a href="{{ l.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ l.image }}" alt="{{ l.alt }}" class="h-32 mx-auto" />
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+</main>

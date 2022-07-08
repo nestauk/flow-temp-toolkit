@@ -1,0 +1,3 @@
+---
+title: Principle 3
+---

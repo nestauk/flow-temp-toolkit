@@ -1,0 +1,139 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: master
+
+media_folder: "src/static/files"
+public_folder: "/static/files"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/index.md"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Body, name: body, widget: markdown }
+          - label: Shortcuts
+            name: shortcuts
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Description, name: description, widget: string }
+              - { label: URL, name: url, widget: string }
+          - label: Logos
+            name: logos
+            widget: list
+            fields:
+              - { label: Image, name: image, widget: image }
+              - { label: Alt, name: alt, widget: string }
+              - { label: URL, name: url, widget: string }
+
+  - label: "Components"
+    name: "components"
+    files:
+      - label: "Walkthrough banner"
+        name: "banner"
+        file: "src/_data/banner.yaml"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Walkthrough image, name: img, widget: image }
+          - { label: Walkthrough alt text, name: alt, widget: string }
+
+  - label: "Principles"
+    name: "principles"
+    folder: "src/principles"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string" }
+      - label: "Icon"
+        name: "icon"
+        widget: "image"
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Users"
+        name: "users"
+        widget: "list"
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Icon, name: icon, widget: image }
+          - label: Consideration
+            name: considerations
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: "Description", name: "description", widget: "text" }
+      - label: "Patterns"
+        name: "patterns"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Icon", name: "icon", widget: "image" }
+          - { label: "Alt text", name: "alt", widget: "string" }
+          - label: "Pattern Page ID"
+            name: "slug"
+            widget: "relation"
+            collection: "patterns"
+            search_fields: ["title", "{{slug}}"]
+            value_field: "{{slug}}"
+            display_fields: ["{{slug}}"]
+
+  - label: "Patterns"
+    name: "patterns"
+    folder: "src/patterns"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Icon", name: "icon", widget: "image" }
+      - { label: "Alt text", name: "alt", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "items"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Nav Items
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Quick Links"
+        name: "links"
+        file: "src/_data/quicklinks.yaml"
+        fields:
+          - label: Nav Items
+            name: links
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
+              - { label: Description, name: desc, widget: string }
+      - label: "Meta Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Author, name: author, widget: string }
+          - { label: URL, name: url, widget: string }

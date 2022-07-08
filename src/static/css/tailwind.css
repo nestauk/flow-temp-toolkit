@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS */
+
+.markdown * {
+  @apply mb-5;
+}
+.markdown *:last-child {
+  @apply mb-0;
+}
+.markdown h2 {
+  @apply text-2xl font-bold;
+}
+.markdown p {
+  @apply text-lg;
+}
+
+.markdown.markdown-table {
+  @apply flex flex-wrap md:justify-end;
+}
+.markdown.markdown-table h2 {
+  @apply md:w-1/4 md:shrink-0;
+}
+.markdown.markdown-table p,
+.markdown.markdown-table ul,
+.markdown.markdown-table ol {
+  @apply md:w-3/4 md:shrink-0;
+}
+
+/* Syntax Highlighting*/
+
+body :not(pre) > code[class*="language-"],
+body pre[class*="language-"] {
+  @apply bg-gray-800;
+}

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<main>
+  <section class="max-w-screen-lg mx-auto px-4 my-4">
+    <h1 class="text-5xl font-bold mt-20 mb-6">
+      The boiler turn down principles
+    </h1>
+    <p class="text-2xl mb-14">
+      The 5 principles that make up this toolkit combine to give an end to end
+      service.
+    </p>
+
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-6 mb-14">
+      {% for principle in collections.principles %}
+      <a
+        href="{{ principle.url | url }}"
+        class="bg-blue-100 hover:bg-blue-200 p-5 rounded-md"
+      >
+        <img src="{{ principle.data.icon}}" alt="" class="h-32 mx-auto mb-4" />
+        <h2 class="text-xl font-bold mb-3">{{ principle.data.title }}</h2>
+        <p>{{ principle.data.tagline }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% include "./_includes/partials/banner.html" %}
+</main>
