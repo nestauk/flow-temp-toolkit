@@ -37,6 +37,15 @@ collections:
               - { label: Image, name: image, widget: image }
               - { label: Alt, name: alt, widget: string }
               - { label: URL, name: url, widget: string }
+      - label: "Walkthrough"
+        name: "walkthrough"
+        file: "src/_data/walkthrough.yaml"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Tally ID, name: tally_id, widget: string }
 
   - label: "Components"
     name: "components"

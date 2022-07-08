@@ -16,7 +16,7 @@ shortcuts:
     url: "#"
   - title: I want a tool to use on my own website
     description: Get Nesta's consumer walkthrough to re-use on your own channels
-    url: "#"
+    url: /walkthrough/
   - title: I want evidence to share with others
     description: Get Nesta's consumer walkthrough to re-use on your own channels
     url: "#"
