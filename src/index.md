@@ -13,13 +13,13 @@ shortcuts:
   - title: I want to see examples of how this can be done
     description: See best practices from organisations across the energy and
       consumer support world
-    url: "#"
+    url: /evidence/
   - title: I want a tool to use on my own website
     description: Get Nesta's consumer walkthrough to re-use on your own channels
     url: /walkthrough/
   - title: I want evidence to share with others
     description: Get Nesta's consumer walkthrough to re-use on your own channels
-    url: "#"
+    url: /evidence/
 logos:
   - image: /static/files/icon.svg
     url: http://nesta.org.uk

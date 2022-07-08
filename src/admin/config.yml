@@ -37,6 +37,17 @@ collections:
               - { label: Image, name: image, widget: image }
               - { label: Alt, name: alt, widget: string }
               - { label: URL, name: url, widget: string }
+
+      - label: "Evidence"
+        name: "evidence"
+        file: "src/evidence.md"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Body, name: body, widget: markdown }
+
       - label: "Walkthrough"
         name: "walkthrough"
         file: "src/_data/walkthrough.yaml"
@@ -69,9 +80,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tagline", name: "tagline", widget: "string" }
-      - label: "Icon"
-        name: "icon"
-        widget: "image"
+      - { label: "Icon", name: "icon", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Users"
         name: "users"
@@ -121,3 +130,16 @@ collections:
           - { label: "Image", name: "image", widget: "image" }
           - { label: "Alt text", name: "alt", widget: "string" }
           - { label: "File", name: "file", widget: "file" }
+
+  - label: "Examples"
+    name: "examples"
+    folder: "src/examples"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: text }
+      - { label: Body, name: body, widget: markdown }
+      - { label: Image, name: image, widget: image }
+      - { label: Alt text, name: alt, widget: string }
