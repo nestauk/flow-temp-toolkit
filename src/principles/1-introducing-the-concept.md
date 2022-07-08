@@ -7,20 +7,22 @@ users:
   - name: Engineers
     icon: /static/files/icon.svg
     considerations:
-      - title: Boiler Engineers - Provide assets to reassure customers
+      - title: Provide assets to reassure customers
         description:
           Boiler engineers are a trusted voice, they are a powerful way of
           distributing this advice. They should feeel confident in talking to
           cutsomers about reducing flow temperatures.
-      - title: "Engineers: Direct to trusted voices"
+      - title: Direct to trusted voices
         description:
           Although a trusted voice, households may still take time to adjust
           to low flow temperatures. If discussin this in person boiler engineers
           should point households to other trusted sources.
-  - name: People with disabilities
+  - name: Vulnerable Users
     considerations:
-      - title: C1
-        description: Desc
+      - title: Check clinical vulnerability
+        description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
+      - title: Ensure confidence in changing settings
+        description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
     icon: /static/files/icon.svg
 patterns:
   - title: Explain why boilers arent running efficiently
@@ -32,6 +34,26 @@ patterns:
     description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
+    alt: Image alt text
+  - title: Show the potential savings
+    description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
+    icon: /static/files/icon.svg
+    slug: show-the-potential-savings
+    alt: Image alt text
+  - title: It won’t affect comfort
+    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
+    icon: /static/files/icon.svg
+    slug: it-wont-affect-comfort
+    alt: Image alt text
+  - title: A quick and easy change
+    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
+    icon: /static/files/icon.svg
+    slug: a-quick-and-easy-change
+    alt: Image alt text
+  - title: Provide an FAQ
+    description: A selection of the most commonly asked questions so that you can include a concise FAQ.
+    icon: /static/files/icon.svg
+    slug: provide-an-faq
     alt: Image alt text
 ---
 
