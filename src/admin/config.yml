@@ -96,10 +96,18 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Icon", name: "icon", widget: "image" }
       - { label: "Alt text", name: "alt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: Assets
+        name: assets
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Alt text", name: "alt", widget: "string" }
+          - { label: "File", name: "file", widget: "file" }
 
   - label: "Settings"
     name: "settings"

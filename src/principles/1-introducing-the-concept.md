@@ -23,16 +23,16 @@ users:
         description: Desc
     icon: /static/files/icon.svg
 patterns:
-  - title: Eplain why
-    description: Some desc
+  - title: Explain why boilers arent running efficiently
+    description: A common misconception is that combination boilers are already very efficient, and that there is nothing a household can do to improve this. It’s important to exaplain why this may not be true.
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
-    alt: asd
-  - slug: pattern-2
+    alt: Image alt text
+  - title: Explain what flow temperature is clearly
+    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
     icon: /static/files/icon.svg
-    title: Explain what flow temp is
-    description: DEst
-    alt: asd
+    slug: explain-what-flow-temperature-is-clearly
+    alt: Image alt text
 ---
 
 ## What is it?
