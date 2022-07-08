@@ -55,6 +55,6 @@ Visit `http://localhost:8080/` to see the site.
 
 ## Authoring content
 
-Visit the `[site]/admin` path in your browser to access the CMS to edit content. Users will need to be added via the Identity section on Netlify.
+Visit the `https://flow-temp-toolkit.netlify.app/admin` (`http://localhost:8080/admin` for local access) page in your browser to access the CMS to edit content. Users will need to be added via the Identity section on Netlify.
 
 Content can alse be edited by directly editing the relevant `*.md` in the `src` directory and `*.yaml` files in the `_data` directory.
