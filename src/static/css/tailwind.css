@@ -10,11 +10,30 @@
 .markdown *:last-child {
   @apply mb-0;
 }
+.markdown h1 {
+  @apply text-3xl font-bold;
+}
 .markdown h2 {
   @apply text-2xl font-bold;
 }
+.markdown h3 {
+  @apply text-xl font-bold;
+}
+.markdown h4,
+.markdown h5,
+.markdown h6,
+.markdown li,
 .markdown p {
   @apply text-lg;
+}
+.markdown li {
+  @apply list-disc ml-4 mb-2;
+}
+.markdown a {
+  @apply underline hover:no-underline text-blue-700;
+}
+.markdown blockquote {
+  @apply p-2 bg-gray-100;
 }
 
 .markdown.markdown-table {
