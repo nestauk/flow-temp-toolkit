@@ -6,8 +6,7 @@ tagline: Tested principles, service patterns and resources to help your users
   carbon emissions.
 shortcuts:
   - title: I want help to build my own services and advice
-    description:
-      Principles and tested service patterns for organisations that offer
+    description: Principles and tested service patterns for organisations that offer
       advice direct to consumers
     url: /principles/
   - title: I want to see examples of how this can be done
@@ -21,7 +20,7 @@ shortcuts:
     description: Get Nesta's consumer walkthrough to re-use on your own channels
     url: /evidence/
 logos:
-  - image: /static/files/icon.svg
+  - image: /static/files/nesta-logo.svg
     url: http://nesta.org.uk
     alt: Nesta logo
   - image: /static/files/icon.svg
