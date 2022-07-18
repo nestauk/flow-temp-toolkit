@@ -8,55 +8,69 @@ users:
     icon: /static/files/icon.svg
     considerations:
       - title: Provide assets to reassure customers
-        description:
-          Boiler engineers are a trusted voice, they are a powerful way of
+        description: Boiler engineers are a trusted voice, they are a powerful way of
           distributing this advice. They should feeel confident in talking to
           cutsomers about reducing flow temperatures.
       - title: Direct to trusted voices
-        description:
-          Although a trusted voice, households may still take time to adjust
+        description: Although a trusted voice, households may still take time to adjust
           to low flow temperatures. If discussin this in person boiler engineers
           should point households to other trusted sources.
+      - title: Use lego
+        description: Because it's cool
   - name: Vulnerable Users
     considerations:
       - title: Check clinical vulnerability
-        description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
+        description: Our resources are split seperated into principles and patterns.
+          Principles are key steps in understanding and delivering information
+          to users. Patterns are ready to go resources and reference material
+          that your teams can use and build into your service.
       - title: Ensure confidence in changing settings
-        description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
+        description: Our resources are split seperated into principles and patterns.
+          Principles are key steps in understanding and delivering information
+          to users. Patterns are ready to go resources and reference material
+          that your teams can use and build into your service.
     icon: /static/files/icon.svg
 patterns:
   - title: Explain why boilers arent running efficiently
-    description: A common misconception is that combination boilers are already very efficient, and that there is nothing a household can do to improve this. It’s important to exaplain why this may not be true.
+    description: A common misconception is that combination boilers are already very
+      efficient, and that there is nothing a household can do to improve this.
+      It’s important to exaplain why this may not be true.
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
     alt: Image alt text
   - title: Explain what flow temperature is clearly
-    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
+    description: Boiler flow temeprature isn’t widely understood, outline what it is
+      and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
     alt: Image alt text
   - title: Show the potential savings
-    description: Our resources are split seperated into principles and patterns. Principles are key steps in understanding and delivering information to users. Patterns are ready to go resources and reference material that your teams can use and build into your service.
+    description: Our resources are split seperated into principles and patterns.
+      Principles are key steps in understanding and delivering information to
+      users. Patterns are ready to go resources and reference material that your
+      teams can use and build into your service.
     icon: /static/files/icon.svg
     slug: show-the-potential-savings
     alt: Image alt text
   - title: It won’t affect comfort
-    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
+    description: Boiler flow temeprature isn’t widely understood, outline what it is
+      and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
     alt: Image alt text
   - title: A quick and easy change
-    description: Boiler flow temeprature isn’t widely understood, outline what it is and what role it plays in heating the home.
+    description: Boiler flow temeprature isn’t widely understood, outline what it is
+      and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: a-quick-and-easy-change
     alt: Image alt text
   - title: Provide an FAQ
-    description: A selection of the most commonly asked questions so that you can include a concise FAQ.
+    description: A selection of the most commonly asked questions so that you can
+      include a concise FAQ.
     icon: /static/files/icon.svg
     slug: provide-an-faq
     alt: Image alt text
 ---
-
 ## What is it?
 
 There are a number of things to introduce to end-users, these should be tailored to the audience. This pattern focuses on introducing the technical reasoning behind lowering flow temperature, and explaining the possible financial and environmental benefits. And also reassures that comfort won’t be affected.
