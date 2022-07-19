@@ -1,8 +1,8 @@
 ---
 title: Explain why boilers arent running efficiently
 tagline: A common misconception is that combination boilers are already very
-  efficient, and that there is nothing a household can do to improve this. It’s
-  important to exaplain why this may not be true.
+  efficient and that there is nothing a household can do to improve this. It’s
+  important to explain why this may not be true.
 icon: /static/files/icon.svg
 alt: asd
 assets:
@@ -15,7 +15,7 @@ assets:
 
 * Combi boilers work best when they heat radiators at 55°C or below.
 * Most boilers in the UK are set above this, with the average temperature of water to radiators being around 70 degrees.
-* When combi boilers flow temperature is set to under 55 degrees they will be condencisng. This allows for the boilers to run more efficiently.
+* When combi boilers flow temperature is set to under 55 degrees they will be condensing. This allows for the boilers to run more efficiently.
 * Households could cut their gas use by 6-8% by ensuring that their boilers are condensing.
-* The lower you set your flow temperature the more efficient your boiler will be, find the right balance between . 
-* Stress that this is a change to the boiler not the thermostat.
+* The lower you set your flow temperature the more efficient your boiler will be, find the right balance.
+* Stress that this is a change to the boiler, not the thermostat.
