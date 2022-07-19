@@ -2,7 +2,7 @@
 title: "1. Introducing the concept "
 tagline: "Explain the reason why changing flow temperature is important, and the
   science behind it. "
-icon: /static/files/icon.svg
+icon: /static/files/introduce-noun-introduce-3859941.svg
 users:
   - name: Engineers
     icon: /static/files/icon.svg
