@@ -4,6 +4,12 @@ tagline: Households asked for clear, concise and relevant information in order
   to reduce the risk or making mistakes and to ensure that reducing the flow
   temperature is as straightforward as possible.
 icon: /static/files/icon.svg
+patterns:
+  - slug: define-the-type-of-boiler-controls
+    title: Define the type of boiler controls
+    description: Check what type of controls the households boiler has
+    icon: /static/files/icon.svg
+    alt: alt
 ---
 # What is it?
 
