@@ -58,7 +58,7 @@ patterns:
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
     alt: Image alt text
-  - title: A quick and easy change
+  - title: It’s simple, quick and low risk
     description: Boiler flow temeprature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
