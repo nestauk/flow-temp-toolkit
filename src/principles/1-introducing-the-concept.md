@@ -38,7 +38,7 @@ patterns:
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
     alt: Image alt text
-  - title: Explain what flow temperature is clearly
+  - title: "Explain what flow temperature is "
     description: Boiler flow temeprature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
