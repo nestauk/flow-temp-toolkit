@@ -5,7 +5,7 @@ tagline: "Explain the reason why changing flow temperature is important, and the
 icon: /static/files/introduce-noun-introduce-3859941.svg
 users:
   - name: Engineers
-    icon: /static/files/icon.svg
+    icon: /static/files/engineers-noun-spanner-1360673.svg
     considerations:
       - title: Provide assets to reassure customers
         description: Boiler engineers are a trusted voice, they are a powerful way of
