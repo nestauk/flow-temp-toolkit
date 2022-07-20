@@ -3,7 +3,7 @@ title: 4. Make the changes
 tagline: Households asked for clear, concise and relevant information in order
   to reduce the risk or making mistakes and to ensure that reducing the flow
   temperature is as straightforward as possible.
-icon: /static/files/icon.svg
+icon: /static/files/make-the-change-noun-dial-740644.svg
 patterns:
   - slug: define-the-type-of-boiler-controls
     title: Define the type of boiler controls
