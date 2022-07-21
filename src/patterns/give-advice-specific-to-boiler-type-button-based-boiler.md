@@ -3,6 +3,20 @@ title: " Give advice specific to boiler type - Button-based boiler. "
 tagline: " Give advice specific to boiler type - Button-based boiler. "
 icon: /static/files/icon.svg
 alt: " Give advice specific to boiler type - Button-based boiler. "
+assets:
+  - title: Radiator symbol illustration
+    image: /static/files/boiler-optimisation-boiler-symbol.png
+    file: /static/files/boiler-optimisation-boiler-symbol.png
+    alt: Illustration of boiler radiator symbols
+  - title: Highlighted flow temperature buttons
+    image: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
+    alt: An illustration of boiler controls with the flow temperature button
+      highlighted in green.
+    file: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
+  - title: Highlighted flow temperature change buttons
+    image: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
+    alt: An illustration of buttons that are used to raise flow temperature
+    file: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
 ---
 ## Key points to communicate
 
