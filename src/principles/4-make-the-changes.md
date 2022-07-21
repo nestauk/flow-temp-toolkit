@@ -20,6 +20,16 @@ patterns:
     alt: alt
     icon: /static/files/icon.svg
     slug: give-advice-specific-to-boiler-type-multiple-dial-boiler
+  - title: Give advice specific to boiler type - Single dial boiler
+    description: Give advice specific to boiler type - Single dial boiler
+    icon: /static/files/icon.svg
+    alt: alt
+    slug: give-advice-specific-to-boiler-type-single-dial-boiler
+  - title: Give advice specific to boiler type - Button-based boiler
+    description: Give advice specific to boiler type - Button-based boiler
+    icon: /static/files/icon.svg
+    alt: alt
+    slug: give-advice-specific-to-boiler-type-button-based-boiler
 ---
 # What is it?
 
