@@ -1,9 +1,14 @@
 ---
-title: Give advice specific to boiler type - Single dial boiler.
+title: Give advice specific to boiler type - Single dial boiler
 tagline: Specific instructions for users that boiler controls consist of a
   single dial and possibly some buttons.
 icon: /static/files/icon.svg
 alt: Give advice specific to boiler type - Single dial boiler.
+assets:
+  - title: Radiator symbol illustration
+    image: /static/files/boiler-optimisation-boiler-symbol.png
+    file: /static/files/boiler-optimisation-boiler-symbol.png
+    alt: Illustration of boiler radiator symbols
 ---
 ## **Key points to communicate**
 
