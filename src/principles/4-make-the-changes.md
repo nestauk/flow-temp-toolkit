@@ -10,6 +10,11 @@ patterns:
     description: Check what type of controls the households boiler has
     icon: /static/files/icon.svg
     alt: alt
+  - title: Give an idea of possible changes and build confidence
+    description: Give an idea of possible changes and build confidence
+    icon: /static/files/icon.svg
+    alt: alt
+    slug: give-an-idea-of-possible-changes-and-build-confidence
 ---
 # What is it?
 
