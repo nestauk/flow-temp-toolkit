@@ -15,19 +15,6 @@ users:
         description: Although a trusted voice, households may still take time to adjust
           to low flow temperatures. If discussin this in person boiler engineers
           should point households to other trusted sources.
-  - name: Vulnerable Users
-    considerations:
-      - title: Check clinical vulnerability
-        description: Our resources are split seperated into principles and patterns.
-          Principles are key steps in understanding and delivering information
-          to users. Patterns are ready to go resources and reference material
-          that your teams can use and build into your service.
-      - title: Ensure confidence in changing settings
-        description: Our resources are split seperated into principles and patterns.
-          Principles are key steps in understanding and delivering information
-          to users. Patterns are ready to go resources and reference material
-          that your teams can use and build into your service.
-    icon: /static/files/icon.svg
 patterns:
   - title: Explain why boilers arent running efficiently
     description: A common misconception is that combination boilers are already very
