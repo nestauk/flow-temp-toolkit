@@ -15,6 +15,11 @@ patterns:
     icon: /static/files/icon.svg
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
+  - title: Give advice specific to boiler type - Multiple dial boiler
+    description: Give advice specific to boiler type - Multiple dial boiler
+    alt: alt
+    icon: /static/files/icon.svg
+    slug: give-advice-specific-to-boiler-type-multiple-dial-boiler
 ---
 # What is it?
 
