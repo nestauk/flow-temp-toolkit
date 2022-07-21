@@ -9,6 +9,14 @@ assets:
     image: /static/files/boiler-optimisation-buttons-only-illustration.png
     alt: Illustration of a typical boiler control pattern consisting of only buttons
     file: /static/files/boiler-optimisation-buttons-only-illustration.png
+  - title: Single dial boiler illustration
+    image: /static/files/boiler-optimisation-single-dial-illustration.png
+    alt: Illustration of a boiler control panel consisting of a single dial control
+    file: /static/files/boiler-optimisation-single-dial-illustration.png
+  - title: Multiple dial boiler illustration
+    image: /static/files/boiler-optimisation-multiple-dials-illustration.png
+    alt: Illustration of a boiler control panel with multiple dial controls
+    file: /static/files/boiler-optimisation-multiple-dials-illustration.png
 ---
 **Key points to communicate**
 
