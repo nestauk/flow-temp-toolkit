@@ -10,11 +10,6 @@ patterns:
     description: Check what type of controls the households boiler has
     icon: /static/files/icon.svg
     alt: alt
-  - title: Give an idea of possible changes and build confidence
-    description: Give an idea of possible changes and build confidence
-    icon: /static/files/icon.svg
-    alt: alt
-    slug: give-an-idea-of-possible-changes-and-build-confidence
   - title: Give advice specific to boiler type - Multiple dial boiler
     description: Give advice specific to boiler type - Multiple dial boiler
     alt: alt
@@ -30,6 +25,11 @@ patterns:
     icon: /static/files/icon.svg
     alt: alt
     slug: give-advice-specific-to-boiler-type-button-based-boiler
+  - title: Give an idea of possible changes and build confidence
+    description: Give an idea of possible changes and build confidence
+    icon: /static/files/icon.svg
+    alt: alt
+    slug: give-an-idea-of-possible-changes-and-build-confidence
 ---
 # What is it?
 
