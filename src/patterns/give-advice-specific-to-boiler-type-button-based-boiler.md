@@ -20,7 +20,7 @@ assets:
 ---
 ## Key points to communicate
 
-* Ensure that users have eligibility has been checked using the guidelines in “4.2 checking eligibility” 
+* Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” 
 * Illustrate what the radiator symbol may look like. 
 * Ensure users find the button that corresponds to the radiator symbol. 
 * Select the radiator flow temperature. Press the button that has the radiator symbol on or near to it. The display should then change to show the current flow temperature. 
