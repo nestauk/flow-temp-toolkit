@@ -8,6 +8,11 @@ assets:
     alt: Illustration of boiler radiator symbols
     image: /static/files/boiler-optimisation-boiler-symbol.png
     file: /static/files/boiler-optimisation-boiler-symbol.png
+  - title: Flow temperature dial suggested position
+    image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+    alt: An illustration showing a dial with a highlighted section in green that
+      users should look to turn their dial to
+    file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
 ---
 ## Key points to communicate
 
