@@ -45,11 +45,10 @@ logos:
     url: http://nesta.org.uk
     alt: Nesta logo
 ---
-
 ## Why we're here
 
 Almost every condensing combi boiler in the UK is burning more gas, generating more emissions and costing households more than they need to.
 
 If these boilers were optimised, households could reduce their energy use, costs and emissions.
 
-The flow temperature toolkit is a resource for advice givers in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently whilst maintaing comfort and mitigating any vulnerabilities.
+The flow temperature toolkit is a resource for advice givers in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently whilst maintaining comfort and mitigating any vulnerabilities.
