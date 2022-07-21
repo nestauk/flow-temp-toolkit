@@ -15,8 +15,6 @@ users:
         description: Although a trusted voice, households may still take time to adjust
           to low flow temperatures. If discussin this in person boiler engineers
           should point households to other trusted sources.
-      - title: Use lego
-        description: Because it's cool
   - name: Vulnerable Users
     considerations:
       - title: Check clinical vulnerability
