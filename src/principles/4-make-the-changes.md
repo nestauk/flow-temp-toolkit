@@ -1,5 +1,5 @@
 ---
-title: 4. Make the changes
+title: 4. Make the change
 tagline: Households asked for clear, concise and relevant information in order
   to reduce the risk or making mistakes and to ensure that reducing the flow
   temperature is as straightforward as possible.
