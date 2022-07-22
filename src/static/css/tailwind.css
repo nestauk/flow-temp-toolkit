@@ -54,3 +54,11 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+.offset:before {
+  display: block;
+  content: " ";
+  height: 96px;
+  margin-top: -96px;
+  visibility: hidden;
+}

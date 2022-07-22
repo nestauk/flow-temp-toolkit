@@ -1,65 +1,110 @@
 ---
 layout: default
+sticky: true
 ---
 
 <main>
-  <section class="bg-gray-100 py-16 mb-16">
-    <div
-      class="container max-w-screen-xl mx-auto px-4 flex gap-4 md:gap-14 items-center"
-    >
-      <div>
-        <p class="text-2xl font-bold text-blue-400 mb-2">Principles</p>
-        <h1 class="text-5xl font-bold mb-6">{{ title }}</h1>
-        <p class="text-2xl">{{ tagline }}</p>
-      </div>
-      <img src="{{ icon }}" alt="{{ alt }}" class="h-32 md:h-40" />
+  <div class="container max-w-screen-xl mx-auto px-4 md:flex gap-4">
+    <div class="md:w-96 md:sticky md:top-24 h-min">
+      <nav>
+        <ul>
+          <li class="mb-4">
+            <a href="#about">About this principle</a>
+          </li>
+          <li class="mb-4">
+            <a href="#user-considerations">User considerations</a>
+          </li>
+          <li class="mb-4">
+            <a href="#design-patterns">Design patterns</a>
+          </li>
+        </ul>
+      </nav>
     </div>
-  </section>
+    <div>
+      <section class="bg-gray-100 py-16 mb-16">
+        <div
+          class="container max-w-screen-xl mx-auto px-4 flex gap-4 md:gap-14 items-center"
+        >
+          <div>
+            <p class="text-2xl font-bold text-blue-400 mb-2">Principles</p>
+            <h1 class="text-5xl font-bold mb-6">{{ title }}</h1>
+            <p class="text-2xl">{{ tagline }}</p>
+          </div>
+          <img src="{{ icon }}" alt="{{ alt }}" class="h-32 md:h-40" />
+        </div>
+      </section>
 
-  <section class="markdown markdown-table max-w-screen-lg mx-auto px-4 mb-16">
-    {{ content | safe }}
-  </section>
+      <section
+        id="about"
+        class="offset markdown max-w-screen-lg mx-auto px-4 mb-16"
+      >
+        {{ content | safe }}
+      </section>
 
-  <section class="max-w-screen-lg mx-auto px-4 mb-16">
-    <h2 class="text-2xl font-bold border-b border-black mb-10">
-      User Considerations
-    </h2>
+      <section
+        id="user-considerations"
+        class="offset max-w-screen-lg mx-auto px-4 mb-16"
+      >
+        <h2 class="text-2xl font-bold border-b border-black mb-10">
+          Considerations for different users
+        </h2>
 
-    {% for u in users %}
-    <div class="md:flex items-center mb-5">
-      <div class="md:w-1/3 text-center">
-        <img src="{{ u.icon }}" alt="{{ u.alt }}" class="h-20 mx-auto mb-3" />
-        <h3 class="text-xl font-bold">{{ u.name }}</h3>
-      </div>
-      <div class="md:w-2/3">
-        {% for c in u.considerations %}
-        <div class="bg-gray-100 p-5 my-5">
-          <h3 class="text-xl font-bold mb-3">{{ c.title }}</h3>
-          <p class="text-lg">{{ c.description }}</p>
+        {% for u in users %}
+        <div class="md:flex items-center mb-5">
+          <div class="md:w-1/3 text-center">
+            <img
+              src="{{ u.icon }}"
+              alt="{{ u.alt }}"
+              class="h-20 mx-auto mb-3"
+            />
+            <h3 class="text-xl font-bold">{{ u.name }}</h3>
+          </div>
+          <div class="md:w-2/3">
+            {% for c in u.considerations %}
+            <div class="bg-gray-100 p-5 my-5">
+              <h3 class="text-xl font-bold mb-3">{{ c.title }}</h3>
+              <p class="text-lg">{{ c.description }}</p>
+            </div>
+            {% endfor %}
+          </div>
         </div>
         {% endfor %}
-      </div>
-    </div>
-    {% endfor %}
-  </section>
+      </section>
 
-  <section class="container max-w-screen-xl mx-auto px-4 mb-16">
-    <h2 class="text-2xl font-bold mb-2">Design patterns for this principle</h2>
-    <p class="text-xl mb-10">Tested components to reuse in your services</p>
-
-    <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-6">
-      {% for p in patterns %}
-      <a
-        href="/patterns/{{ p.slug }}"
-        class="bg-blue-100 hover:bg-blue-200 p-5 rounded-md"
+      <section
+        id="design-patterns"
+        class="offset container max-w-screen-xl mx-auto px-4 mb-16"
       >
-        <img src="{{ p.icon}}" alt="{{ p.alt }}" class="h-32 mx-auto mb-4" />
-        <h2 class="text-xl font-bold mb-3">{{ p.title }}</h2>
-        <p>{{ p.description }}</p>
-      </a>
-      {% endfor %}
-    </div>
-  </section>
+        <h2 class="text-2xl font-bold mb-2">
+          Design patterns for this principle
+        </h2>
+        <p class="text-xl mb-10">Tested components to reuse in your services</p>
 
-  {% include "./partials/banner.html" %}
+        <div class="grid lg:grid-cols-2 md:grid-cols-2 gap-6">
+          {% for p in patterns %}
+          <a
+            href="/patterns/{{ p.slug }}"
+            class="bg-blue-100 hover:bg-blue-200 p-5 rounded-md"
+          >
+            <img
+              src="{{ p.icon}}"
+              alt="{{ p.alt }}"
+              class="h-32 mx-auto mb-4"
+            />
+            <h2 class="text-xl font-bold mb-3">{{ p.title }}</h2>
+            <p>{{ p.description }}</p>
+          </a>
+          {% endfor %}
+        </div>
+
+        <nav class="mt-14 flex justify-between">
+          {% if previous %}
+          <a href="/principles/{{ previous }}">Previous principle</a>
+          {% endif %} {% if next %}
+          <a href="/principles/{{ next }}">Next principle</a>
+          {% endif %}
+        </nav>
+      </section>
+    </div>
+  </div>
 </main>
