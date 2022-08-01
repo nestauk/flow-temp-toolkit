@@ -4,6 +4,15 @@ tagline: Check that this advice is relevant and safe for your users.
 icon: /static/files/check-eligibility-noun-checking-5002777.svg
 previous: 1-introducing-the-concept
 next: 4-make-the-changes
+patterns:
+  - title: Check the user's heating system is suitable
+    description: >
+      This guide focuses on gas condensing combination boilers, it’s important
+      that clear questions are asked of households so that they are confident in
+      identifying the type of boiler they have.
+    slug: check-the-users-heating-system-is-suitable
+    icon: /static/files/check-eligibility-noun-checking-5002777.svg
+    alt: checklist
 ---
 ## What is it?
 
