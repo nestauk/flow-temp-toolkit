@@ -4,6 +4,21 @@ tagline: Check that this advice is relevant and safe for your users.
 icon: /static/files/check-eligibility-noun-checking-5002777.svg
 previous: 1-introducing-the-concept
 next: 4-make-the-changes
+users:
+  - name: Vulnerable Users
+    considerations:
+      - title: "Vulnerable Users: Check for vulnerability"
+        description: >2
+           If a household has certain health or wellbeing requirements this guidance may not be suitable for them. 
+
+          - If there is a demand for high temperatures in the home this guidance may not be suitable, judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could provide the required heat. 
+
+
+          - Those with dexterity issues may struggle to change settings on the boiler. 
+
+
+          - Those rationing energy may ration lower flow temperature heating ina similar way, this may be counterproductive and reduce the level of comfort further.
+    icon: /static/files/check-eligibility-noun-checking-5002777.svg
 patterns:
   - title: Check the user's heating system is suitable
     description: >
