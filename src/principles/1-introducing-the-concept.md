@@ -1,8 +1,10 @@
 ---
-title: "1. Introducing the concept "
+title: 1. Introduce the concept
 tagline: "Explain the reason why changing flow temperature is important, and the
   science behind it. "
 icon: /static/files/introduce-noun-introduce-3859941.svg
+previous: 1-introducing-the-concept
+next: 2-check-eligibility
 users:
   - name: Engineers
     icon: /static/files/engineers-noun-spanner-1360673.svg
