@@ -60,12 +60,18 @@ patterns:
 ---
 ## What is it?
 
-There are a number of things to introduce to end-users, these should be tailored to the audience. This pattern focuses on introducing the technical reasoning behind lowering flow temperature, and explaining the possible financial and environmental benefits. And also reassures that comfort won’t be affected.
+Users will often not be familiar with the concept of flow temperature, but by understanding some basics they will be more likely to proceed. When offering advice you should start by;
+
+* concisely explaining the technical reason for lowering the flow temperature
+* explaining the financial and environmental benefits
+* reassuring users that their comfort will not be affected
+
+You may wish to emphasise these differently depending on the audience. Suggestions for different messaging for different user groups can be found below.
+
+
 
 ## Why do it?
 
-Homeowners are often confused about how to heat their homes. Any new information needs to be presented in a manner that builds trust, being transparent about the reasons to make this change to their boiler helps to build this confidence.
+Our work has found that households often receive conflicting advice on the best way to heat their home, and lack the confidence to make changes themselves. The advice to lower boiler temperature can often seem counterintuitive as so we need to explain early on that it will not lead to lower home temperatures overall.
 
-Some of the guidance given could seem counterintuitive and technical to some. Introducing the concept and the reasoning behind it helps to reassure that the change is easy to make and possible by anyone. Building this confidence early on whilst introducing the concept builds knowledge to change wider heating habits later in the process. This will ultimately help to ensure that comfort isn’t affected.
-
-By being clear and concise in introducing the concept early on, the advice should have long-term benefits and the changes a greater chance of success.
+By being transparent about the reasons behind this action we can build more confidence in making the change. Doing this early on in the process also builds users’ confidence in changing wider heating habits. This will ultimately help to ensure that comfort isn’t affected as a result of lowering flow temperatures.
