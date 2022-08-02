@@ -31,8 +31,18 @@ patterns:
 ---
 ## What is it?
 
-Checks to ensure that this advice is relevant and safe to provide to people. This advice is only relevant for homes with a condensing combi boiler, that don’t have a hot water tank. You may also want to check for any vulnerability that may cause this advice to not be suitable. Our steps ensure that only suitable households are presented with advice.
+In order to be confident that this advice is suitable and safe for a particular house, there needs to be confidence in the elements that make up the heating system. There are three main parts to this step;
+
+* check that the house has a gas condensing combi boiler
+* check that there is no hot water tank
+* assess any vulnerabilities within the household
+
+Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate.
 
 ### Why do it?
 
-Households can be uncertain about the different components of their heating system, it is important to guide them through identifying their eligibility in order to ensure that the guidance results in savings and to remove any risk or dangers associated with legionnaires disease in hot water tanks. Vulnerable households should also be considered in screening, in order to only present this guidance to homes that are able to safely adapt to slightly longer heat up times.
+Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible removes this frustration and those users that do go through these questions are also given confidence that this advice is relevant.
+
+There is established best practice around the storage and supply of hot water to taps and outlets in the home, this is to reduce the risk of legionnaires disease. By ensuring that this advice is only given to homes with a condensing combi boiler and no hot water tank we are reducing the risk of user error resulting in this best practice not being followed.
+
+There is also extra guidance provided on checks you may want to consider if you are working with vulnerable users.
