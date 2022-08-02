@@ -1,6 +1,6 @@
 ---
 title: 2. Check eligibility
-tagline: Check that this advice is relevant and safe for your users.
+tagline: Ensure that this advice is relevant and safe for your users.
 icon: /static/files/check-eligibility-noun-checking-5002777.svg
 previous: 1-introducing-the-concept
 next: 4-make-the-changes
