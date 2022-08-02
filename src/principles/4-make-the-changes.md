@@ -1,11 +1,9 @@
 ---
 title: 3. Make the change
-tagline: Households asked for clear, concise and relevant information in order
-  to reduce the risk or making mistakes and to ensure that reducing the flow
-  temperature is as straightforward as possible.
+tagline: Give clear, concise and relevant information on how to change flow temperature.
 icon: /static/files/make-the-change-noun-dial-740644.svg
 previous: 2-check-eligibility
-next: 4-make-the-changes
+next: 5-give-wider-guidance
 patterns:
   - slug: define-the-type-of-boiler-controls
     title: Define the type of boiler controls
