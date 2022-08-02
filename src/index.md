@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Help your users turn down their boiler
-tagline: Tested principles, service patterns and resources to help your users
-  lower their combi boilers flow temperatures, save money and reduce their
-  carbon emissions.
+tagline: Tested principles, guidance and resources to help your users lower
+  their combi boilers flow temperatures, save money and reduce their carbon
+  emissions.
 shortcuts:
   - title: I want help to build my own services and advice
     description: Principles and tested service patterns for organisations that offer
