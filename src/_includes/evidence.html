@@ -12,8 +12,10 @@ layout: default
     {{ content | safe }}
   </section>
 
-  <section class="max-w-screen-xl mx-auto px-4 my-4">
-    <!-- <div class="grid lg:grid-rows-3 md:grid-rows-2 gap-6 mb-14"> -->
+  <section class="max-w-screen-lg mx-auto px-4 my-4">
+    <h2 class="text-2xl font-bold border-b border-gray-300 pb-2 mb-10">
+      Case studies
+    </h2>
     {% for e in collections.examples %}
 
     <div class="sm:flex gap-6 mb-6">
@@ -29,7 +31,6 @@ layout: default
     </div>
 
     {% endfor %}
-    <!-- </div> -->
   </section>
 
   {% include "./partials/banner.html" %}
