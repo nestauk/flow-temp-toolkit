@@ -62,3 +62,41 @@ body pre[class*="language-"] {
   margin-top: -96px;
   visibility: hidden;
 }
+
+.list-counter {
+  list-style: none;
+  counter-reset: list-number;
+}
+.list-counter li {
+  counter-increment: list-number;
+  position: relative;
+}
+.list-counter li::after {
+  content: counter(list-number);
+  border: 2px solid #898989;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  position: absolute;
+  top: calc(50% - 28px);
+  left: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.5rem;
+  background: #fff;
+}
+
+.list-counter li:before {
+  position: absolute;
+  left: 28px;
+  top: calc(50% + 28px);
+  content: "";
+  height: 100%;
+  width: 0;
+  border-left: 1px solid #c1c1c1;
+}
+.list-counter li:last-of-type:before {
+  border: none;
+}

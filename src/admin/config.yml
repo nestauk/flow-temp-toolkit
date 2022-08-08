@@ -38,6 +38,15 @@ collections:
               - { label: Alt, name: alt, widget: string }
               - { label: URL, name: url, widget: string }
 
+      - label: "Principles"
+        name: "evidence"
+        file: "src/principle.md"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+
       - label: "Evidence"
         name: "evidence"
         file: "src/evidence.md"
