@@ -128,6 +128,19 @@ collections:
               widget: text,
               hint: "Tip: Paste or write raw HTML to format this text.",
             }
+          - label: Assets
+            name: assets
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: File, name: file, widget: file }
+              - {
+                  label: Thumbnail,
+                  name: thumnail,
+                  widget: image,
+                  required: false,
+                }
+              - { label: Alt text, name: alt, widget: string, required: false }
       - label: Users
         name: users
         widget: list

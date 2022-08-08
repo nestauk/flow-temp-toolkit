@@ -20,6 +20,11 @@ patterns:
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
     alt: Image alt text
+    assets:
+      - title: Key information document
+        alt: Alt
+        file: /static/files/walkthrough_img.png
+        image: /static/files/icon.svg
   - title: "Explain what flow temperature is "
     description:
       Boiler flow temeprature isn’t widely understood, outline what it is

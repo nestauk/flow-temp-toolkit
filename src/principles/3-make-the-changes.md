@@ -10,26 +10,82 @@ patterns:
     description: Check what type of controls the households boiler has
     icon: /static/files/icon.svg
     alt: alt
+    assets:
+      - title: Button only boiler illustration
+        image: /static/files/boiler-optimisation-buttons-only-illustration.png
+        alt: Illustration of a typical boiler control pattern consisting of only buttons
+        file: /static/files/boiler-optimisation-buttons-only-illustration.png
+      - title: Single dial boiler illustration
+        image: /static/files/boiler-optimisation-single-dial-illustration.png
+        alt: Illustration of a boiler control panel consisting of a single dial control
+        file: /static/files/boiler-optimisation-single-dial-illustration.png
+      - title: Multiple dial boiler illustration
+        image: /static/files/boiler-optimisation-multiple-dials-illustration.png
+        alt: Illustration of a boiler control panel with multiple dial controls
+        file: /static/files/boiler-optimisation-multiple-dials-illustration.png
   - title: Give advice specific to boiler type - Multiple dial boiler
     description: Give advice specific to boiler type - Multiple dial boiler
     alt: alt
     icon: /static/files/icon.svg
     slug: give-advice-specific-to-boiler-type-multiple-dial-boiler
+    assets:
+      - title: Radiator symbol illustration
+        alt: Illustration of boiler radiator symbols
+        image: /static/files/boiler-optimisation-boiler-symbol.png
+        file: /static/files/boiler-optimisation-boiler-symbol.png
+      - title: Flow temperature dial suggested position
+        image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+        alt:
+          An illustration showing a dial with a highlighted section in green that
+          users should look to turn their dial to
+        file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
   - title: Give advice specific to boiler type - Single dial boiler
     description: Give advice specific to boiler type - Single dial boiler
     icon: /static/files/icon.svg
     alt: alt
     slug: give-advice-specific-to-boiler-type-single-dial-boiler
+    assets:
+      - title: Radiator symbol illustration
+        image: /static/files/boiler-optimisation-boiler-symbol.png
+        file: /static/files/boiler-optimisation-boiler-symbol.png
+        alt: Illustration of boiler radiator symbols
+      - title: Flow temperature dial suggested position
+        image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+        file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+        alt:
+          An illustration showing a dial with a highlighted section in green that
+          users should look to turn their dial to
   - title: Give advice specific to boiler type - Button-based boiler
     description: Give advice specific to boiler type - Button-based boiler
     icon: /static/files/icon.svg
     alt: alt
     slug: give-advice-specific-to-boiler-type-button-based-boiler
+    assets:
+      - title: Radiator symbol illustration
+        image: /static/files/boiler-optimisation-boiler-symbol.png
+        file: /static/files/boiler-optimisation-boiler-symbol.png
+        alt: Illustration of boiler radiator symbols
+      - title: Highlighted flow temperature buttons
+        image: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
+        alt: An illustration of boiler controls with the flow temperature button
+          highlighted in green.
+        file: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
+      - title: Highlighted flow temperature change buttons
+        image: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
+        alt: An illustration of buttons that are used to raise flow temperature
+        file: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
   - title: Give an idea of possible changes and build confidence
     description: Give an idea of possible changes and build confidence
     icon: /static/files/icon.svg
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
+    assets:
+      - image: /static/files/icon.svg
+        file: /static/files/flow-temperature-reduction-advice-on-what-to-expect-.pdf
+        alt:
+          A pdf explaining some of the changes to expect to heating systems running
+          lower flow temperatures
+        title: Flow temperatures - what to expect pdf
 ---
 
 # What is it?
