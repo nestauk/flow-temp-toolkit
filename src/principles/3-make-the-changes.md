@@ -3,7 +3,7 @@ title: 3. Make the change
 tagline: Give clear, concise and relevant information on how to change flow temperature.
 icon: /static/files/make-the-change-noun-dial-740644.svg
 previous: 2-check-eligibility
-next: 5-give-wider-guidance
+next: 4-give-wider-guidance
 patterns:
   - slug: define-the-type-of-boiler-controls
     title: Define the type of boiler controls
@@ -31,16 +31,15 @@ patterns:
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
 ---
+
 # What is it?
 
-Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important; 
+Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important;
 
-* Understand what boiler controls users have
-* Give confidence in finding the right controls
-* Provide clear guidance on what to change
-* Re-assure users that changes to their heating are to be expected.
-
-
+- Understand what boiler controls users have
+- Give confidence in finding the right controls
+- Provide clear guidance on what to change
+- Re-assure users that changes to their heating are to be expected.
 
 # Why do it ?
 

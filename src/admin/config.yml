@@ -35,11 +35,16 @@ collections:
             widget: list
             fields:
               - { label: Image, name: image, widget: image }
-              - { label: Alt, name: alt, widget: string }
+              - {
+                  label: Alt,
+                  name: alt,
+                  widget: string,
+                  hint: Briefly bescribe the image.,
+                }
               - { label: URL, name: url, widget: string }
 
       - label: "Principles"
-        name: "evidence"
+        name: "principles"
         file: "src/principle.md"
         editor:
           preview: false
@@ -78,7 +83,12 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Walkthrough image, name: img, widget: image }
-          - { label: Walkthrough alt text, name: alt, widget: string }
+          - {
+              label: Walkthrough alt text,
+              name: alt,
+              widget: string,
+              hint: Briefly bescribe the image.,
+            }
 
   - label: "Principles"
     name: "principles"
@@ -98,6 +108,7 @@ collections:
         search_fields: ["title", "{{slug}}"]
         value_field: "{{slug}}"
         display_fields: ["{{slug}}"]
+        required: false
       - label: "Next principle"
         name: "next"
         widget: "relation"
@@ -105,54 +116,37 @@ collections:
         search_fields: ["title", "{{slug}}"]
         value_field: "{{slug}}"
         display_fields: ["{{slug}}"]
-      - label: "Users"
-        name: "users"
-        widget: "list"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Icon, name: icon, widget: image }
-          - label: Consideration
-            name: considerations
-            widget: list
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: "Description", name: "description", widget: "text" }
+        required: false
       - label: "Patterns"
         name: "patterns"
         widget: "list"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Icon", name: "icon", widget: "image" }
-          - { label: "Alt text", name: "alt", widget: "string" }
-          - label: "Pattern Page ID"
-            name: "slug"
-            widget: "relation"
-            collection: "patterns"
-            search_fields: ["title", "{{slug}}"]
-            value_field: "{{slug}}"
-            display_fields: ["{{slug}}"]
-
-  - label: "Patterns"
-    name: "patterns"
-    folder: "src/patterns"
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Tagline", name: "tagline", widget: "string" }
-      - { label: "Icon", name: "icon", widget: "image" }
-      - { label: "Alt text", name: "alt", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - label: Assets
-        name: assets
+          - { label: Title, name: title, widget: string }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              hint: "Tip: Paste or write raw HTML to format this text.",
+            }
+      - label: Users
+        name: users
         widget: list
         fields:
-          - { label: Title, name: title, widget: string }
-          - { label: "Image", name: "image", widget: "image" }
-          - { label: "Alt text", name: "alt", widget: "string" }
-          - { label: "File", name: "file", widget: "file" }
+          - { label: Name, name: name, widget: string }
+          - { label: Heading, name: heading, widget: string, required: false }
+          - {
+              label: Details,
+              name: details,
+              widget: text,
+              hint: "Tip: Paste or write raw HTML to format this text.",
+            }
+          - { label: Icon, name: icon, widget: image }
+          - {
+              label: Alt text,
+              name: alt,
+              widget: string,
+              hint: Briefly bescribe the icon.,
+            }
 
   - label: "Examples"
     name: "examples"
@@ -165,4 +159,9 @@ collections:
       - { label: Description, name: description, widget: text }
       - { label: Body, name: body, widget: markdown }
       - { label: Image, name: image, widget: image }
-      - { label: Alt text, name: alt, widget: string }
+      - {
+          label: Alt text,
+          name: alt,
+          widget: string,
+          hint: Briefly bescribe the image.,
+        }

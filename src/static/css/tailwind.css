@@ -26,10 +26,12 @@
 .markdown p {
   @apply text-lg;
 }
-.markdown li {
+.markdown li,
+.raw li {
   @apply list-disc ml-4 mb-2;
 }
-.markdown a {
+.markdown a,
+.raw a {
   @apply underline hover:no-underline text-blue-700;
 }
 .markdown blockquote {
@@ -99,4 +101,14 @@ body pre[class*="language-"] {
 }
 .list-counter li:last-of-type:before {
   border: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .nav-sidebar {
+    height: calc(100vh - 155px);
+  }
 }

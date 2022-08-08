@@ -4,107 +4,147 @@ sticky: true
 ---
 
 <main>
-  <div class="container max-w-screen-xl mx-auto px-4 md:flex gap-4">
-    <div class="md:w-96 md:sticky md:top-24 h-min">
-      <nav>
+  <div class="container max-w-screen-xl mx-auto px-4 md:flex gap-6">
+    <div class="md:w-96 md:sticky md:top-20 h-min">
+      <nav class="text-gray-800 md:border-r border-gray-100 nav-sidebar">
+        <p class="mb-4"><strong>Contents</strong></p>
         <ul>
           <li class="mb-4">
-            <a href="#about">About this principle</a>
+            <a href="#about" class="link">About this principle</a>
           </li>
           <li class="mb-4">
-            <a href="#user-considerations">User considerations</a>
+            <a href="#design-patterns" class="link">How to implement it</a>
           </li>
           <li class="mb-4">
-            <a href="#design-patterns">Design patterns</a>
+            <a href="#user-considerations" class="link">User considerations</a>
           </li>
         </ul>
       </nav>
     </div>
-    <div>
-      <section class="bg-gray-100 py-16 mb-16">
+    <div class="w-full">
+      <section class="bg-gray-100 py-10 mb-14 rounded-lg">
         <div
-          class="container max-w-screen-xl mx-auto px-4 flex gap-4 md:gap-14 items-center"
+          class="container max-w-screen-xl mx-auto px-8 flex gap-4 md:gap-6 items-center"
         >
+          <img
+            src="{{ icon }}"
+            alt="{{ alt }}"
+            class="w-16 md:w-32 h-16 md:h-32"
+          />
           <div>
-            <p class="text-2xl font-bold text-blue-400 mb-2">Principles</p>
-            <h1 class="text-5xl font-bold mb-6">{{ title }}</h1>
-            <p class="text-2xl">{{ tagline }}</p>
+            <h1 class="text-5xl font-bold">{{ title }}</h1>
           </div>
-          <img src="{{ icon }}" alt="{{ alt }}" class="h-32 md:h-40" />
         </div>
       </section>
 
       <section
         id="about"
-        class="offset markdown max-w-screen-lg mx-auto px-4 mb-16"
+        class="max-w-prose offset markdown mx-auto px-4 mb-14"
       >
         {{ content | safe }}
       </section>
 
+      {% if patterns %}
+      <section
+        id="design-patterns"
+        class="offset container max-w-prose mx-auto px-4 mb-16"
+      >
+        <h2 class="text-2xl font-bold mb-2">How to do it</h2>
+        <p class="text-xl mb-10">
+          Key points and assets to help build your service.
+        </p>
+
+        <ul>
+          {% for p in patterns %}
+          <li class="bg-indigo-100 rounded-xl p-5 mb-10">
+            <h2 class="text-xl font-bold mb-3">{{ p.title }}</h2>
+            <details>
+              <summary>Show details</summary>
+              <p class="raw mt-3">{{ p.description | safe }}</p>
+            </details>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %} {% if users %}
       <section
         id="user-considerations"
-        class="offset max-w-screen-lg mx-auto px-4 mb-16"
+        class="offset max-w-prose mx-auto px-4 mb-16"
       >
-        <h2 class="text-2xl font-bold border-b border-black mb-10">
+        <h2 class="text-2xl font-bold border-b border-gray-300 pb-2 mb-10">
           Considerations for different users
         </h2>
 
         {% for u in users %}
-        <div class="md:flex items-center mb-5">
-          <div class="md:w-1/3 text-center">
+        <div class="bg-gray-100 p-5 my-5 rounded-lg">
+          <div class="flex items-center">
             <img
               src="{{ u.icon }}"
               alt="{{ u.alt }}"
-              class="h-20 mx-auto mb-3"
+              class="h-14 md:h-20 w-14 md:w-20 ml-4 mr-8"
             />
-            <h3 class="text-xl font-bold">{{ u.name }}</h3>
-          </div>
-          <div class="md:w-2/3">
-            {% for c in u.considerations %}
-            <div class="bg-gray-100 p-5 my-5">
-              <h3 class="text-xl font-bold mb-3">{{ c.title }}</h3>
-              <p class="text-lg">{{ c.description }}</p>
+            <div>
+              <h3 class="text-xl font-bold mb-4">{{ u.name }}</h3>
+              <h3 class="text-lg font-bold mb-2">{{ u.heading }}</h3>
+              <div class="raw">{{ u.details | safe }}</div>
             </div>
-            {% endfor %}
           </div>
         </div>
         {% endfor %}
       </section>
+      {% endif %}
 
-      <section
-        id="design-patterns"
-        class="offset container max-w-screen-xl mx-auto px-4 mb-16"
-      >
-        <h2 class="text-2xl font-bold mb-2">
-          Design patterns for this principle
-        </h2>
-        <p class="text-xl mb-10">Tested components to reuse in your services</p>
+      <hr class="mt-10" />
 
-        <div class="grid lg:grid-cols-2 md:grid-cols-2 gap-6">
-          {% for p in patterns %}
-          <a
-            href="/patterns/{{ p.slug }}"
-            class="bg-blue-100 hover:bg-blue-200 p-5 rounded-md"
-          >
-            <img
-              src="{{ p.icon}}"
-              alt="{{ p.alt }}"
-              class="h-32 mx-auto mb-4"
-            />
-            <h2 class="text-xl font-bold mb-3">{{ p.title }}</h2>
-            <p>{{ p.description }}</p>
-          </a>
-          {% endfor %}
-        </div>
-
-        <nav class="mt-14 flex justify-between">
-          {% if previous %}
-          <a href="/principles/{{ previous }}">Previous principle</a>
-          {% endif %} {% if next %}
-          <a href="/principles/{{ next }}">Next principle</a>
-          {% endif %}
-        </nav>
-      </section>
+      <nav class="mt-4 mb-16 flex justify-between">
+        {% if previous %}
+        <a href="/principles/{{ previous }}" class="link">
+          <div class="flex">
+            <svg
+              width="24"
+              height="24"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M18.5 12H6M6 12L12 6M6 12L12 18"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            Previous principle
+          </div>
+        </a>
+        {% else %}
+        <div></div>
+        {% endif %} {% if next %}
+        <a href="/principles/{{ next }}" class="link">
+          <div class="flex">
+            Next principle
+            <svg
+              width="24"
+              height="24"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6 12H18.5M18.5 12L12.5 6M18.5 12L12.5 18"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+        </a>
+        {% else %}
+        <div></div>
+        {% endif %}
+      </nav>
     </div>
   </div>
 </main>

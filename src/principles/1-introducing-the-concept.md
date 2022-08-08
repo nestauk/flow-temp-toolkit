@@ -3,30 +3,26 @@ title: 1. Introduce the concept
 tagline: "Explain the reason why changing flow temperature is important, and the
   science behind it. "
 icon: /static/files/introduce-noun-introduce-3859941.svg
-previous: 1-introducing-the-concept
 next: 2-check-eligibility
 users:
   - name: Engineers
     icon: /static/files/engineers-noun-spanner-1360673.svg
-    considerations:
-      - title: Provide assets to reassure customers
-        description: Boiler engineers are a trusted voice, they are a powerful way of
-          distributing this advice. They should feeel confident in talking to
-          cutsomers about reducing flow temperatures.
-      - title: Direct to trusted voices
-        description: Although a trusted voice, households may still take time to adjust
-          to low flow temperatures. If discussin this in person boiler engineers
-          should point households to other trusted sources.
+    details: Boiler engineers are a trusted voice, they are a powerful way of
+      distributing this advice. They should feel confident in talking to low
+      flow temperatures. If discussin this in person boiler engineers
+      should point households to other trusted sources.
 patterns:
   - title: Explain why boilers arent running efficiently
-    description: A common misconception is that combination boilers are already very
+    description:
+      A common misconception is that combination boilers are already very
       efficient, and that there is nothing a household can do to improve this.
       It’s important to exaplain why this may not be true.
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
     alt: Image alt text
   - title: "Explain what flow temperature is "
-    description: Boiler flow temeprature isn’t widely understood, outline what it is
+    description:
+      Boiler flow temeprature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
@@ -40,35 +36,37 @@ patterns:
     slug: show-the-potential-savings
     alt: Image alt text
   - title: It won’t affect comfort
-    description: Boiler flow temeprature isn’t widely understood, outline what it is
+    description:
+      Boiler flow temeprature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
     alt: Image alt text
   - title: It’s simple, quick and low risk
-    description: Boiler flow temeprature isn’t widely understood, outline what it is
+    description:
+      Boiler flow temeprature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: a-quick-and-easy-change
     alt: Image alt text
   - title: Provide an FAQ
-    description: A selection of the most commonly asked questions so that you can
+    description:
+      A selection of the most commonly asked questions so that you can
       include a concise FAQ.
     icon: /static/files/icon.svg
     slug: provide-an-faq
     alt: Image alt text
 ---
+
 ## What is it?
 
 Users will often not be familiar with the concept of flow temperature, but by understanding some basics they will be more likely to proceed. When offering advice you should start by;
 
-* concisely explaining the technical reason for lowering the flow temperature
-* explaining the financial and environmental benefits
-* reassuring users that their comfort will not be affected
+- concisely explaining the technical reason for lowering the flow temperature
+- explaining the financial and environmental benefits
+- reassuring users that their comfort will not be affected
 
 You may wish to emphasise these differently depending on the audience. Suggestions for different messaging for different user groups can be found below.
-
-
 
 ## Why do it?
 
