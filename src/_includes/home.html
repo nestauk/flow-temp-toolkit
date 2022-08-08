@@ -3,39 +3,45 @@ layout: default
 ---
 
 <main>
-  <section class="max-w-screen-xl mx-auto px-4 mb-16">
-    <h1 class="text-5xl font-bold mt-20 mb-6">{{ title }}</h1>
-    <p class="text-2xl mb-14">{{ tagline }}</p>
+  <section class="max-w-screen-lg mx-auto px-4 mb-12">
+    <h1 class="text-5xl font-bold mt-16 mb-6">{{ title }}</h1>
+    <p class="text-2xl">{{ tagline }}</p>
   </section>
 
-  <section class="markdown max-w-screen-xl mx-auto px-4 mb-16">
+  <section class="markdown max-w-screen-md mx-auto px-4 mb-10">
     {{ content | safe }}
   </section>
 
-  <section class="max-w-screen-xl mx-auto px-4 mb-16">
-    <div class="grid lg:grid-cols-2 gap-6 mb-14">
+  <section class="max-w-screen-md mx-auto px-4 mb-16">
+    <h2 class="text-2xl font-bold border-b border-gray-300 pb-2 mb-6">
+      Get started
+    </h2>
+    <ul>
       {% for s in shortcuts %}
-      <a
-        href="{{ s.url }}"
-        class="bg-green-200 hover:bg-green-100 p-6 rounded-md"
-      >
-        <h2 class="text-2xl font-bold mb-3">{{ s.title }}</h2>
+      <li class="bg-green-20 rounded-md mb-5">
+        <a href="{{ s.url }}" class="link text-indigo-700"
+          ><h2 class="text-xl font-bold mb-1">{{ s.title }} &rsaquo;</h2>
+        </a>
         <p>{{ s.description }}</p>
-      </a>
+      </li>
       {% endfor %}
-    </div>
+    </ul>
   </section>
 
   {% include "./partials/banner.html" %}
 
-  <section class="max-w-screen-xl mx-auto px-4 my-16">
+  <section class="max-w-screen-lg mx-auto px-4 my-16">
     <h2 class="text-2xl font-bold mb-6">
       Organisations supporting these principles
     </h2>
     <div class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 mb-14">
       {% for l in logos %}
       <a href="{{ l.url }}" target="_blank" rel="noopener noreferrer">
-        <img src="{{ l.image }}" alt="{{ l.alt }}" class="h-32 mx-auto" />
+        <img
+          src="{{ l.image }}"
+          alt="{{ l.alt }}"
+          class="w-20 md:w-32 h-20 md:h-32 mx-auto"
+        />
       </a>
       {% endfor %}
     </div>
