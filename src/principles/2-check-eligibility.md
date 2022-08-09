@@ -6,10 +6,21 @@ previous: 1-introducing-the-concept
 next: 3-make-the-changes
 patterns:
   - title: Check the user's heating system is suitable
-    description: >
+    description: >-
       This guide focuses on gas condensing combination boilers, it’s important
       that clear questions are asked of households so that they are confident in
       identifying the type of boiler they have.
+
+
+      Key points to communicate
+
+      - Check that users have a gas boiler.
+
+      - Check that there is no hot water tank.
+
+      - Give help and guidance on identifying what a water tank is, this could be a description or example image.
+
+      - OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)
     slug: check-the-users-heating-system-is-suitable
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
