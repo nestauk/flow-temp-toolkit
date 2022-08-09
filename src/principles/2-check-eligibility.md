@@ -7,9 +7,8 @@ next: 3-make-the-changes
 patterns:
   - title: Check the user's heating system is suitable
     description: >-
-      This guide focuses on gas condensing combination boilers, it’s important
-      that clear questions are asked of households so that they are confident in
-      identifying the type of boiler they have.
+      It’s important that clear questions are asked of households so that there
+      is confidence that the household has a gas condensing combi boiler.
 
       <br>
 
