@@ -14,16 +14,16 @@ patterns:
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
 users:
-  - name: Vulnerable Users
+  - name: Clinical Vulnerability
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
-    heading: Check for vulnerability
+    heading: Users who require a higher than average heating demand
     details: >
-      <ul>
-        <li>If a household has certain health or wellbeing requirements this guidance may not be suitable for them.</li>
-        <li>If there is a demand for high temperatures in the home this guidance may not be suitable, judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could provide the required heat.</li>
-        <li>Those with dexterity issues may struggle to change settings on the boiler.</li>
-        <li>Those rationing energy may ration lower flow temperature heating in a similar way, this may be counterproductive and reduce the level of comfort further.</li>
-      </ul>
+      If a member of a household requires higher than average indoor
+      temperatures caution should be when providing guidance around low flow
+      temperatures.
+
+
+      Judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could match the required heat demand.
     alt: checklist icon
   - name: Energy Rationers
     heading: Those who may be limiting their energy use
