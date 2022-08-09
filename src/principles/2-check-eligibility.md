@@ -13,6 +13,8 @@ patterns:
 
       <br>
 
+      <br>
+
       <b>Key points to communicate </b>
 
       <br>
