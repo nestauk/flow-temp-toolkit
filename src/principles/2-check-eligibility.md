@@ -15,7 +15,7 @@ patterns:
 
       <br>
 
-      <b>Key points to communicate </b>
+      <b>Key points to communicate </b><br>
 
       <br><ul>
 
