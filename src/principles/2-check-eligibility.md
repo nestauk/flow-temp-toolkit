@@ -4,17 +4,6 @@ tagline: Ensure that this advice is relevant and safe for your users.
 icon: /static/files/check-eligibility-noun-checking-5002777.svg
 previous: 1-introducing-the-concept
 next: 3-make-the-changes
-users:
-  - name: Vulnerable Users
-    icon: /static/files/check-eligibility-noun-checking-5002777.svg
-    heading: Check for vulnerability
-    details: >
-      <ul>
-        <li>If a household has certain health or wellbeing requirements this guidance may not be suitable for them.</li>
-        <li>If there is a demand for high temperatures in the home this guidance may not be suitable, judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could provide the required heat.</li>
-        <li>Those with dexterity issues may struggle to change settings on the boiler.</li>
-        <li>Those rationing energy may ration lower flow temperature heating ina similar way, this may be counterproductive and reduce the level of comfort further.</li>
-      </ul>
 patterns:
   - title: Check the user's heating system is suitable
     description: >
@@ -24,6 +13,30 @@ patterns:
     slug: check-the-users-heating-system-is-suitable
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
+users:
+  - name: Vulnerable Users
+    icon: /static/files/check-eligibility-noun-checking-5002777.svg
+    heading: Check for vulnerability
+    details: >
+      <ul>
+        <li>If a household has certain health or wellbeing requirements this guidance may not be suitable for them.</li>
+        <li>If there is a demand for high temperatures in the home this guidance may not be suitable, judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could provide the required heat.</li>
+        <li>Those with dexterity issues may struggle to change settings on the boiler.</li>
+        <li>Those rationing energy may ration lower flow temperature heating in a similar way, this may be counterproductive and reduce the level of comfort further.</li>
+      </ul>
+    alt: checklist icon
+  - name: Energy Rationers
+    heading: Those who may be limiting their energy use
+    details: >-
+      Caution should be given when presenting this advice to those that only use
+      their heating for short intensive periods. Those rationing energy may
+      ration lower flow temperature heating in a similar way, this may be
+      counterproductive and reduce the level of comfort further. 
+
+
+      A wider behaviour shift may be required to ensure they remain comfortable, this may not be a suitable ask of this user group.
+    icon: /static/files/check-eligibility-noun-checking-5002777.svg
+    alt: checklist icon
 ---
 
 ## What is it?
