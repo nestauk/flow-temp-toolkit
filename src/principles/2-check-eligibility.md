@@ -17,15 +17,15 @@ patterns:
 
       <b>Key points to communicate </b>
 
-      <br>
+      <br><ul>
 
-      - Check that users have a gas boiler.<br>
+      <li> Check that users have a gas boiler.</li>
 
-      - Check that there is no hot water tank.<br>
+      <li> Check that there is no hot water tank.</li>
 
-      - Give help and guidance on identifying what a water tank is, this could be a description or example image.<br>
+      <li> Give help and guidance on identifying what a water tank is, this could be a description or example image.</li>
 
-      - OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)<br>
+      <li> OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)</li>
     slug: check-the-users-heating-system-is-suitable
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
