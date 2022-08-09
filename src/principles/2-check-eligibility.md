@@ -11,6 +11,7 @@ patterns:
       that clear questions are asked of households so that they are confident in
       identifying the type of boiler they have.
 
+      <br>
 
       <b>Key points to communicate </b>
 
