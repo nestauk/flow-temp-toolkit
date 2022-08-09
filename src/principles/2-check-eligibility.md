@@ -12,15 +12,17 @@ patterns:
       identifying the type of boiler they have.
 
 
-      Key points to communicate
+      <B>Key points to communicate </B>
 
-      - Check that users have a gas boiler.
+      <BR>
 
-      - Check that there is no hot water tank.
+      - Check that users have a gas boiler.<BR>
 
-      - Give help and guidance on identifying what a water tank is, this could be a description or example image.
+      - Check that there is no hot water tank.<BR>
 
-      - OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)
+      - Give help and guidance on identifying what a water tank is, this could be a description or example image.<BR>
+
+      - OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)<BR>
     slug: check-the-users-heating-system-is-suitable
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
