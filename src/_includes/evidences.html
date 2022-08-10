@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<main>
+  <section class="bg-gray-100 py-20">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <h1 class="text-5xl font-bold mb-6">{{ title }}</h1>
+      <p class="text-2xl">{{ tagline }}</p>
+    </div>
+  </section>
+
+  <section class="max-w-screen-lg mx-auto px-4 my-14">
+    <div class="grid lg:grid-cols-2 md:grid-cols-2 gap-4 mb-14">
+      {% for e in collections.evidence %} {% if e.data.featured %}
+      <div class="bg-indigo-100 p-5 rounded-lg col-span-2">
+        <div class="flex items-center justify-between">
+          <div>
+            <h2 class="text-2xl font-bold mb-3">{{ e.data.title }}</h2>
+            <p class="text-lg">{{ e.data.description }}</p>
+            <div class="mt-5">
+              <a href="{{ e.url }}" class="link font-bold">Read more</a>
+            </div>
+          </div>
+          <img src="{{ e.data.image }}" alt="{{ e.data.alt }}" class="h-32" />
+        </div>
+      </div>
+      {% else %}
+      <div class="bg-gray-100 p-5 rounded-lg">
+        <h2 class="text-2xl font-bold mb-3">{{ e.data.title }}</h2>
+        <p class="text-lg">{{ e.data.description }}</p>
+        <div class="mt-5">
+          <a href="{{ e.url }}" class="link font-bold">Read more</a>
+        </div>
+      </div>
+      {% endif %} {% endfor %}
+    </div>
+  </section>
+
+  {% include "./partials/banner.html" %}
+</main>

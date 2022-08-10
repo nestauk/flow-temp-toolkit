@@ -60,7 +60,6 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Tagline, name: tagline, widget: string }
-          - { label: Body, name: body, widget: markdown }
 
       - label: "Walkthrough"
         name: "walkthrough"
@@ -167,16 +166,17 @@ collections:
               hint: Briefly bescribe the icon.,
             }
 
-  - label: "Examples"
-    name: "examples"
-    folder: "src/examples"
+  - label: "Evidence list"
+    name: "evidence"
+    folder: "src/evidence"
     create: true
     editor:
       preview: false
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Tagline, name: tagline, widget: string }
       - { label: Description, name: description, widget: text }
-      - { label: Body, name: body, widget: markdown }
+      - { label: Featured, name: featured, widget: boolean, required: false }
       - { label: Image, name: image, widget: image }
       - {
           label: Alt text,
@@ -184,3 +184,16 @@ collections:
           widget: string,
           hint: Briefly bescribe the image.,
         }
+      - { label: Logo, name: logo, widget: image }
+      - { label: Logo alt text, name: logo_alt, widget: string }
+      - { label: Overview, name: overview, widget: text }
+      - { label: Key takeaways, name: takeaways, widget: text }
+      - { label: Body, name: body, widget: markdown }
+      - label: Assets
+        name: assets
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: File, name: file, widget: file }
+          - { label: Thumbnail, name: thumnail, widget: image, required: false }
+          - { label: Alt text, name: alt, widget: string, required: false }
