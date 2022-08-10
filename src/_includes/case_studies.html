@@ -11,9 +11,9 @@ layout: default
   </section>
 
   <section class="max-w-screen-lg mx-auto px-4 my-14">
-    <div class="md:grid lg:grid-cols-2 md:grid-cols-2 gap-4 mb-14">
-      {% for e in collections.evidence %} {% if e.data.featured %}
-      <div class="bg-indigo-100 p-5 rounded-lg col-span-2 mb-4 md:mb-0">
+    <div class="grid lg:grid-cols-2 md:grid-cols-2 gap-4 mb-14">
+      {% for e in collections.case_studies %} {% if e.data.featured %}
+      <div class="bg-indigo-100 p-5 rounded-lg col-span-2">
         <div class="flex items-center justify-between">
           <div>
             <h2 class="text-2xl font-bold mb-3">{{ e.data.title }}</h2>
@@ -26,7 +26,7 @@ layout: default
         </div>
       </div>
       {% else %}
-      <div class="bg-gray-100 p-5 rounded-lg mb-4 md:mb-0">
+      <div class="bg-gray-100 p-5 rounded-lg">
         <h2 class="text-2xl font-bold mb-3">{{ e.data.title }}</h2>
         <p class="text-lg">{{ e.data.description }}</p>
         <div class="mt-5">

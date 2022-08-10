@@ -61,6 +61,15 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Tagline, name: tagline, widget: string }
 
+      - label: "Case studies"
+        name: "case_study"
+        file: "src/case_studies.md"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+
       - label: "Walkthrough"
         name: "walkthrough"
         file: "src/_data/walkthrough.yaml"
@@ -169,6 +178,38 @@ collections:
   - label: "Evidence list"
     name: "evidence"
     folder: "src/evidence"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Tagline, name: tagline, widget: string }
+      - { label: Description, name: description, widget: text }
+      - { label: Featured, name: featured, widget: boolean, required: false }
+      - { label: Image, name: image, widget: image }
+      - {
+          label: Alt text,
+          name: alt,
+          widget: string,
+          hint: Briefly bescribe the image.,
+        }
+      - { label: Logo, name: logo, widget: image }
+      - { label: Logo alt text, name: logo_alt, widget: string }
+      - { label: Overview, name: overview, widget: text }
+      - { label: Key takeaways, name: takeaways, widget: text }
+      - { label: Body, name: body, widget: markdown }
+      - label: Assets
+        name: assets
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: File, name: file, widget: file }
+          - { label: Thumbnail, name: thumnail, widget: image, required: false }
+          - { label: Alt text, name: alt, widget: string, required: false }
+
+  - label: "Case studies"
+    name: "case_studies"
+    folder: "src/case_studies"
     create: true
     editor:
       preview: false
