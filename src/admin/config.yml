@@ -128,6 +128,12 @@ collections:
               widget: text,
               hint: "Tip: Paste or write raw HTML to format this text.",
             }
+          - {
+              label: Body,
+              name: body,
+              widget: text,
+              hint: "Tip: Paste or write raw HTML to format this text.",
+            }
           - label: Assets
             name: assets
             widget: list

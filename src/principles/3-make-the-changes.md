@@ -8,6 +8,35 @@ patterns:
   - slug: define-the-type-of-boiler-controls
     title: Define the type of boiler controls
     description: Check what type of controls the households boiler has
+    body: >
+      <ul>
+        <li>
+          Ensure boiler controls are accessible and visible and open any covering
+          panel.
+        </li>
+        <li>
+          Define what kind of controls the boiler has, we’ve found that there are
+          three main types and offering these three options caters for the majority of
+          needs.
+          <ul>
+            <li>
+              Button-based boiler - a boiler with no dials on the control panel, only
+              buttons.
+            </li>
+            <li>
+              Single dial boiler - a boiler with a single dial, it may also have some
+              buttons.
+            </li>
+            <li>
+              Multiple dial boiler - a boiler with two dials, and maybe some buttons.
+            </li>
+          </ul>
+        </li>
+        <li>
+          If guidance is being given remotely ensure that the above options are
+          described and if possible illustrated to consumers.
+        </li>
+      </ul>
     icon: /static/files/icon.svg
     alt: alt
     assets:
@@ -25,6 +54,19 @@ patterns:
         file: /static/files/boiler-optimisation-multiple-dials-illustration.png
   - title: Give advice specific to boiler type - Multiple dial boiler
     description: Give advice specific to boiler type - Multiple dial boiler
+    body: >
+      <ul>
+        <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+        <li>Illustrate what the radiator symbol may look like. </li>
+        <li>Ensure users find the button that corresponds to the radiator symbol. </li>
+        <li>Select the radiator flow temperature. Press the button that has the radiator symbol on or near to it. The display should then change to show the current flow temperature. </li>
+        <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that the above instructions are understood.</li>
+        <li>Use buttons that signify a change of value to reduce the flow temperature they could be represented as directional arrows or plus and minus symbols.</li>
+        <li>Instruct to to 55°C or desired temperature.</li>
+        <li>Suggest that users may have to press the &#039;OK&#039; or radiator button again to confirm the change</li>
+        <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+        <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it&#039;s usually on the front of the boiler. It starts with &#039;GC&#039; followed by a 7 digit number.</li>
+      </ul>
     alt: alt
     icon: /static/files/icon.svg
     slug: give-advice-specific-to-boiler-type-multiple-dial-boiler
