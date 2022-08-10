@@ -209,7 +209,7 @@ collections:
 
   - label: "Case studies"
     name: "case_studies"
-    folder: "src/case-studies"
+    folder: "src/case_studies"
     create: true
     editor:
       preview: false
