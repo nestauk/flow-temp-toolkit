@@ -17,12 +17,16 @@ logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
 overview: An email campaign and online walkthrough to guide users through
   reducing flow temperatures
-takeaways: >
-  Users rated the walkthrough 4.8 out of 5 for ease of use.
+takeaways: >-
+  <ul>
 
-  80% of those who viewed the instructions stage of the tool reported changing their boiler settings.
+  <li>Users rated the walkthrough 4.8 out of 5 for ease of use.</li>
 
-  4 out of 5 people would recommend it to friends and family.
+  <li>80% of those who viewed the instructions stage of the tool reported changing their boiler settings.</li>
+
+  <li>4 out of 5 people would recommend it to friends and family.</li>
+
+  </ul>
 ---
 The vast majority of users could reduce their boiler flow temperature given simple, tailored guidance.
 
