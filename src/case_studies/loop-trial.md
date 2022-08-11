@@ -19,15 +19,15 @@ logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
 overview: >-
   Nesta and Loop ran an email campaign in April 2022, contacting Loop customers
-  and prompting them to reduce their flow temperature.
+  and prompting them to reduce their flow temperature.<br>
 
   <br>
 
-  The email campaign provided a link to an online walkthrough, similar to the white label version available here, information around why flow temperatures are important and linked to a more in depth blog. You can view the loop blog here.
+  The email campaign provided a link to an online walkthrough, similar to the white label version available here, information around why flow temperatures are important and linked to a more in depth blog. You can view the loop blog here.<br>
 
   <br>
 
-  The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.
+  The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.<br>
 takeaways: >-
   <ul>
 
