@@ -11,7 +11,7 @@ description: >
 
 
   The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.
-image: /static/files/tally-iphone-mock-up.jpg
+image: /static/files/tally-iphone-mock-up-square-crop-.png
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
@@ -27,11 +27,11 @@ overview: >-
 takeaways: >-
   <ul>
 
-  <li>Users rated the walkthrough 4.8 out of 5 for ease of use.</li>
+  <li>-Users rated the walkthrough 4.8 out of 5 for ease of use.</li>
 
-  <li>80% of those who viewed the instructions stage of the tool reported changing their boiler settings.</li>
+  <li>-80% of those who viewed the instructions stage of the tool reported changing their boiler settings.</li>
 
-  <li>4 out of 5 people would recommend it to friends and family.</li>
+  <li>-4 out of 5 people would recommend it to friends and family.</li>
 
   </ul>
 assets:
