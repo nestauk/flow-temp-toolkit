@@ -34,6 +34,9 @@ takeaways: >-
   <li>4 out of 5 people would recommend it to friends and family.</li>
 
   </ul>
+assets:
+  - file: https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting
+    title: Loop Energy Blog
 ---
 The vast majority of users could reduce their boiler flow temperature given simple, tailored guidance.
 
