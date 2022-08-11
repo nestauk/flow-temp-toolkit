@@ -11,7 +11,7 @@ description: >
 
 
   The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.
-image: /static/files/icon.svg
+image: /static/files/tally-iphone-mock-up.jpg
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
