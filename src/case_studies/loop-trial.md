@@ -7,7 +7,7 @@ description: >
   and prompting them to reduce their flow temperature.
 
 
-  The email campaign provided a link to an online walkthrough, similiar to the white lable version available here, information around why flow temperatures are important and linked ot a more in depth blog. You can view the loop blog here.
+  The email campaign provided a link to an online walkthrough, similar to the white label version available here, information around why flow temperatures are important and linked to a more in depth blog. You can view the loop blog here.
 
 
   The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.
