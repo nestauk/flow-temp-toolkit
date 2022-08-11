@@ -27,11 +27,11 @@ overview: >-
 takeaways: >-
   <ul>
 
-  <li>-Users rated the walkthrough 4.8 out of 5 for ease of use.</li>
+  <li>- Users rated the walkthrough 4.8 out of 5 for ease of use.</li>
 
-  <li>-80% of those who viewed the instructions stage of the tool reported changing their boiler settings.</li>
+  <li>- 80% of those who viewed the instructions stage of the tool reported changing their boiler settings.</li>
 
-  <li>-4 out of 5 people would recommend it to friends and family.</li>
+  <li>- 4 out of 5 people would recommend it to friends and family.</li>
 
   </ul>
 assets:
