@@ -5,14 +5,6 @@ tagline: An email campaign and online walkthrough to guide users through
 description: >
   Nesta and Loop ran an email campaign in April 2022, contacting Loop customers
   and prompting them to reduce their flow temperature.
-
-  <br>
-
-  The email campaign provided a link to an online walkthrough, similar to the white label version available here, information around why flow temperatures are important and linked to a more in depth blog. You can view the loop blog here.
-
-  <br>
-
-  The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.
 image: /static/files/tally-iphone-mock-up-square-crop-.png
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
