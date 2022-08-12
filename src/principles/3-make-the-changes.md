@@ -7,7 +7,8 @@ next: 4-give-wider-guidance
 patterns:
   - slug: define-the-type-of-boiler-controls
     title: Define the type of boiler controls
-    description: Check what type of controls the households boiler has
+    description: "Householders want specific and clear advice, the first step to
+      providing this is identifying the type of controls on the boiler. "
     body: >
       <ul>
         <li>
@@ -53,19 +54,37 @@ patterns:
         alt: Illustration of a boiler control panel with multiple dial controls
         file: /static/files/boiler-optimisation-multiple-dials-illustration.png
   - title: Give advice specific to boiler type - Multiple dial boiler
-    description: Give advice specific to boiler type - Multiple dial boiler
+    description: Specific instructions for users that boiler controls consist of
+      multiple dials and possibly some buttons.
     body: >
       <ul>
-        <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
-        <li>Illustrate what the radiator symbol may look like. </li>
-        <li>Ensure users find the button that corresponds to the radiator symbol. </li>
-        <li>Select the radiator flow temperature. Press the button that has the radiator symbol on or near to it. The display should then change to show the current flow temperature. </li>
-        <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that the above instructions are understood.</li>
-        <li>Use buttons that signify a change of value to reduce the flow temperature they could be represented as directional arrows or plus and minus symbols.</li>
-        <li>Instruct to to 55°C or desired temperature.</li>
-        <li>Suggest that users may have to press the &#039;OK&#039; or radiator button again to confirm the change</li>
-        <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
-        <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it&#039;s usually on the front of the boiler. It starts with &#039;GC&#039; followed by a 7 digit number.</li>
+
+      <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+
+      <li>Illustrate what the radiator symbol may look like. </li>
+
+      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that flow temperature is being altered.</li>
+
+      <li>Make sure that the user understands that all instructions that follow will relate to the dial that has the radiator symbol near to it.</li>
+
+      <li>Check whether the boiler has a digital display. 
+
+      <ul>
+
+      <li>If it does suggest turning the dial until 55 degrees is displayed. </li>
+
+      <li>Reassure the user that even if this number changes after the dial has been left, the maximum flow temperature should have been set correctly.</li>
+
+      <li>If the boiler doesn’t have a digital display give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
+
+      </ul>
+
+      </li>
+
+      <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+
+      <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
+
       </ul>
     alt: alt
     icon: /static/files/icon.svg
@@ -77,12 +96,12 @@ patterns:
         file: /static/files/boiler-optimisation-boiler-symbol.png
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt:
-          An illustration showing a dial with a highlighted section in green that
+        alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
   - title: Give advice specific to boiler type - Single dial boiler
-    description: Give advice specific to boiler type - Single dial boiler
+    description: Specific instructions for users that boiler controls consist of a
+      single dial and possibly some buttons.
     icon: /static/files/icon.svg
     alt: alt
     slug: give-advice-specific-to-boiler-type-single-dial-boiler
@@ -94,11 +113,43 @@ patterns:
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt:
-          An illustration showing a dial with a highlighted section in green that
+        alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
+    body: >-
+      <ul>
+
+      <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+
+      <li>Illustrate what the radiator symbol may look like. </li>
+
+      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers.</li>
+
+      <li>Ensure that flow temperature is being altered.</li>
+
+      <li>If the radiator symbol is next to a button suggest pressing this button to select flow temperature. </li>
+
+      <li>Check whether the boiler has a digital display. 
+
+      <ul>
+
+      <li>If it does suggest turning the dial until 55 degrees is displayed. </li>
+
+      <li>Reassure the user that even if this number changes after the dial has been left, the maximum flow temperature should have been set correctly.</li>
+
+      <li>If the boiler doesn’t have a digital display give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
+
+      </ul>
+
+      </li>
+
+      <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+
+      <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
+
+      </ul>
   - title: Give advice specific to boiler type - Button-based boiler
-    description: Give advice specific to boiler type - Button-based boiler
+    description: Specific instructions for users that boiler controls only consist
+      of buttons.
     icon: /static/files/icon.svg
     alt: alt
     slug: give-advice-specific-to-boiler-type-button-based-boiler
@@ -116,31 +167,76 @@ patterns:
         image: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
         alt: An illustration of buttons that are used to raise flow temperature
         file: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
-  - title: Give an idea of possible changes and build confidence
-    description: Give an idea of possible changes and build confidence
+    body: >-
+      <ul>
+
+      <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+
+      <li>Illustrate what the radiator symbol may look like. </li>
+
+      <li>Ensure users find the button that corresponds to the radiator symbol. </li>
+
+      <li>Select the radiator flow temperature. Press the button that has the radiator symbol on or near to it. The display should then change to show the current flow temperature. </li>
+
+      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that flow temperature is being altered.</li>
+
+      <li>Use buttons that signify a change of value to reduce the flow temperature they could be represented as directional arrows or plus and minus symbols.</li>
+
+      <li>Instruct to to 55°C or desired temperature.</li>
+
+      <li>Suggest that users may have to press the 'OK' or radiator button again to confirm the change</li>
+
+      <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+
+      <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
+
+      </ul>
+  - title: Advise on expected changes
+    description: It is important to highlight how the household heating may perform
+      differently when changing flow temperature. This will help to give
+      confidence that the reduction has been successful and reduce the chances
+      of calls to helplines or heating engineers.
     icon: /static/files/icon.svg
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
     assets:
       - image: /static/files/icon.svg
         file: /static/files/flow-temperature-reduction-advice-on-what-to-expect-.pdf
-        alt:
-          A pdf explaining some of the changes to expect to heating systems running
+        alt: A pdf explaining some of the changes to expect to heating systems running
           lower flow temperatures
         title: Flow temperatures - what to expect pdf
----
+    body: >-
+      <ul>
 
+      <li>Communicate that their heating system will act differently because of the change.</li>
+
+      <li>Stress that these changes are to be expected and a good way to confirm that the change has been made correctly.</li>
+
+      <li>Suggest that radiators will be cooler to the touch.</li>
+
+      <li>Suggest that households may notice a reduction in their gas bill.</li>
+
+      <li>Suggest that it may take slightly longer for homes to heat up.</li>
+
+      <li>Communicate where to find more information around these points to address concerns, reassuring users that their homes should still be comfortable.</li>
+
+      <li>Introduce other changes to the heating system, detailed in our next principle “Provide wider heating advice.”</li>
+
+      </ul>
+---
 # What is it?
 
-Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important;
+Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important; 
 
-- Understand what boiler controls users have
-- Give confidence in finding the right controls
-- Provide clear guidance on what to change
-- Re-assure users that changes to their heating are to be expected.
+* Understand what boiler controls users have
+* Give confidence in finding the right controls
+* Provide clear guidance on what to change
+* Re-assure users that changes to their heating are to be expected.
+
+
 
 # Why do it ?
 
-Breaking down the guidance so that is relevant helps to build trust with users, it will also ensure that the advice is relevant to the particular set up. Our research has found that specific guidance builds confidence, and that users felt confident in making future changes if the initial instructions were clear.
+Breaking down the guidance so that is relevant helps to build trust with users, it will also ensure that the advice is relevant to the particular set-up. Our research has found that specific guidance builds confidence and that users felt confident in making future changes if the initial instructions were clear.
 
-Ensuring that households are aware of the changes to their heating system will give reassurance to households that the heating is functioning correctly. It will help to prevent complaints or call outs to heat engineers or advice givers.
+Ensuring that households are aware of the changes to their heating system will give reassurance to households that their heating is functioning correctly. It will help to prevent complaints or callouts to heat engineers or advice givers.
