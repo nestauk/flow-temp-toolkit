@@ -19,7 +19,9 @@ patterns:
 
       <li>Check that there is no hot water tank.</li>
 
-      <ul><li>Give help and guidance on identifying what a water tank is, this could be a description or example image.</li>
+      <ul>
+
+      <li>Give help and guidance on identifying what a water tank is, this could be a description or example image.</li>
 
       </ul>
 
