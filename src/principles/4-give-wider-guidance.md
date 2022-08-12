@@ -4,6 +4,21 @@ tagline: "To ensure comfort is maintained, provide further advice on heating the
   home at reduced flow temperatures. "
 icon: /static/files/wider-guidance-noun-smart-heating-4809920.svg
 previous: 3-make-the-changes
+patterns:
+  - title: Identify what heating controls the household uses
+    description: "In order to give relevant advice on how to optimise the rest of
+      the heating system, first collect details on what controls are in the
+      users home. "
+    body: >-
+      <ul>
+
+      <li>Ask what controls are in the users home.</li>
+
+      <li>Specifically ask if homes have thermostatic radiator valves, a programmable timer or thermostat.</li>
+
+      <li>If giving guidance remotely use imagery or descriptions as some users may not be sure what controls they have in the home.</li>
+
+      </ul>
 ---
 ## What is required?
 
