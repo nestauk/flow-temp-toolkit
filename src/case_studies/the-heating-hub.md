@@ -2,7 +2,8 @@
 title: The Heating Hub
 tagline: Online guidance and informative video’s to ensure households get the
   most from their boilers.
-description: test
+description: "The heating hub are consumer heating experts, on a mission to get
+  the most from their heating systems. "
 image: /static/files/jo-and-caroline.png
 alt: Heating hub jo and caroline
 logo: /static/files/theheatinghublogo-1.png
