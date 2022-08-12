@@ -23,7 +23,7 @@ takeaways: |-
   <li>Features across national media.</li>
   </ul>
 assets:
-  - title: The Heating Hub Mission Page
+  - title: The Heating Hub - Mission page
     file: https://www.theheatinghub.co.uk/mission
 ---
 test
