@@ -25,5 +25,7 @@ takeaways: |-
 assets:
   - title: The Heating Hub - Mission page
     file: https://www.theheatinghub.co.uk/mission
+  - file: https://www.youtube.com/watch?v=T022zY9I__0&feature=youtu.be
+    title: The Heating Hub - Boiler Tweaks To Tackle The Cost Of Living Crisis
 ---
 test
