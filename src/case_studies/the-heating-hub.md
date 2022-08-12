@@ -22,5 +22,8 @@ takeaways: |-
   <li>20,000+ views on their instructional boiler videos. </li>
   <li>Features across national media.</li>
   </ul>
+assets:
+  - title: The Heating Hub Mission Page
+    file: https://www.theheatinghub.co.uk/mission
 ---
 test
