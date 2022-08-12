@@ -28,19 +28,17 @@ patterns:
 
       <li>If the household uses a thermostat or programmable thermostat & timer. Suggest that;
 
-      <ul><li>They may need to extend the period of time that their home is heated for. For example, if their heating switches off at night, try setting the heating to come on a little earlier than usual.</li>
+      <ul><li>They may need to extend the period of time that their home is heated for. For example, if their heating switches off at night, try setting the heating to come on a little earlier than usual.<br>
 
-      <li></li>
+      <br>
 
-      <li>An example reasoning being - “By slightly extending the period of time that your heating is on for you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
+      An example reasoning being - “By slightly extending the period of time that your heating is on for you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
 
-      <li></li>
+      <li>Or suggest - that if the home takes too long to warm up in the morning, try reducing the gap between the daytime and night-time temperature on the thermostat. For example, set it only 2 or 3 degrees lower at night than the day temperature. The same principle could be used when you’re out of the house for the day.<br>
 
-      <li>Or suggest - that if the home takes too long to warm up in the morning, try reducing the gap between the daytime and night-time temperature on the thermostat. For example, set it only 2 or 3 degrees lower at night than the day temperature. The same principle could be used when you’re out of the house for the day.</li>
+      <br>
 
-      <li></li>
-
-      <li>An example reasoning being - “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li></ul>
+      An example reasoning being - “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li></ul>
 
       </li>
 
