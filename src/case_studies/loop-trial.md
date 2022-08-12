@@ -5,7 +5,7 @@ tagline: An email campaign and online walkthrough to guide users through
 description: >
   Nesta and Loop ran an email campaign in April 2022, contacting Loop customers
   and prompting them to reduce their flow temperature.
-featured: false
+featured: true
 image: /static/files/in-hand-mockup.png
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
