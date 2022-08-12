@@ -17,13 +17,13 @@ patterns:
 
       <li>Check that users have a gas boiler.</li>
 
-      <li>Check that there is no hot water tank.</li>
+      <li>Check that there is no hot water tank.
 
       <ul>
 
       <li>Give help and guidance on identifying what a water tank is, this could be a description or example image.</li>
 
-      </ul>
+      </ul></li>
 
       <li>OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)</li>
 
