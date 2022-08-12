@@ -19,6 +19,34 @@ patterns:
       <li>If giving guidance remotely use imagery or descriptions as some users may not be sure what controls they have in the home.</li>
 
       </ul>
+    assets: []
+  - title: Provide guidance - Thermostat / Programmable timer
+    description: "Specific guidance as to how households may want to adjust their
+      thermostats and programmable timers. "
+    body: >-
+      <ul>
+
+      <li>If the household uses a thermostat or programmable thermostat & timer. Suggest that;
+
+      <ul><li>They may need to extend the period of time that their home is heated for. For example, if their heating switches off at night, try setting the heating to come on a little earlier than usual.</li>
+
+      <li></li>
+
+      <li>An example reasoning being - “By slightly extending the period of time that your heating is on for you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
+
+      <li></li>
+
+      <li>Or suggest - that if the home takes too long to warm up in the morning, try reducing the gap between the daytime and night-time temperature on the thermostat. For example, set it only 2 or 3 degrees lower at night than the day temperature. The same principle could be used when you’re out of the house for the day.</li>
+
+      <li></li>
+
+      <li>An example reasoning being - “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li></ul>
+
+      </li>
+
+      <li> It may also be beneficial to explain the reasoning behind these changes.</li>
+
+      </ul>
 ---
 ## What is required?
 
