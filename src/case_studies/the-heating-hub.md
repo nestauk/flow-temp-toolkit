@@ -10,12 +10,13 @@ alt: Heating hub jo and caroline
 logo: /static/files/theheatinghublogo-1.png
 logo_alt: heating hub logo
 overview: >
-  The heating hub are a trusted source of consumer information, their guidance
-  around low flow temperatures, initially started as being a text based web page
-  before expanding to include video walkthroughs and downloadable leaflets. 
+  The heating hub is a trusted source of consumer information, their guidance
+  around low flow temperatures, initially started as a text-based web page
+  before expanding to include video walkthroughs and downloadable leaflets. <br>
 
+  <br>
 
-  The guidance closely aligns with the principles laid out in the toolkit.
+  Their guidance closely aligns with the principles laid out in the toolkit. 
 takeaways: |-
   <ul>
   <li>XXX amount of visits to their webpage </li>
