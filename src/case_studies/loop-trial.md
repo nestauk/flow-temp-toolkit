@@ -10,17 +10,21 @@ image: /static/files/in-hand-mockup.png
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
-overview: >-
-  Nesta and Loop ran an email campaign in April 2022, contacting Loop customers
-  and prompting them to reduce their flow temperature.<br>
+overview: >
+  In April 2022, Nesta collaborated with energy advice app Loop to encourage
+  their users to change their boiler settings. <br>
 
   <br>
 
-  The email campaign provided a link to an online walkthrough, similar to the white label version available here, information around why flow temperatures are important and linked to a more in depth blog. You can view the loop blog here.<br>
+  Loop sent an email campaign to 3,500 users. The email explained the benefits of lowering flow temperatures, and linked to online step by step instructions.<br>
 
   <br>
 
-  The primary focus of this test was to test the customer journey of providing instruction on how to lower flow temperature through an online walkthrough.<br>
+  600 Loop users clicked to view the instructions. Loop directed those who has completed the online instructions to a more detailed blog post. You can view the Loop blog <a href="https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting">here.</a>.<br>
+
+  <br>
+
+  The primary focus of this pilot was to test the effectiveness of the online instructions and to collect feedback.
 takeaways: >-
   <ul>
 
@@ -37,7 +41,7 @@ assets:
 ---
 The vast majority of users could reduce their boiler flow temperature given simple, tailored guidance.
 
-80% of those who viewed the instructions stage of the tool reported changing their boiler settings. The mean rating for ease of use was 4.8 out of 5.
+80% of those who's boilers were appropriate for the instructions reported changing their boiler settings. The mean rating for ease of use was 4.8 out of 5.
 
 When presented with the choice of leaving the app or viewing further guidance on heating, 86% of users opted to view personalised heating guidance instead of leaving the prototype.
 
