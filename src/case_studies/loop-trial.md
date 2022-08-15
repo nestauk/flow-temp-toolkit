@@ -20,7 +20,7 @@ overview: >
 
   <br>
 
-  600 Loop users clicked to view the instructions. Loop directed those who has completed the online instructions to a more detailed blog post. You can view the Loop blog <a href="https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting">here.</a>.<br>
+  600 Loop users clicked to view the instructions. Loop directed those who has completed the online instructions to a more detailed blog post. You can view the Loop blog <a href="https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting" target="_blank">here</a>.<br>
 
   <br>
 
