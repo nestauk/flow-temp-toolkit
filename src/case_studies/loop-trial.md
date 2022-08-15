@@ -6,7 +6,7 @@ description: >
   Nesta and Loop ran an email campaign in April 2022, contacting Loop customers
   and prompting them to reduce their flow temperature.
 featured: true
-image: /static/files/in-hand-mockup.png
+image: /static/files/in-hand-mockup-square-crop.png
 alt: An image of a mobile phone with a walkthrough on screen.
 logo: /static/files/loop-logo.png
 logo_alt: Loop energy app logo
