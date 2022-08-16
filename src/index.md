@@ -13,11 +13,11 @@ shortcuts:
     description: See best practice from organisations across the energy and consumer
       support world
     url: /evidence/
-  - title: I want a tool to use on my own website
-    description: Get Nesta's consumer walkthrough to re-use on your own channels
+  - title: I want a tool to share with users
+    description: Get Nesta's walkthrough to re-use on your own channels
     url: /walkthrough/
-  - title: I want evidence to share with others
-    description: View the latest evidence to support low flow temperatures.
+  - title: I want to see supporting evidence
+    description: View the latest evidence to support lowering flow temperatures.
     url: /evidence/
 logos:
   - image: /static/files/nesta-logo.svg
@@ -49,6 +49,6 @@ logos:
 
 Almost every condensing combi boiler in the UK is burning more gas, generating more emissions and costing households more than they need to.
 
-If these boilers were optimised, households could reduce their energy use, costs and emissions.
+If these boilers were optimised, households could reduce their energy use, emissions and costs.
 
-The flow temperature toolkit is a resource for advice givers in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently whilst maintaining comfort and mitigating any vulnerabilities.
+The ‘Flow temperature toolkit” is a resource for those giving advice in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently whilst maintaining comfort and mitigating vulnerabilities.
