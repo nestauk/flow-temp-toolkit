@@ -16,11 +16,11 @@ overview: >
 
   <br>
 
-  Loop sent an email campaign to 3,500 users. The email explained the benefits of lowering flow temperatures, and linked to online step by step instructions.<br>
+  Loop sent an email campaign to 3,500 users. The email explained the benefits of lowering flow temperatures and linked to online step-by-step instructions created by Nesta.<br>
 
   <br>
 
-  600 Loop users clicked to view the instructions. Loop directed those who has completed the online instructions to a more detailed blog post. You can view the Loop blog <a href="https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting" target="_blank">here</a>.<br>
+  600 Loop users clicked to view the instructions. Loop directed those who had completed the online instructions to a more detailed blog post. You can view the Loop blog <a href="https://blog.loop.homes/how-to-save-money-by-changing-one-boiler-setting" target="_blank">here</a>.<br>
 
   <br>
 
@@ -41,8 +41,8 @@ assets:
 ---
 The vast majority of users could reduce their boiler flow temperature given simple, tailored guidance.
 
-80% of those who's boilers were appropriate for the instructions reported changing their boiler settings. The mean rating for ease of use was 4.8 out of 5.
+80% of those whose boilers were appropriate for the instructions reported changing their boiler settings. The mean rating for ease of use was 4.8 out of 5.
 
-When presented with the choice of leaving the app or viewing further guidance on heating, 86% of users opted to view personalised heating guidance instead of leaving the prototype.
+When presented with the choice of leaving the app or viewing further guidance on heating, 86% of users opted to view personalised heating guidance instead of leaving the online tool.
 
-We asked users “Would you feel confident in adjusting your flow temperature in the future, if you decide you need to tweak it?” Users reported a high level of confidence with an average rating of 4.7/5.
+We asked users “Would you feel confident in adjusting your flow temperature in the future if you decide you need to tweak it?” Users reported a high level of confidence with an average rating of 4.7/5.
