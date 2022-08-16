@@ -1,7 +1,7 @@
 ---
 title: 1. Introduce the concept
-tagline: "Explain the reason why changing flow temperature is important, and the
-  science behind it. "
+tagline: Explain the reason why changing flow temperature is important and the
+  science behind it.
 icon: /static/files/introduce-noun-introduce-3859941.svg
 next: 2-check-eligibility
 patterns:
