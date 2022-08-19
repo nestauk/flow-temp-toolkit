@@ -4,43 +4,71 @@ sticky: true
 ---
 
 <main>
-  <div class="container max-w-screen-xl mx-auto px-4 md:flex gap-6">
-    <div class="md:w-96 md:sticky md:top-20 h-min">
-      <nav class="text-gray-800 md:border-r border-gray-100 nav-sidebar">
-        <p class="mb-4"><strong>Contents</strong></p>
+  <div class="container max-w-screen-lg mx-auto px-4 md:flex gap-6">
+    <div class="md:block hidden md:w-96 md:sticky md:top-24 h-min">
+      <menu class="text-gray-800 md:border-r border-gray-100 pr-5">
         <ul>
           <li class="mb-4">
-            <a href="#about" class="link">About this principle</a>
+            <a href="#overview" class="menu-item font-bold hover:underline"
+              >Overview</a
+            >
+            <ul class="list-disc text-gray-500 text-sm">
+              <li class="ml-5 mt-2">What's required</li>
+              <li class="ml-5 mt-2">Why do it</li>
+            </ul>
           </li>
+          {% if patterns %}
           <li class="mb-4">
-            <a href="#design-patterns" class="link">How to implement it</a>
+            <a
+              href="#design-patterns"
+              class="menu-item font-bold hover:underline"
+              >Design patterns</a
+            >
+            <ul class="list-disc text-gray-500 text-sm">
+              {% for p in patterns %}
+              <li class="ml-5 mt-2">{{ p.title }}</li>
+              {% endfor %}
+            </ul>
           </li>
+          {% endif %} {% if users %}
           <li class="mb-4">
-            <a href="#user-considerations" class="link">User considerations</a>
+            <a
+              href="#user-considerations"
+              class="menu-item font-bold hover:underline"
+              >User considerations</a
+            >
+            <ul class="list-disc text-gray-500 text-sm">
+              {% for u in users %}
+              <li class="ml-5 mt-2">{{ u.name }}</li>
+              {% endfor %}
+            </ul>
           </li>
+          {% endif %}
         </ul>
-      </nav>
+      </menu>
     </div>
-    <div class="w-full">
-      <section class="bg-gray-100 py-10 mb-14 rounded-lg">
+    <div id="content" class="w-full mt-4">
+      <section id="overview" class="offset">
         <div
-          class="container max-w-screen-xl mx-auto px-8 flex gap-4 md:gap-6 items-center"
+          class="bg-gray-100 py-10 mb-14 rounded-lg"
+          style="background-color: {{ background_color }}"
         >
-          <img
-            src="{{ icon }}"
-            alt="{{ alt }}"
-            class="w-16 md:w-32 h-16 md:h-32"
-          />
-          <div>
-            <h1 class="text-5xl font-bold">{{ title }}</h1>
+          <div
+            class="container max-w-screen-xl mx-auto px-8 flex gap-4 md:gap-6 items-center"
+          >
+            <img
+              src="{{ icon }}"
+              alt="{{ alt }}"
+              class="w-16 md:w-32 h-16 md:h-32"
+            />
+            <div>
+              <h1 class="text-5xl font-bold">{{ title }}</h1>
+            </div>
           </div>
         </div>
       </section>
 
-      <section
-        id="about"
-        class="max-w-prose offset markdown mx-auto px-4 mb-14"
-      >
+      <section class="max-w-prose markdown mx-auto px-4 mb-14">
         {{ content | safe }}
       </section>
 
@@ -181,3 +209,20 @@ sticky: true
     </div>
   </div>
 </main>
+
+<script src="https://cdn.jsdelivr.net/npm/vanilla-js-menu-scrollspy@latest/dist/menu-scrollspy.min.js"></script>
+
+<script>
+  window.addEventListener(
+    "load",
+    (event) => {
+      const menuScrollspy = new MenuScrollspy({
+        classActive: "text-brand-700",
+        classSelector: "offset",
+        enterViewportThreshold: "top",
+        fixedMenuSelector: "nav",
+      });
+    },
+    { passive: true }
+  );
+</script>

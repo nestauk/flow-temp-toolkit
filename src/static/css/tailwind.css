@@ -112,14 +112,3 @@ body pre[class*="language-"] {
 .link:hover {
   text-decoration: none;
 }
-
-@media (min-width: 768px) {
-  .nav-sidebar {
-    height: calc(100vh - 155px);
-  }
-}
-
-.temp {
-  color: #85cebb; /* 500 */
-  color: #4da28d; /* 700 */
-}
