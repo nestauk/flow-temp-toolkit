@@ -19,20 +19,55 @@
           ><a href="/" class="text-lg">Flow Temperature Toolkit</a></strong
         >
         <div class="flex gap-4">
-          <a href="{{ '/principles/' | url }}" class="hover:text-brand-700"
-            >Principles</a
+          <!-- Menu links here -->
+          <ul
+            id="menu"
+            class="hidden fixed top-0 right-0 px-10 py-16 bg-brand-500 z-50 md:relative md:flex md:p-0 md:bg-transparent md:flex-row md:space-x-6"
           >
-          <a href="{{ '/evidence/' | url }}" class="hover:text-brand-700"
-            >Evidence</a
-          >
-          <a href="{{ '/case_studies/' | url }}" class="hover:text-brand-700"
-            >Case studies</a
-          >
-          <a
-            href="mailto:sustainablefuture-team@nesta.org.uk?subject=Flow temperature toolkit enquiry"
-            class="hover:text-brand-700"
-            >Contact</a
-          >
+            <li class="md:hidden z-90 fixed top-4 right-6">
+              <a
+                href="javascript:void(0)"
+                class="text-right text-4xl"
+                onclick="toggleMenu()"
+                >&times;</a
+              >
+            </li>
+
+            <li class="md:mb-0 md:text-base mb-3 text-lg">
+              <a class="hover:text-brand-700" href="{{ '/principles/' | url }}"
+                >Principles</a
+              >
+            </li>
+            <li class="md:mb-0 md:text-base mb-3 text-lg">
+              <a class="hover:text-brand-700" href="{{ '/evidence/' | url }}"
+                >Evidence</a
+              >
+            </li>
+            <li class="md:mb-0 md:text-base mb-3 text-lg">
+              <a
+                class="hover:text-brand-700"
+                href="{{ '/case_studies/' | url }}"
+                >Case studies</a
+              >
+            </li>
+            <li class="md:mb-0 md:text-base mb-3 text-lg">
+              <a
+                class="hover:text-brand-700"
+                href="mailto:sustainablefuture-team@nesta.org.uk?subject=Flow temperature toolkit enquiry"
+                >Contact</a
+              >
+            </li>
+          </ul>
+
+          <!-- This is used to open the menu on mobile devices -->
+          <div class="flex items-center md:hidden">
+            <button
+              class="text-3xl leading-none hover:text-brand-700"
+              onclick="toggleMenu()"
+            >
+              &#9776;
+            </button>
+          </div>
         </div>
       </nav>
 
@@ -85,5 +120,14 @@
     </footer>
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <script>
+      var menu = document.getElementById("menu");
+      function toggleMenu() {
+        menu.classList.toggle("hidden");
+        menu.classList.toggle("w-full");
+        menu.classList.toggle("h-screen");
+      }
+    </script>
   </body>
 </html>
