@@ -1,19 +1,10 @@
 ---
+tagline: Tested principles, guidance and resources to help your users lower
+  their combi boilers flow temperatures, save money and reduce their carbon
+  emissions.
 why_here_image: /static/files/image-2-1.png
 logos:
-  - image: /static/files/nesta-logo.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
+  - image: /static/files/loop-logo.png
     url: http://nesta.org.uk
     alt: Nesta logo
   - image: /static/files/icon.svg
@@ -27,18 +18,13 @@ logos:
     alt: Nesta logo
 layout: home
 title: Help your users turn down their flow temperature.
-tagline: Tested principles, guidance and resources to help your users lower
-  their combi boilers flow temperatures, save money and reduce their carbon
-  emissions.
 shortcuts:
   - title: I want to build my own services and advice
-    description:
-      Principles and tested service patterns for organisations that offer
+    description: Principles and tested service patterns for organisations that offer
       advice direct to consumers
     url: /principles/
   - title: I want to see examples of how this has been done
-    description:
-      See best practice from organisations across the energy and consumer
+    description: See best practice from organisations across the energy and consumer
       support world
     url: /evidence/
   - title: I want a tool to share with users
@@ -51,8 +37,7 @@ why_here_image_alt: A women adjusting the controls on the front of a home boiler
 created_by: >-
   <h1>Created by Nesta</h1>
 
-  <p>This toolkit has been created by Nesta, the UK's innovation agency for
-  social good.</p>
+  <p>This toolkit has been created by Nesta, the UK's innovation agency for social good.</p>
 
   <p>Nesta’s sustainable future mission aim is to accelerate the decarbonisation of household activities in the UK and improve levels of productivity. Our goal is that, by 2030, the UK will have reduced household carbon emissions by 28 per cent from 2019 levels, and will be on track to reach zero by 2048.</p>
 
