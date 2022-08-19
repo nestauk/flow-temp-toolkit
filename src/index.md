@@ -26,7 +26,7 @@ logos:
     url: http://nesta.org.uk
     alt: Nesta logo
 layout: home
-title: Help your users turn down their boiler
+title: Help your users turn down their flow temperature.
 tagline: Tested principles, guidance and resources to help your users lower
   their combi boilers flow temperatures, save money and reduce their carbon
   emissions.

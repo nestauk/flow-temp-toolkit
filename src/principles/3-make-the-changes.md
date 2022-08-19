@@ -2,6 +2,7 @@
 title: 3. Make the change
 tagline: Give clear, concise and relevant information on how to change flow temperature.
 icon: /static/files/make-the-change-noun-dial-740644.svg
+background_color: "#ffebbf"
 previous: 2-check-eligibility
 next: 4-give-wider-guidance
 patterns:
@@ -67,7 +68,7 @@ patterns:
 
       <li>Make sure that the user understands that all instructions that follow will relate to the dial that has the radiator symbol near to it.</li>
 
-      <li>Check whether the boiler has a digital display. 
+      <li>Check whether the boiler has a digital display.
 
       <ul>
 
@@ -96,11 +97,13 @@ patterns:
         file: /static/files/boiler-optimisation-boiler-symbol.png
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt: An illustration showing a dial with a highlighted section in green that
+        alt:
+          An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
   - title: Give advice specific to boiler type - Single dial boiler
-    description: Specific instructions for users that boiler controls consist of a
+    description:
+      Specific instructions for users that boiler controls consist of a
       single dial and possibly some buttons.
     icon: /static/files/icon.svg
     alt: alt
@@ -113,7 +116,8 @@ patterns:
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt: An illustration showing a dial with a highlighted section in green that
+        alt:
+          An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
     body: >-
       <ul>
@@ -128,7 +132,7 @@ patterns:
 
       <li>If the radiator symbol is next to a button suggest pressing this button to select flow temperature. </li>
 
-      <li>Check whether the boiler has a digital display. 
+      <li>Check whether the boiler has a digital display.
 
       <ul>
 
@@ -148,7 +152,8 @@ patterns:
 
       </ul>
   - title: Give advice specific to boiler type - Button-based boiler
-    description: Specific instructions for users that boiler controls only consist
+    description:
+      Specific instructions for users that boiler controls only consist
       of buttons.
     icon: /static/files/icon.svg
     alt: alt
@@ -192,7 +197,8 @@ patterns:
 
       </ul>
   - title: Advise on expected changes
-    description: It is important to highlight how the household heating may perform
+    description:
+      It is important to highlight how the household heating may perform
       differently when changing flow temperature. This will help to give
       confidence that the reduction has been successful and reduce the chances
       of calls to helplines or heating engineers.
@@ -202,7 +208,8 @@ patterns:
     assets:
       - image: /static/files/icon.svg
         file: /static/files/flow-temperature-reduction-advice-on-what-to-expect-.pdf
-        alt: A pdf explaining some of the changes to expect to heating systems running
+        alt:
+          A pdf explaining some of the changes to expect to heating systems running
           lower flow temperatures
         title: Flow temperatures - what to expect pdf
     body: >-
@@ -224,16 +231,15 @@ patterns:
 
       </ul>
 ---
+
 # What is it?
 
-Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important; 
+Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important;
 
-* Understand what boiler controls users have
-* Give confidence in finding the right controls
-* Provide clear guidance on what to change
-* Re-assure users that changes to their heating are to be expected.
-
-
+- Understand what boiler controls users have
+- Give confidence in finding the right controls
+- Provide clear guidance on what to change
+- Re-assure users that changes to their heating are to be expected.
 
 # Why do it ?
 

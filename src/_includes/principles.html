@@ -3,17 +3,23 @@ layout: default
 ---
 
 <main>
+  <section class="bg-brand-500 py-16">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <div class="max-w-screen-md">
+        <h1 class="text-5xl font-bold mb-6">{{ title }}</h1>
+        <div class="markdown">{{ content | safe }}</div>
+      </div>
+    </div>
+  </section>
+
   <section class="max-w-screen-lg mx-auto px-4 my-4">
-    <h1 class="text-5xl font-bold mt-20 mb-14">{{ title }}</h1>
-
-    <section class="markdown max-w- mb-14">{{ content | safe }}</section>
-
-    <ol class="list-decimal list-counter mb-16">
+    <ol class="list-decimal list-counter my-16">
       {% for principle in collections.principles %}
       <li>
         <a
           href="{{ principle.url | url }}"
-          class="flex bg-blue-100 hover:bg-blue-200 p-5 rounded-md ml-20 mb-10"
+          class="flex bg-blue-100 hover:opacity-80 p-5 rounded-md ml-20 mb-10"
+          style="background-color: {{ principle.data.background_color }}"
         >
           <img
             src="{{ principle.data.icon}}"

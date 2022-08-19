@@ -2,6 +2,7 @@
 title: 2. Check eligibility
 tagline: Ensure that this advice is relevant and safe for your users.
 icon: /static/files/check-eligibility-noun-checking-5002777.svg
+background_color: "#eff6ed"
 previous: 1-introducing-the-concept
 next: 3-make-the-changes
 patterns:
@@ -70,21 +71,20 @@ users:
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
 ---
+
 ## What is it?
 
 In order to be confident that this advice is suitable and safe for a particular house, there needs to be confidence in the elements that make up the heating system. There are three main parts to this step;
 
-* Check that the house has a gas condensing combi boiler
-* Check that there is no hot water tank
-* Assess any vulnerabilities within the household
+- Check that the house has a gas condensing combi boiler
+- Check that there is no hot water tank
+- Assess any vulnerabilities within the household
 
-Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate. 
-
-
+Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate.
 
 ### Why do it?
 
-Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible removes this frustration and those users that do go through these questions are also given confidence that this advice is relevant. 
+Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible removes this frustration and those users that do go through these questions are also given confidence that this advice is relevant.
 
 There is established best practice around the storage and supply of hot water to taps and outlets in the home, this is to reduce the risk of legionnaires disease. By ensuring that this advice is only given to homes with a condensing combi boiler and no hot water tank we are reducing the risk of user error resulting in this best practice not being followed.
 
