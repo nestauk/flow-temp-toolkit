@@ -17,6 +17,12 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addCollection("principles", function (collectionApi) {
+    return collectionApi.getFilteredByTag("principles").sort(function (a, b) {
+      return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
+    });
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
