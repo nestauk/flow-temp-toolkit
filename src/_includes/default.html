@@ -13,16 +13,22 @@
   <body class="h-screen flex flex-col">
     <div class="flex-1">
       <nav
-        class="container max-w-screen-xl mx-auto px-4 flex justify-between py-6 {% if sticky %} sticky top-0 bg-white {% endif %}"
+        class="container max-w-screen-lg mx-auto px-4 flex justify-between py-6 {% if sticky %} sticky top-0 bg-white {% endif %}"
       >
         <strong><a href="/">Flow Temperature Toolkit</a></strong>
         <div class="flex gap-4">
-          <a href="{{ '/principles/' | url }}" class="link">Principles</a>
-          <a href="{{ '/evidence/' | url }}" class="link">Evidence</a>
-          <a href="{{ '/case_studies/' | url }}" class="link">Case studies</a>
+          <a href="{{ '/principles/' | url }}" class="hover:text-brand-700"
+            >Principles</a
+          >
+          <a href="{{ '/evidence/' | url }}" class="hover:text-brand-700"
+            >Evidence</a
+          >
+          <a href="{{ '/case_studies/' | url }}" class="hover:text-brand-700"
+            >Case studies</a
+          >
           <a
             href="mailto:sustainablefuture-team@nesta.org.uk?subject=Flow temperature toolkit enquiry"
-            class="link"
+            class="hover:text-brand-700"
             >Contact</a
           >
         </div>
@@ -32,7 +38,7 @@
     </div>
 
     <footer class="py-6 bg-slate-200">
-      <div class="container max-w-screen-xl mx-auto px-4 flex justify-between">
+      <div class="container max-w-screen-lg mx-auto px-4 flex justify-between">
         <strong>The boiler flow temparature toolkit by Nesta</strong>
         <span>
           <a

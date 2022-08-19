@@ -22,7 +22,6 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Tagline, name: tagline, widget: string }
-          - { label: Body, name: body, widget: markdown }
           - label: Shortcuts
             name: shortcuts
             widget: list
@@ -30,6 +29,19 @@ collections:
               - { label: Title, name: title, widget: string }
               - { label: Description, name: description, widget: string }
               - { label: URL, name: url, widget: string }
+          - { label: Why we're here, name: body, widget: markdown }
+          - { label: Why we're here image, name: why_here_image, widget: image }
+          - {
+              label: Why we're here image alt text,
+              name: why_here_image_alt,
+              widget: string,
+            }
+          - {
+              label: Created by Nesta,
+              name: created_by,
+              widget: text,
+              hint: "Tip: Paste or write raw HTML to format this text.",
+            }
           - label: Logos
             name: logos
             widget: list

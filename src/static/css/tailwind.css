@@ -11,15 +11,17 @@
   @apply mb-0;
 }
 .markdown h1 {
-  @apply text-3xl font-bold;
+  @apply text-4xl font-bold;
 }
 .markdown h2 {
-  @apply text-2xl font-bold;
+  @apply text-3xl font-bold;
 }
 .markdown h3 {
+  @apply text-2xl font-bold;
+}
+.markdown h4 {
   @apply text-xl font-bold;
 }
-.markdown h4,
 .markdown h5,
 .markdown h6,
 .markdown li,
@@ -115,4 +117,9 @@ body pre[class*="language-"] {
   .nav-sidebar {
     height: calc(100vh - 155px);
   }
+}
+
+.temp {
+  color: #85cebb; /* 500 */
+  color: #4da28d; /* 700 */
 }

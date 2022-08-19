@@ -5,7 +5,13 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+        brand: {
+          500: "#85Cebb",
+          700: "#4da28d",
+          900: "#0d503f",
+        },
+      },
     },
   },
   variants: {},
