@@ -16,23 +16,21 @@ layout: default
     <h2 class="text-4xl font-bold border-b border-brand-700 pb-5">
       Get started
     </h2>
-    <ul>
-      {% for s in shortcuts %}
-      <a href="{{ s.url }}">
-        <li
-          class="py-5 text-xl border-b border-brand-700 flex gap-6 items-center"
-        >
-          <div class="bg-gray-300 rounded-full w-12 h-12 shrink-0"></div>
-          <div>
-            <h2 class="hover:text-brand-700 font-bold mb-1">
-              {{ s.title }} &rsaquo;
-            </h2>
-            <p>{{ s.description }}</p>
-          </div>
-        </li>
-      </a>
-      {% endfor %}
-    </ul>
+    {% for s in shortcuts %}
+    <a href="{{ s.url }}">
+      <div
+        class="py-5 text-xl border-b border-brand-700 flex gap-6 items-center"
+      >
+        <div class="bg-gray-300 rounded-full w-12 h-12 shrink-0"></div>
+        <div>
+          <h2 class="hover:text-brand-700 font-bold mb-1">
+            {{ s.title }} &rsaquo;
+          </h2>
+          <p>{{ s.description }}</p>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
   </section>
 
   <section class="bg-gray-100 py-16">
