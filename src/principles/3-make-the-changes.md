@@ -7,36 +7,31 @@ previous: 2-check-eligibility
 next: 4-give-wider-guidance
 patterns:
   - slug: define-the-type-of-boiler-controls
-    title: Define the type of boiler controls
+    title: "Householders want specific and clear advice, the first step to providing
+      this is identifying the type of controls on the boiler. "
     description: "Householders want specific and clear advice, the first step to
       providing this is identifying the type of controls on the boiler. "
     body: >
       <ul>
         <li>
-          Ensure boiler controls are accessible and visible and open any covering
-          panel.
+         Ensure boiler controls are accessible and visible and open any covering panel.
         </li>
         <li>
-          Define what kind of controls the boiler has, we’ve found that there are
-          three main types and offering these three options caters for the majority of
-          needs.
+       Identify the type of controls the boiler has. We found that there are three main types that cover the majority of systems: 
           <ul>
             <li>
-              Button-based boiler - a boiler with no dials on the control panel, only
-              buttons.
+         button-based boiler - a boiler with no dials on the control panel, only buttons
             </li>
             <li>
-              Single dial boiler - a boiler with a single dial, it may also have some
-              buttons.
+             single dial boiler - a boiler with a single dial, it may also have some buttons
             </li>
             <li>
-              Multiple dial boiler - a boiler with two dials, and maybe some buttons.
+          multiple dial boiler - a boiler with two dials, and maybe some buttons. 
             </li>
           </ul>
         </li>
         <li>
-          If guidance is being given remotely ensure that the above options are
-          described and if possible illustrated to consumers.
+      If guidance is being given remotely ensure that the above options are described and if possible illustrated to users. 
         </li>
       </ul>
     icon: /static/files/icon.svg
