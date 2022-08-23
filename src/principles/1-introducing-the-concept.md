@@ -77,25 +77,27 @@ patterns:
       <li>These changes could lead to the boiler running for slightly longer than before.  <B> N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
 
       </ul>
-  - title: Demonstrate that it’s easy and quick to do
+  - title: Explain that it’s quick and easy to do
     description: "Households have reservations about changing settings on their
-      boiler. It can often be seen as a technical piece, only to be touched by
-      trained professionals. "
+      boiler. It can often be seen as a complex technology that should only be
+      operated by trained professionals. "
     icon: /static/files/icon.svg
     slug: a-quick-and-easy-change
     alt: Image alt text
     body: >-
       <ul>
 
-      <li>Changing your boiler settings is something that can be done by households, it is recommended by boiler manufacturers and energy companies. </li>
+      <li>Changing the boiler settings is something that can be done by anyone, including householders, it is recommended by boiler manufacturers and energy companies.  </li>
 
-      <li>It is a quick change, it should take no more than a few minutes to do. </li>
+      <li>It is a quick change, it should take no more than a few minutes to do.  </li>
 
-      <li>You can continue to change the setting to find the right balance between heat and energy/money saving.</li>
+      <li>Users may have to tweak the settings further to find the right balance between heat and energy/money saving.</li>
 
-      <li>It can easily be reverted to a higher temperature or one the previous flow temperature setting. </li>
+      <li>The changes are not permanent, and they can very easily be reverted to a higher temperature or back to the original settings. </li>
 
-      <li>You can change this during the year is necessary, turning the flow temperatures up during the coldest periods. Just remember to reduce the flow temperature again afterwards.</li>
+      <li>Settings can be changed during the year if necessary, for example, by turning the flow temperatures up during the coldest periods. Remind users to reduce the flow temperature again afterwards.
+
+      </li>
 
       </ul>
 users: []
