@@ -190,7 +190,7 @@ patterns:
 
       <li>(Optional) Give clarification on why the boiler should be set to 55 degrees.</li>
 
-      <li>(Optional) Direct to further guidance if users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.</li>
+      <li>(Optional) Direct to further guidance in case users are struggling to change their flow temperature. One option is to direct users to <a href="https://freeboilermanuals.com/">freeboilermanuals.com</a>  and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.</li>
 
       </ul>
   - title: Advise on expected changes
