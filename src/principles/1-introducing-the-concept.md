@@ -15,11 +15,11 @@ patterns:
     body: >
       <ul>
 
-      <li>Combi boilers work best when they heat radiators at 55°C or below</li>
+      <li>Combi boilers work best when they heat radiators at 55 degrees or below</li>
 
-      <li>Most boilers in the UK are set above this, with the average temperature of water to radiators being around 70 degrees.</li>
+      <li>Most boilers in the UK are set at temperatures above this, with the average temperature of water to radiators being around 70 degrees.</li>
 
-      <li>When combi boiler's flow temperature is set to under 55 degrees they will be condensing. This allows for the boilers to run more efficiently.</li>
+      <li>When a combi boiler’s flow temperature is set to under 55 degrees it will be condensing. This allows for the boilers to run more efficiently and burn less gas.</li>
 
       </ul>
   - title: Make it clear what is meant by flow temperature
