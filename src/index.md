@@ -1,6 +1,6 @@
 ---
 tagline: Tested principles, guidance and resources to help your users lower
-  their combi boilers flow temperatures, save money and reduce their carbon
+  their combi boiler’s flow temperatures, save money and reduce their carbon
   emissions.
 why_here_image: /static/files/image-2-1.png
 logos:
@@ -25,13 +25,13 @@ shortcuts:
     url: /principles/
   - title: I want to see examples of how this has been done
     description: See best practice from organisations across the energy and consumer
-      support world
+      support sector
     url: /evidence/
   - title: I want a tool to share with users
-    description: Get Nesta's walkthrough to re-use on your own channels
+    description: Get Nesta's tool to re-use on your own channels
     url: /walkthrough/
   - title: I want to see supporting evidence
-    description: View the latest evidence to support lowering flow temperatures.
+    description: View the latest evidence to support lowering flow temperatures
     url: /evidence/
 why_here_image_alt: A women adjusting the controls on the front of a home boiler unit.
 created_by: >-
@@ -43,11 +43,10 @@ created_by: >-
 
   <p>Our focus on low flow temperatures is part of the Sustainable Future missions aims to optimise current heating systems, with the goal of reducing emissions.</p>
 ---
-
 # Why we're here
 
 Almost every condensing combi boiler in the UK is burning more gas, generating more emissions and costing households more than they need to.
 
 If these boilers were optimised, households could reduce their energy use, emissions and costs.
 
-The ‘Flow temperature toolkit” is a resource for those giving advice in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently whilst maintaining comfort and mitigating vulnerabilities.
+This toolkit is a resource for people giving advice in the energy and home heating sector. It contains guidance, ready to use assets and best practice examples of how to ensure boilers are running efficiently while maintaining comfort and mitigating vulnerabilities.
