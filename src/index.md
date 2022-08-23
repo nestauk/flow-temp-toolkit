@@ -21,7 +21,7 @@ title: Help your users turn down their flow temperature.
 shortcuts:
   - title: I want to build my own services and advice
     description: Principles and tested service patterns for organisations that offer
-      advice direct to consumers
+      advice direct to users
     url: /principles/
   - title: I want to see examples of how this has been done
     description: See best practice from organisations across the energy and consumer
