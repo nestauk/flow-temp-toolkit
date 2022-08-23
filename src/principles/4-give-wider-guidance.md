@@ -54,18 +54,20 @@ patterns:
       </li>
 
       </ul>
-  - title: Provide guidance - TRV’s
-    description: "Specific guidance as to how households may want to adjust their TRV’s. "
+  - title: Provide guidance - thermostatic radiator valves
+    description: "Specific guidance as to how households may want to adjust their TRVs. "
     body: >-
       <ul>
 
-      <li>If the home has TRV’s fitted you could recommend that homes;
+      <li>If the home has TRVs fitted you could recommend that:
 
       <ul>
 
-      <li>Households could fine-tune the temperature of individual rooms with their radiator valves. As the flow temperature is lower it may be best to heat all the rooms in a home evenly, so it may be beneficial to open all of the radiator valves. If some rooms are feeling a little colder, users could turn up the radiator valve in that room. If other rooms are too warm, they can turn it down.</li>
+      <li>Households could fine-tune the temperature of individual rooms with their radiator valves. As the flow temperature is lower it may be best to heat all the rooms in a home evenly, so it may be beneficial to open all of the radiator valves. If some rooms are feeling a little colder, users could turn up the radiator valve in that room. If other rooms are too warm, they could turn it down.
 
-      <li>It may also be beneficial to explain some of the reasoning behind this, for example. “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li>
+      </li>
+
+      <li>It may also be beneficial to explain some of the reasoning behind this, for example, “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li>
 
       </ul>
 
