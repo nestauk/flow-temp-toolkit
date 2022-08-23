@@ -74,7 +74,7 @@ patterns:
 
       <li>There may be a need to tweak other settings in the home to ensure comfort is maintained. 
        </li>
-      <li>These changes could lead to the boiler running for slightly longer than before.  <B>N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
+      <li>These changes could lead to the boiler running for slightly longer than before.  <B> N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
 
       </ul>
   - title: Demonstrate that it’s easy and quick to do
