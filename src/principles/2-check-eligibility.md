@@ -40,6 +40,7 @@ users:
       temperatures caution should be employed when providing guidance around
       lowering flow temperatures.</p>
 
+      <br>
 
       <p>Judgement should be made on how well the fabric of the building is suited to ensuring a low flow temperature system could match the required heat demand.</p>
 
@@ -52,6 +53,7 @@ users:
       ration lower flow temperature heating in a similar way, which may be
       counterproductive and reduce the level of comfort further. </p>
 
+      <br>
 
       <p>A wider behaviour shift, such as running their heating for longer periods, may be required to ensure they remain comfortable. Without this, lowering flow temperatures might not be a suitable action for this user group.</p>
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
