@@ -143,7 +143,7 @@ patterns:
       <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
 
       </ul>
-  - title: Give advice specific to boiler type - Button-based boiler
+  - title: Give advice specific to boiler type - button-based boiler
     description: Specific instructions for users that boiler controls only consist
       of buttons.
     icon: /static/files/icon.svg
@@ -166,25 +166,25 @@ patterns:
     body: >-
       <ul>
 
-      <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+      <li>Ensure that user eligibility has been confirmed using the guidelines in the checking eligibility step. </li>
 
-      <li>Illustrate what the radiator symbol may look like. </li>
+      <li>Explain what the radiator symbol may look like. </li>
 
       <li>Ensure users find the button that corresponds to the radiator symbol. </li>
 
-      <li>Select the radiator flow temperature. Press the button that has the radiator symbol on or near to it. The display should then change to show the current flow temperature. </li>
+      <li>Select the radiator flow temperature. Press the button that has the radiator symbol on or near it. The display should then change to show the current flow temperature. </li>
 
-      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that flow temperature is being altered.</li>
+      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that the flow temperature, not the hot water temperature, is being altered.</li>
 
-      <li>Use buttons that signify a change of value to reduce the flow temperature they could be represented as directional arrows or plus and minus symbols.</li>
+      <li>Use buttons that signify a change of value to reduce the flow temperature. They could be represented as directional arrows or plus and minus symbols.</li>
 
-      <li>Instruct to to 55°C or desired temperature.</li>
+      <li>Instruct them to reduce the temperature to 55 degrees (or another desired temperature).</li>
 
-      <li>Suggest that users may have to press the 'OK' or radiator button again to confirm the change</li>
+      <li>Suggest that users may have to press the 'OK' or the radiator button again to confirm the change.</li>
 
-      <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+      <li>(Optional) Give clarification on why the boiler should be set to 55 degrees.</li>
 
-      <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
+      <li>(Optional) Direct to further guidance if users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.</li>
 
       </ul>
   - title: Advise on expected changes
