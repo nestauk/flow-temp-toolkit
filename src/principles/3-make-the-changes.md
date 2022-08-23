@@ -225,7 +225,7 @@ patterns:
 
       </ul>
 ---
-# What's required?
+## What's required?
 
 Users need easy-to-understand, step-by-step guidance on how to reduce their boiler’s flow temperature. This guidance should be shared with them regardless of whether an adviser is reducing the flow temperature on their behalf or not, as this will help them understand the changes that are happening to their heating system. Users will also need to be aware of the changes they should expect from their heating after reducing their flow temperature. To do this successfully, we have found the following steps are important: 
 
@@ -234,8 +234,6 @@ Users need easy-to-understand, step-by-step guidance on how to reduce their boil
 * provide clear guidance on what setting to change and how to do it
 * reassure users that some changes to their heating are to be expected.
 
-
-
-# Why do it ?
+## Why do it ?
 
 Breaking down the guidance so that it is relevant helps build trust with users and ensures that the advice is relevant to the particular set-up. Our research has found that giving users specific guidance gives them reassurance that their heating is functioning correctly, can help prevent complaints or callouts to heat engineers or advice givers and helps build their confidence in making future changes to their heating system.
