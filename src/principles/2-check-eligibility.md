@@ -26,21 +26,23 @@ patterns:
 
       </ul></li>
 
-      <li>OPTIONAL - Check for possible vulnerabilities in the household (see subsection below)</li>
+      <li>Optional - Check for possible vulnerabilities in the household (see below)
+
+      </li>
 
       </ul>
 users:
-  - name: Clinical Vulnerability
+  - name: Clinical vulnerability
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
-    heading: Users who require a higher than average heating demand
-    details: >
-      If a member of a household requires higher than average indoor
-      temperatures caution should be when providing guidance around low flow
-      temperatures.<br>
+    heading: Users who require a higher than average heating demand.
+    details: >+
+      <p>If a member of a household requires higher than average indoor
+      temperatures caution should be employed when providing guidance around
+      lowering flow temperatures.</p>
 
-      <br>
 
-      Judgement should be made on how well the fabric of the building is suited to ensuring any low flow temperature system could match the required heat demand.
+      <p>Judgement should be made on how well the fabric of the building is suited to ensuring a low flow temperature system could match the required heat demand.</p>
+
     alt: checklist icon
   - name: Energy Rationers
     heading: Those who may be limiting their energy use
