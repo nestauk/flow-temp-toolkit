@@ -202,10 +202,10 @@ patterns:
 
       </ul>
   - title: Advise on expected changes
-    description: It is important to highlight how the household heating may perform
-      differently when changing flow temperature. This will help to give
-      confidence that the reduction has been successful and reduce the chances
-      of calls to helplines or heating engineers.
+    description: It is important to highlight that household heating may perform
+      differently when the flow temperature has been changed. This will help to
+      give confidence that the reduction has been successful and reduce the
+      chances of calls to helplines or heating engineers.
     icon: /static/files/icon.svg
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
@@ -230,7 +230,9 @@ patterns:
 
       <li>Communicate where to find more information around these points to address concerns, reassuring users that their homes should still be comfortable.</li>
 
-      <li>Introduce other changes to the heating system, detailed in our next principle “Provide wider heating advice.”</li>
+      <li>Introduce other changes to the heating system, detailed in our next step Provide wider heating advice.
+
+      </li>
 
       </ul>
 ---
