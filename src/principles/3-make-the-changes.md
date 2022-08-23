@@ -49,25 +49,29 @@ patterns:
         image: /static/files/boiler-optimisation-multiple-dials-illustration.png
         alt: Illustration of a boiler control panel with multiple dial controls
         file: /static/files/boiler-optimisation-multiple-dials-illustration.png
-  - title: Give advice specific to boiler type - Multiple dial boiler
-    description: Specific instructions for users that boiler controls consist of
+  - title: Give advice specific to boiler type - multiple dial boiler
+    description: Specific instructions for users whose boiler controls consist of
       multiple dials and possibly some buttons.
     body: >
       <ul>
 
-      <li>Ensure that users eligibility has been checked using the guidelines in “4.2 checking eligibility” </li>
+      <li>Ensure that user eligibility has been confirmed using the guidelines in the checking eligibility step. </li>
 
-      <li>Illustrate what the radiator symbol may look like. </li>
+      <li>Illustrate what the radiator symbol may look like.  </li>
 
-      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers. Ensure that flow temperature is being altered.</li>
+      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers.</li>
+
+      <li>Ensure that the flow temperature, not the hot water temperature, is being altered.
+
+      </li>
 
       <li>Make sure that the user understands that all instructions that follow will relate to the dial that has the radiator symbol near to it.</li>
 
-      <li>Check whether the boiler has a digital display.
+      <li>Check whether the boiler has a digital display. 
 
       <ul>
 
-      <li>If it does suggest turning the dial until 55 degrees is displayed. </li>
+      <li>If it does, suggest turning the dial until 55 degrees is displayed.  </li>
 
       <li>Reassure the user that even if this number changes after the dial has been left, the maximum flow temperature should have been set correctly.</li>
 
@@ -77,9 +81,13 @@ patterns:
 
       </li>
 
-      <li>(OPTIONAL) Give clarification on why the boiler should be set to 55 degrees.</li>
+      <li>(Optional) Give clarification on why the boiler should be set to 55 degrees.
 
-      <li>(OPTIONAL) Direct to further guidance incase users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7 digit number.</li>
+      </li>
+
+      <li>(Optional) Direct to further guidance in case users are struggling to change their flow temperature. One option is to direct users to <a href="https://freeboilermanuals.com/" target="_blank">freeboilermanuals.com</a>  and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.
+
+      </li>
 
       </ul>
     alt: alt
