@@ -71,7 +71,7 @@ users:
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
 ---
-## Whats required?
+## What's required?
 
 To ensure the safety and suitability of the advice given, it is important to:
 
@@ -80,8 +80,6 @@ To ensure the safety and suitability of the advice given, it is important to:
 * assess any vulnerabilities within the household.
 
 Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate.
-
-
 
 ## Why do it?
 
