@@ -71,21 +71,22 @@ users:
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
 ---
+## Whats required?
 
-## What is it?
+To ensure the safety and suitability of the advice given, it is important to:
 
-In order to be confident that this advice is suitable and safe for a particular house, there needs to be confidence in the elements that make up the heating system. There are three main parts to this step;
-
-- Check that the house has a gas condensing combi boiler
-- Check that there is no hot water tank
-- Assess any vulnerabilities within the household
+* check that the house has a gas condensing combi boiler
+* check that there is no hot water tank
+* assess any vulnerabilities within the household.
 
 Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate.
 
-### Why do it?
 
-Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible removes this frustration and those users that do go through these questions are also given confidence that this advice is relevant.
 
-There is established best practice around the storage and supply of hot water to taps and outlets in the home, this is to reduce the risk of legionnaires disease. By ensuring that this advice is only given to homes with a condensing combi boiler and no hot water tank we are reducing the risk of user error resulting in this best practice not being followed.
+## Why do it?
 
-There is also extra guidance provided on checks you may want to consider if you are working with vulnerable users.
+Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible saves time and helps avoid disappointment. Identifying houses that are not eligible early on can also ensure that best practices around the storage and supply of hot water to taps and outlets in the home are upheld and will reduce the risk of legionella bacteria forming. 
+
+On the other hand, confirming that their house is eligible gives users confidence that the advice is tailored to them.
+
+There is also extra guidance provided on checks you may want to consider if you are working with vulnerable users, this can be found towards the bottom of this page.
