@@ -44,17 +44,16 @@ users:
       <p>Judgement should be made on how well the fabric of the building is suited to ensuring a low flow temperature system could match the required heat demand.</p>
 
     alt: checklist icon
-  - name: Energy Rationers
+  - name: Energy rationers
     heading: Those who may be limiting their energy use
     details: >-
-      Caution should be given when presenting this advice to those that only use
-      their heating for short intensive periods. Those rationing energy may
-      ration lower flow temperature heating in a similar way, this may be
-      counterproductive and reduce the level of comfort further. <br>
+      <p>Caution should be given when presenting this advice to those that only
+      use their heating for short intensive periods. Those rationing energy may
+      ration lower flow temperature heating in a similar way, which may be
+      counterproductive and reduce the level of comfort further. </p>
 
-      <br>
 
-      A wider behaviour shift may be required to ensure they remain comfortable, this may not be a suitable ask of this user group.
+      <p>A wider behaviour shift, such as running their heating for longer periods, may be required to ensure they remain comfortable. Without this, lowering flow temperatures might not be a suitable action for this user group.</p>
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
   - name: Limited Dexterity
