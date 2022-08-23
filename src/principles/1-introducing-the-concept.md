@@ -1,14 +1,12 @@
 ---
 title: 1. Introduce the concept
-tagline: Explain the reason why changing flow temperature is important and the
-  science behind it.
+tagline: Explain the reason why changing flow temperature is important.
 icon: /static/files/introduce-noun-introduce-3859941.svg
 background_color: "#f2f1f9"
 next: 2-check-eligibility
 patterns:
   - title: Help people to understand why boilers aren’t running efficiently
-    description:
-      "It’s important to emphasise that combi boilers can be optimised
+    description: "It’s important to emphasise that combi boilers can be optimised
       and may not be currently running as efficiently as they could be. "
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
@@ -25,8 +23,7 @@ patterns:
 
       </ul>
   - title: Make it clear what is meant by flow temperature
-    description:
-      Boiler flow temperature isn’t widely understood, outline what it is
+    description: Boiler flow temperature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
@@ -65,8 +62,7 @@ patterns:
 
       </ul>
   - title: Reassure that comfort won’t be affected
-    description:
-      "Consumers are understandably concerned about making changes that
+    description: "Consumers are understandably concerned about making changes that
       may make affect their household comfort. For certain demographics, there
       may also be health concerns that contribute to this concern. "
     icon: /static/files/icon.svg
@@ -111,19 +107,20 @@ patterns:
       </ul>
 users: []
 ---
+## What's required?
 
-## What is it?
+Explain what flow temperatures are, how they relate to heating the home and why there may be efficiency savings to be made. To professionals, this can seem straightforward but users generally have low awareness of flow temperatures. 
 
-Users will often not be familiar with the concept of flow temperature, but by understanding some basics they will be more likely to proceed. When offering advice you should start by:
+When offering advice you should start by:
 
-- concisely explaining the technical reason for lowering the flow temperature
-- explaining the financial and environmental benefits
-- reassuring users that their comfort will not be affected
+* concisely explaining the technical reason for lowering the flow temperature
+* explaining the financial and environmental benefits
+* reassuring users that their comfort will not be affected.
 
-You may wish to emphasise these differently depending on the audience. Suggestions for different messaging for different user groups can be found below.
+You may wish to emphasise these differently depending on the audience.
 
 ## Why do it?
 
-Our work has found that households often receive conflicting advice on the best way to heat their home, and lack the confidence to make changes themselves. The advice to lower boiler temperature can often seem counterintuitive as so we need to explain early on that it will not lead to lower home temperatures overall.
+Nesta’s work has found that households often receive conflicting advice on the best and most cost-effective way to heat their home, and often lack the confidence to make changes themselves. The advice to lower boiler flow temperatures can seem counterintuitive, so it is important that they are told it will not lead to lower home temperatures overall.
 
-By being transparent about the reasons behind this action we can build more confidence in making the change. Doing this early on in the process also builds users’ confidence in changing wider heating habits. This will ultimately help to ensure that comfort isn’t affected as a result of lowering flow temperatures.
+By being transparent about the reasons behind this action we can build more confidence in making the change. Doing this early on in the process also builds users’ confidence in changing wider heating habits. This will ultimately help users to understand that comfort isn’t affected as a result of lowering flow temperatures.
