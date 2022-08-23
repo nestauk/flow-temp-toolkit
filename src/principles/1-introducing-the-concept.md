@@ -62,26 +62,19 @@ patterns:
 
       </ul>
   - title: Reassure that comfort won’t be affected
-    description: "Consumers are understandably concerned about making changes that
-      may make affect their household comfort. For certain demographics, there
-      may also be health concerns that contribute to this concern. "
+    description: "Users are understandably concerned about making changes that may
+      affect their household comfort or health. "
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
     alt: Image alt text
     body: >-
       <ul>
 
-      <li>Changing settings on your boiler could reduce the amount of energy used to heat your home.</li>
+      <li>Lowering the boiler flow temperature won’t necessarily lead to lowering the temperature of the house.</li>
 
-      <li>By reducing your flow temperature you could save up to 7% on your gas bill. </li>
-
-      <li>This could equate to up to £155 a year when the price cap increases in October. </li>
-
-      <li>The boiler flow temperature isn't directly controlling the air temperature of your room. </li>
-
-      <li>You may have to tweak other settings in your home to ensure comfort is maintained. </li>
-
-      <li>These further tweaks could be extending slightly the time that your heating runs for. <B>N.B. further guidance on this should be provided in later steps.</b></li>
+      <li>There may be a need to tweak other settings in the home to ensure comfort is maintained. 
+       </li>
+      <li>These changes could lead to the boiler running for slightly longer than before.  <B>N.B. further guidance on this is provided in step 4, provide wider heating advice.</b></li>
 
       </ul>
   - title: Demonstrate that it’s easy and quick to do
