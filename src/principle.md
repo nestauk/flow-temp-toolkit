@@ -1,5 +1,5 @@
 ---
-title: "Advising users: The 4 key steps for success"
+title: "Advising users: the four key steps for success"
 ---
 If you are creating services or offering advice to users about lowering their boiler flow temperature, there are four key steps you should follow to ensure they complete this successfully and safely.
 
