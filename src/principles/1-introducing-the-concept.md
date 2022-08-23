@@ -31,15 +31,15 @@ patterns:
     body: >-
       <ul>
 
-      <li>Boiler flow temperature is the temperature that your boiler supplies water to the radiators. </li>
+      <li>Boiler flow temperature is the temperature of the water that is sent to radiators by the boiler. </li>
 
-      <li>It is the temperature that your water is heated to by the boiler, as it travels around your system it cools down. </li>
+      <li>The water is heated by the boiler using gas and, as it travels around the system through the radiators and back to the boiler, it cools down.</li>
 
-      <li>It does not affect the water coming from your taps or showers. </li>
+      <li>It does not affect the water coming from the taps or showers. </li>
 
-      <li>It is separate from the temperature on your thermostat, thermostat temperature is the air temperature in your room. Not the temperature of the radiators. </li>
+      <li>It is separate from the temperature shown on the thermostat, which is the air temperature in a room, not the temperature of the radiators. </li>
 
-      <li>Only when the water returning to the boiler is below 55 degrees will boilers be condensing and begin to reach their optimum efficiency.</li>
+      <li>Combi boilers are only condensing and begin to reach optimum efficiency when the water that has gone through the radiators and is returning to the boiler is 55 degrees or less.</li>
 
       </ul>
   - title: Illustrate the potential savings and benefits
