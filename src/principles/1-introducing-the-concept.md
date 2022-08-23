@@ -43,22 +43,22 @@ patterns:
 
       </ul>
   - title: Illustrate the potential savings and benefits
-    description: It is important to illustrate the potential savings different
-      drivers may affect the most effective messaging for different user groups.
-      It may be useful to stress different factors depending on your audience.
+    description: Different users might be motivated to turn down their flow
+      temperatures for different reasons, so it might be useful to stress
+      different benefits depending on your audience.
     icon: /static/files/icon.svg
     slug: show-the-potential-savings
     alt: Image alt text
     body: >-
       <ul>
 
-      <li>Changing settings on your boiler could reduce the amount of energy used to heat your home.</li>
+      <li>Changing settings on combi boilers could reduce the amount of energy used to heat homes.</li>
 
-      <li>By reducing your flow temperature you could save up to 7% on your gas bill. </li>
+      <li>By reducing the flow temperature users could save up to 7% on their gas bill.  </li>
 
       <li>This could equate to up to £155 a year when the price cap increases in October. </li>
 
-      <li>If half of UK homes reduced their flow temperature so that their boilers were condensing it would result in a 1% reduction in household carbon emissions.</li>
+      <li>If half of UK homes reduced their flow temperature so that their boilers were condensing it would result in a 1% reduction in the carbon emitted by households. </li>
 
       </ul>
   - title: Reassure that comfort won’t be affected
