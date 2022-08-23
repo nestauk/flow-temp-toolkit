@@ -97,13 +97,11 @@ patterns:
         file: /static/files/boiler-optimisation-boiler-symbol.png
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt:
-          An illustration showing a dial with a highlighted section in green that
+        alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
   - title: Give advice specific to boiler type - Single dial boiler
-    description:
-      Specific instructions for users that boiler controls consist of a
+    description: Specific instructions for users that boiler controls consist of a
       single dial and possibly some buttons.
     icon: /static/files/icon.svg
     alt: alt
@@ -116,8 +114,7 @@ patterns:
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
         file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        alt:
-          An illustration showing a dial with a highlighted section in green that
+        alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
     body: >-
       <ul>
@@ -152,8 +149,7 @@ patterns:
 
       </ul>
   - title: Give advice specific to boiler type - Button-based boiler
-    description:
-      Specific instructions for users that boiler controls only consist
+    description: Specific instructions for users that boiler controls only consist
       of buttons.
     icon: /static/files/icon.svg
     alt: alt
@@ -197,8 +193,7 @@ patterns:
 
       </ul>
   - title: Advise on expected changes
-    description:
-      It is important to highlight how the household heating may perform
+    description: It is important to highlight how the household heating may perform
       differently when changing flow temperature. This will help to give
       confidence that the reduction has been successful and reduce the chances
       of calls to helplines or heating engineers.
@@ -208,8 +203,7 @@ patterns:
     assets:
       - image: /static/files/icon.svg
         file: /static/files/flow-temperature-reduction-advice-on-what-to-expect-.pdf
-        alt:
-          A pdf explaining some of the changes to expect to heating systems running
+        alt: A pdf explaining some of the changes to expect to heating systems running
           lower flow temperatures
         title: Flow temperatures - what to expect pdf
     body: >-
@@ -231,18 +225,17 @@ patterns:
 
       </ul>
 ---
+# What's required?
 
-# What is it?
+Users need easy-to-understand, step-by-step guidance on how to reduce their boiler’s flow temperature. This guidance should be shared with them regardless of whether an adviser is reducing the flow temperature on their behalf or not, as this will help them understand the changes that are happening to their heating system. Users will also need to be aware of the changes they should expect from their heating after reducing their flow temperature. To do this successfully, we have found the following steps are important: 
 
-Users wish to have clear, relevant and approachable guidance on how to reduce their flow temperature. If the flow temperature is being reduced on their behalf how to make further changes should still be communicated. Users will also need to be aware of the changes that are to be expected from their heating after reducing their flow temperature. To do this successfully we have found the following steps are important;
+* understand what boiler controls users have
+* give confidence by providing advice specific to the controls on your users boiler
+* provide clear guidance on what setting to change and how to do it
+* reassure users that some changes to their heating are to be expected.
 
-- Understand what boiler controls users have
-- Give confidence in finding the right controls
-- Provide clear guidance on what to change
-- Re-assure users that changes to their heating are to be expected.
+
 
 # Why do it ?
 
-Breaking down the guidance so that is relevant helps to build trust with users, it will also ensure that the advice is relevant to the particular set-up. Our research has found that specific guidance builds confidence and that users felt confident in making future changes if the initial instructions were clear.
-
-Ensuring that households are aware of the changes to their heating system will give reassurance to households that their heating is functioning correctly. It will help to prevent complaints or callouts to heat engineers or advice givers.
+Breaking down the guidance so that it is relevant helps build trust with users and ensures that the advice is relevant to the particular set-up. Our research has found that giving users specific guidance gives them reassurance that their heating is functioning correctly, can help prevent complaints or callouts to heat engineers or advice givers and helps build their confidence in making future changes to their heating system.
