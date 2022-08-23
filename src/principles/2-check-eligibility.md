@@ -58,19 +58,19 @@ users:
       <p>A wider behaviour shift, such as running their heating for longer periods, may be required to ensure they remain comfortable. Without this, lowering flow temperatures might not be a suitable action for this user group.</p>
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
-  - name: Limited Dexterity
-    heading: Those users who may live with limited dexterity
-    details: >-
-      Users with dexterity issues may struggle to change settings on the boiler.
-      <br>
+  - name: Limited dexterity
+    heading: Those users who may live with limited dexterity.
+    details: >
+      <p>Users with dexterity issues may struggle to change settings on the
+      boiler. </p>
 
       <br>
 
-      In order to ensure that these users are able to benefit from low flow temperatures it may be best to offer in person advice or ensure that any change to the boiler settings are made by a visiting professional, friend or relative. <br>
+      <p>In order to ensure that these users are able to benefit from low flow temperatures, it may be best to offer in-person advice or ensure that any change to the boiler settings are made by a visiting professional, friend or relative. </p>
 
       <br>
 
-      It may also be worth ensuring that if needed the user has a support network to tweak settings after the flow temperature has been reduced.
+      <p> It may also be worth ensuring that, if needed, the user has access to people who can tweak settings after the flow temperature has been reduced.</p>
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
 ---
