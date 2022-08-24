@@ -8,7 +8,7 @@ description: >
 featured: true
 image: /static/files/in-hand-mockup-square-crop.png
 alt: An image of a mobile phone with a walkthrough on screen.
-logo: /static/files/loop-vertical-colour.png
+logo: /static/files/loop-stacked-white.png
 logo_alt: Loop energy app logo
 overview: >
   <p>In April 2022, Nesta collaborated with energy advice app Loop to encourage
