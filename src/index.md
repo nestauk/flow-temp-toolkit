@@ -4,7 +4,7 @@ tagline: Tested principles, guidance and resources to help your users lower
   emissions.
 why_here_image: /static/files/image-2-1.png
 logos:
-  - image: /static/files/loop-logo.png
+  - image: /static/files/loop-stacked-colour.png
     url: http://nesta.org.uk
     alt: Nesta logo
   - image: /static/files/icon.svg
