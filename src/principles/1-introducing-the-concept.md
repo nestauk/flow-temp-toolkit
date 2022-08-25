@@ -58,7 +58,7 @@ patterns:
 
       <li>This could equate to up to £155 a year when the price cap increases in October. </li>
 
-      <li>If half of UK homes reduced their flow temperature so that their boilers were condensing it would result in a 1% reduction in the carbon emitted by households. </li>
+      <li>If half of UK homes with combi boilers reduced their flow temperature so that their boilers were condensing it would result in a 1% reduction in the carbon emitted by households.  </li>
 
       </ul>
   - title: Reassure that comfort won’t be affected
