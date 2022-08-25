@@ -247,4 +247,4 @@ Users need easy-to-understand, step-by-step guidance on how to reduce their boil
 
 ## Why do it ?
 
-Breaking down the guidance so that it is relevant helps build trust with users and ensures that the advice is relevant to the particular set-up. Our research has found that giving users specific guidance gives them reassurance that their heating is functioning correctly, can help prevent complaints or callouts to heat engineers or advice givers and helps build their confidence in making future changes to their heating system.
+Breaking down the guidance so that it is relevant helps build trust with users and ensures that the advice is specific to your users boiler controls. Our research has found that giving users specific guidance gives them reassurance that their heating is functioning correctly, can help prevent complaints or callouts to heat engineers or advice givers and helps build their confidence in making future changes to their heating system.
