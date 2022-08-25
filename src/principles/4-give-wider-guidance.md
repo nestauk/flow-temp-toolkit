@@ -23,7 +23,7 @@ patterns:
 
       </ul>
     assets: []
-  - title: none direct
+  - title: Provide guidance - thermostat / programmable timer
     description: "Specific guidance as to how households may want to adjust their
       thermostats and programmable timers. "
     body: >-
@@ -43,7 +43,9 @@ patterns:
 
       It may also be beneficial to explain some of the reasoning behind this, for example - “By slightly extending the period of time that your heating is on for you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
 
-      <li>If the home takes too long to warm up in the morning, they should try reducing the gap between the daytime and nighttime temperature on the thermostat. For example, by turning the thermostat temperature down by only 2 or 3 degrees at night compared to the daytime temperature. The same principle could be used when people are out of the house during the day.<br>
+      <li>If a programmable timer or thermostat is used to set a nighttime and daytime temperature, the gap between the daytime and nighttime temperature may need to be reduced. For example, the nighttime temperature may need to be increased by 1 degree. The same principle could be used when people are out of the house during the day.
+
+      <br>
 
       <br>
 
