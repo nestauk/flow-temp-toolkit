@@ -26,7 +26,7 @@ shortcuts:
   - title: I want to see examples of how this has been done
     description: See best practice from organisations across the energy and consumer
       support sector
-    url: /evidence/
+    url: /case_studies/
   - title: I want a tool to share with users
     description: Get Nesta's tool to re-use on your own channels
     url: /walkthrough/
