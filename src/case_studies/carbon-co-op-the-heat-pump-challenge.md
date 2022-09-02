@@ -7,7 +7,7 @@ description: " In this citizen science project, Carbon Co-op reduced gas combi
   boiler flow temperature down to heat pump range temperatures. Enabling
   householders to better understand what additional insulation, airtightness and
   other works might be necessary before heat pump installation."
-image: /static/files/cc-logo-40h.png
+image: /static/files/carbon-co-op-logo.png
 alt: carbon co-op logo
 logo: /static/files/cc-logo-40h.png
 logo_alt: carbon co-op logo
