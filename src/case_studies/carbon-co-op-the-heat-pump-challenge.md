@@ -30,17 +30,19 @@ overview: >-
 
   End-users' understanding of how their home operates and how changes to heating settings and schedules increase or decrease both comfort and bills.</p>
 takeaways: >
-  Even among Carbon Co-op’s energy aware members, 24% of participants were
-  running condensing boilers at over 71°C, meaning they may have never actually
-  operated in ‘condensing mode’ since installation.
+  <ul>
 
-  94% of users were able to reduce their boiler flow temperature to 60°C - with 73% finding the process ‘easy’ or ‘very easy’ vs 19% who found it ‘hard’ or ‘very hard’
+  <li>Even among Carbon Co-op’s energy aware members, 24% of participants were running condensing boilers at over 71°C, meaning they may have never actually operated in ‘condensing mode’ since installation.</li>
 
-  The majority of users noticed no difference in comfort levels at 60°C with unamended heating periods and 2 reported improved heating balance between floors in the home.
+  <li>94% of users were able to reduce their boiler flow temperature to 60°C - with 73% finding the process ‘easy’ or ‘very easy’ vs 19% who found it ‘hard’ or ‘very hard’</li>
 
-  At 50°C (more closely aligned to desired heat pump temperatures) the difference was more notable. 56% were ‘slightly less comfortable’ or ‘less comfortable’ with 44% reporting ‘no change in comfort’ or ‘slightly more comfortable.’
+  <li>The majority of users noticed no difference in comfort levels at 60°C with unamended heating periods and 2 reported improved heating balance between floors in the home.</li>
 
-  While we didn’t specifically ask about gas usage in the questionnaire, two participants mentioned in the comments that they noted reduced gas usage as a result of involvement in the trial.
+  <li>At 50°C (more closely aligned to desired heat pump temperatures) the difference was more notable. 56% were ‘slightly less comfortable’ or ‘less comfortable’ with 44% reporting ‘no change in comfort’ or ‘slightly more comfortable.’</li>
+
+  <li>While we didn’t specifically ask about gas usage in the questionnaire, two participants mentioned in the comments that they noted reduced gas usage as a result of involvement in the trial.</li>
+
+  </ul>
 assets:
   - file: https://carbon.coop/
     title: Carbon Co-op website
