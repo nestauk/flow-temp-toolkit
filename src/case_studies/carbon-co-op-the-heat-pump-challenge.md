@@ -9,7 +9,7 @@ description: " In this citizen science project, Carbon Co-op reduced gas combi
   other works might be necessary before heat pump installation."
 image: /static/files/carbon-co-op-logo.png
 alt: carbon co-op logo
-logo: /static/files/cc-logo-40h.png
+logo: /static/files/carbon-co-op-logo.png
 logo_alt: carbon co-op logo
 overview: >-
   <p>Increasingly Carbon Coop is recommending heat pumps as retrofit
