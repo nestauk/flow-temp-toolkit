@@ -45,7 +45,7 @@ created_by: >-
 ---
 # Why we're here
 
-Many condensing combi boilers in the UK are burning more gas, generating more emissions and costing households more than they need to.
+Households could be saving energy by ensuring that their boilers are running as efficiently as possible. Many condensing combi boilers are, generating more emissions and costing households more than they need to.
 
 If these boilers were optimised, households could reduce their energy use, emissions and costs.
 
