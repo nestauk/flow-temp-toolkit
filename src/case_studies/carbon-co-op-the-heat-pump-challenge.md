@@ -42,6 +42,8 @@ takeaways: >
 
   While we didn’t specifically ask about gas usage in the questionnaire, two participants mentioned in the comments that they noted reduced gas usage as a result of involvement in the trial.
 assets:
+  - file: https://carbon.coop/
+    title: Carbon Co-op website
   - file: https://hpc.carbon.coop/
     title: Project mircosite
 ---
