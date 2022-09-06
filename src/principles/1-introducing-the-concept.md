@@ -6,7 +6,8 @@ background_color: "#f2f1f9"
 next: 2-check-eligibility
 patterns:
   - title: Help people to understand why boilers aren’t running efficiently
-    description: "It’s important to emphasise that combi boilers can be optimised
+    description:
+      "It’s important to emphasise that combi boilers can be optimised
       and may not be currently running as efficiently as they could be. "
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
@@ -23,7 +24,8 @@ patterns:
 
       </ul>
   - title: Make it clear what is meant by flow temperature
-    description: Boiler flow temperature isn’t widely understood, outline what it is
+    description:
+      Boiler flow temperature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
@@ -62,7 +64,8 @@ patterns:
 
       </ul>
   - title: Reassure that comfort won’t be affected
-    description: "Users are understandably concerned about making changes that may
+    description:
+      "Users are understandably concerned about making changes that may
       affect their household comfort or health. "
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
@@ -72,7 +75,7 @@ patterns:
 
       <li>Lowering the boiler flow temperature won’t necessarily lead to lowering the temperature of the house.</li>
 
-      <li>There may be a need to tweak other settings in the home to ensure comfort is maintained. 
+      <li>There may be a need to tweak other settings in the home to ensure comfort is maintained.
        </li>
       <li>These changes could lead to the boiler running for slightly longer than before.  <B> N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
 
@@ -100,17 +103,17 @@ patterns:
       </li>
 
       </ul>
-users: []
 ---
+
 ## What's required?
 
-Explain what flow temperatures are, how they relate to heating the home and why there may be efficiency savings to be made. To professionals, this can seem straightforward but users generally have low awareness of flow temperatures. 
+Explain what flow temperatures are, how they relate to heating the home and why there may be efficiency savings to be made. To professionals, this can seem straightforward but users generally have low awareness of flow temperatures.
 
 When offering advice you should start by:
 
-* concisely explaining the technical reason for lowering the flow temperature
-* explaining the financial and environmental benefits
-* reassuring users that their comfort will not be affected.
+- concisely explaining the technical reason for lowering the flow temperature
+- explaining the financial and environmental benefits
+- reassuring users that their comfort will not be affected.
 
 You may wish to emphasise these differently depending on the audience.
 
