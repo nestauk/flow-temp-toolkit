@@ -24,15 +24,12 @@ overview: >-
 
   <p>The interest for Carbon Coop was to assess:
 
-  <ul> <li>- What level of building fabric upgrades might need to accompany an effective heat pump roll out.</li>
+  <ul> <li>What level of building fabric upgrades might need to accompany an effective heat pump roll out.</li>
 
-  <br>
+  <li>How current heating systems had been commissioned, whether they were operating efficiently and what lessons we could learn for future installations.</li>
 
-  <li>- How current heating systems had been commissioned, whether they were operating efficiently and what lessons we could learn for future installations.</li>
 
-  <br>
-
-  <li>- End-users' understanding of how their home operates and how changes to heating settings and schedules increase or decrease both comfort and bills.</p>
+  <li>End-users' understanding of how their home operates and how changes to heating settings and schedules increase or decrease both comfort and bills.</p>
 takeaways: >
   <ul>
 
