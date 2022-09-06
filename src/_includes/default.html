@@ -47,8 +47,43 @@
     />
 
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
+
+    <script>
+      if (sessionStorage.getItem("ftt-cookie-permission") === "accept") {
+        // Analytics snippet goes here
+      }
+    </script>
   </head>
   <body class="h-screen flex flex-col">
+    <div
+      id="ftt-cookie-check"
+      style="display: none"
+      class="fixed bottom-5 right-5 ml-5 bg-brand-900 text-white p-5 text-lg border-2 border-white drop-shadow"
+    >
+      <p class="mb-2">
+        We use cookies to help us improve this site and your experience.
+        <a
+          href="https://www.nesta.org.uk/cookies/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline hover:no-underline"
+          >Find out more</a
+        >
+      </p>
+      <div class="flex gap-6 font-bold justify-center">
+        <a
+          id="ftt-accept-cookies"
+          class="cursor-pointer underline hover:no-underline"
+          >Accept</a
+        >
+        <a
+          id="ftt-reject-cookies"
+          class="cursor-pointer underline hover:no-underline"
+          >Reject</a
+        >
+      </div>
+    </div>
+
     <div class="flex-1">
       <nav
         class="container max-w-screen-lg mx-auto px-4 flex justify-between py-6 {% if sticky %} sticky top-0 bg-white z-10 {% endif %}"
@@ -160,11 +195,27 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <script>
+      "use strict";
+
       var menu = document.getElementById("menu");
       function toggleMenu() {
         menu.classList.toggle("hidden");
         menu.classList.toggle("w-full");
         menu.classList.toggle("h-screen");
+      }
+
+      if (sessionStorage.getItem("ftt-cookie-permission") === null) {
+        document.getElementById("ftt-cookie-check").style.display = "";
+        ["ftt-accept-cookies", "ftt-reject-cookies"].forEach(function (id) {
+          document.getElementById(id).addEventListener("click", function (e) {
+            e.preventDefault();
+            sessionStorage.setItem(
+              "ftt-cookie-permission",
+              this.text.toLowerCase()
+            );
+            location.reload();
+          });
+        });
       }
     </script>
   </body>
