@@ -18,15 +18,11 @@ layout: default
     </h2>
     {% for s in shortcuts %}
     <a href="{{ s.url }}">
-      <div
-        class="py-5 text-xl border-b border-brand-700 flex gap-6 items-center"
-      >
-        <div>
-          <h2 class="hover:text-brand-700 font-bold mb-1">
-            {{ s.title }} &rsaquo;
-          </h2>
-          <p>{{ s.description }}</p>
-        </div>
+      <div class="py-5 text-xl border-b border-brand-700">
+        <h2 class="hover:text-brand-700 font-bold mb-1">
+          {{ s.title }} &rsaquo;
+        </h2>
+        <p>{{ s.description }}</p>
       </div>
     </a>
     {% endfor %}
