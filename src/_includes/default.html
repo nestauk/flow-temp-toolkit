@@ -48,23 +48,83 @@
 
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
 
+    <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
     <script>
-      "use strict";
-
-      if (sessionStorage.getItem("ftt-cookie-permission") === "accept") {
-        // Google Tag Manager
-        (function (w, d, s, l, i) {
-          w[l] = w[l] || [];
-          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-          var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != "dataLayer" ? "&l=" + l : "";
-          j.async = true;
-          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-          f.parentNode.insertBefore(j, f);
-        })(window, document, "script", "dataLayer", "GTM-KMGTLRF");
-        // End Google Tag Manager
-      }
+      var config = {
+        apiKey: "a532c6c646988c4c1454a8c047d1b819b921a655",
+        product: "PRO_MULTISITE",
+        mode: "GDPR",
+        initialState: "notify",
+        acceptBehaviour: "recommended",
+        toggleType: "checkbox",
+        rejectButton: false,
+        closeOnGlobalChange: true,
+        notifyDismissButton: false,
+        setInnerHTML: true, // Allow html (links) in text
+        text: {
+          title: "This website uses cookies.",
+          intro:
+            '<p>Some of these cookies are essential for allowing the site to function properly, while others help us to improve your experience by providing insights into how the site is being used.</p>\
+             <p>You can set your preferences for non-essential cookies using the check boxes below. You can also change your preferences at any point.</p>\
+             <p>For more information visit our <a href="https://www.nesta.org.uk/cookies/">cookie policy</a></p>',
+          notifyTitle:
+            'We use cookies to help us improve this site and your experience. <a href="https://www.nesta.org.uk/cookies/">Find out more</a>.',
+          notifyDescription: false,
+          acceptRecommended: "Accept recommended settings",
+          accept: "Accept recommended cookies",
+          necessaryDescription:
+            "Necessary cookies enable core functionality such as page navigation and access to secure areas. The website cannot function properly without these cookies, and they can only be disabled by changing your browser preferences.",
+          settings: "Set cookie preferences",
+        },
+        necessaryCookies: ["nesta-about-cookie"],
+        optionalCookies: [
+          {
+            name: "analytics",
+            label: "Analytics",
+            description:
+              "We use analytics cookies to help us understand how you use our website.",
+            cookies: [
+              "_ga",
+              "_gid",
+              "_gat",
+              "__utma",
+              "__utmt",
+              "__utmb",
+              "__utmc",
+              "__utmz",
+              "__utmv",
+            ],
+            recommendedState: true,
+            onAccept: function () {
+              // Google Tag Manager
+              (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                  "gtm.start": new Date().getTime(),
+                  event: "gtm.js",
+                });
+                var f = d.getElementsByTagName(s)[0],
+                  j = d.createElement(s),
+                  dl = l != "dataLayer" ? "&l=" + l : "";
+                j.async = true;
+                j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+                f.parentNode.insertBefore(j, f);
+              })(window, document, "script", "dataLayer", "GTM-KMGTLRF");
+              // End Google Tag Manager
+            },
+            onRevoke: function () {},
+          },
+        ],
+        position: "LEFT",
+        theme: "DARK",
+        branding: {
+          backgroundColor: "#0f294a",
+          toggleText: "#f0f0f0",
+          toggleColor: "#0f294a",
+          removeAbout: true,
+        },
+      };
+      CookieControl.load(config);
     </script>
   </head>
   <body class="h-screen flex flex-col">
@@ -78,35 +138,6 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-
-    <div
-      id="ftt-cookie-check"
-      style="display: none"
-      class="fixed bottom-5 right-5 ml-5 bg-brand-900 text-white p-5 text-lg border-2 border-white drop-shadow"
-    >
-      <p class="mb-2">
-        We use cookies to help us improve this site and your experience.
-        <a
-          href="https://www.nesta.org.uk/cookies/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="underline hover:no-underline"
-          >Find out more</a
-        >
-      </p>
-      <div class="flex gap-6 font-bold justify-center">
-        <a
-          id="ftt-accept-cookies"
-          class="cursor-pointer underline hover:no-underline"
-          >Accept</a
-        >
-        <a
-          id="ftt-reject-cookies"
-          class="cursor-pointer underline hover:no-underline"
-          >Reject</a
-        >
-      </div>
-    </div>
 
     <div class="flex-1">
       <nav
@@ -224,20 +255,6 @@
         menu.classList.toggle("hidden");
         menu.classList.toggle("w-full");
         menu.classList.toggle("h-screen");
-      }
-
-      if (sessionStorage.getItem("ftt-cookie-permission") === null) {
-        document.getElementById("ftt-cookie-check").style.display = "";
-        ["ftt-accept-cookies", "ftt-reject-cookies"].forEach(function (id) {
-          document.getElementById(id).addEventListener("click", function (e) {
-            e.preventDefault();
-            sessionStorage.setItem(
-              "ftt-cookie-permission",
-              this.text.toLowerCase()
-            );
-            location.reload();
-          });
-        });
       }
     </script>
 
