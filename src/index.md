@@ -7,15 +7,6 @@ logos:
   - image: /static/files/loop-stacked-colour.png
     url: http://nesta.org.uk
     alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
-  - image: /static/files/icon.svg
-    url: http://nesta.org.uk
-    alt: Nesta logo
 layout: home
 title: Help your users turn down their flow temperature.
 shortcuts:
