@@ -6,8 +6,7 @@ background_color: "#f2f1f9"
 next: 2-check-eligibility
 patterns:
   - title: Help people to understand why boilers aren’t running efficiently
-    description:
-      "It’s important to emphasise that combi boilers can be optimised
+    description: "It’s important to emphasise that combi boilers can be optimised
       and may not be currently running as efficiently as they could be. "
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
@@ -16,7 +15,7 @@ patterns:
     body: >
       <ul>
 
-      <li>Combi boilers work best when they heat radiators at 55 degrees or below</li>
+      <li>Combi boilers reach the highest levels of efficiency when the water that heats the radiators returns to the boiler below 55 degrees.</li>
 
       <li>Most boilers in the UK are set at temperatures above this, with the average temperature of water to radiators being around 70 degrees.</li>
 
@@ -24,8 +23,7 @@ patterns:
 
       </ul>
   - title: Make it clear what is meant by flow temperature
-    description:
-      Boiler flow temperature isn’t widely understood, outline what it is
+    description: Boiler flow temperature isn’t widely understood, outline what it is
       and what role it plays in heating the home.
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
@@ -64,8 +62,7 @@ patterns:
 
       </ul>
   - title: Reassure that comfort won’t be affected
-    description:
-      "Users are understandably concerned about making changes that may
+    description: "Users are understandably concerned about making changes that may
       affect their household comfort or health. "
     icon: /static/files/icon.svg
     slug: it-wont-affect-comfort
