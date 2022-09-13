@@ -25,8 +25,11 @@ overview: >-
 takeaways: |
   <ul>
   <li>45,000+ views of the instructional video. </li>
+  <br>
   <li>Over 200,000 visits to the instructional page. </li>
+  <br>
   <li>Features on the BBC News, Radio 4 and Channel 5</li>
+  <br>
   <li>1,000 downloads of PDF</li>
   </ul>
 assets:
