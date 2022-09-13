@@ -32,6 +32,8 @@ takeaways: |
 assets:
   - title: The Heating Hub mission page
     file: https://www.theheatinghub.co.uk/mission
+  - title: Instructional video
+    file: https://www.youtube.com/watch?v=T022zY9I__0&feature=youtu.be
 ---
 The Heating Hub provide three major resources on a dedicated mission webpage. 
 
