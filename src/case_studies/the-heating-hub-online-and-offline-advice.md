@@ -49,4 +49,4 @@ Around 1,000 people have downloaded the PDF leaflet and many have printed themse
 
 User feedback through social media/YouTube has been very positive, complimenting clarity and ease of following the instructions. Those that monitor their energy use have reported savings from this one action.
 
-Whilst it feels as though most people are familiar with the concept of turning down the flow temperature, there will be many millions of households for whom this is new advice. Heating Hub gives presentations to community groups and would like to work with more local authorities to ensure this guidance reaches as many people as possible.
+Whilst it feels as though most people are familiar with the concept of turning down the flow temperature, there will be many millions of households for whom this is new advice. The Heating Hub gives presentations to community groups and would like to work with more local authorities to ensure this guidance reaches as many people as possible.
