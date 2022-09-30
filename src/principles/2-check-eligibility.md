@@ -1,7 +1,7 @@
 ---
 title: 2. Check eligibility
 tagline: Ensure that this advice is relevant and safe for your users.
-icon: /static/files/homepage-symbols-check.png
+icon: /static/files/homepage-symbols-check-02.png
 background_color: "#eff6ed"
 previous: 1-introducing-the-concept
 next: 3-make-the-changes
