@@ -1,7 +1,7 @@
 ---
 title: 1. Introduce the concept
 tagline: Explain the reason why changing flow temperature is important.
-icon: /static/files/homepage-symbols-introduce.png
+icon: /static/files/homepage-symbols-introduce-01.png
 background_color: "#f2f1f9"
 next: 2-check-eligibility
 patterns:
