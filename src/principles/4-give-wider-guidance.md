@@ -2,7 +2,7 @@
 title: 4. Provide wider heating advice
 tagline: "To ensure comfort is maintained, provide further advice on heating the
   home at reduced flow temperatures. "
-icon: /static/files/wider-guidance-noun-smart-heating-4809920.svg
+icon: /static/files/homepage-symbols-wider-heating-guidance.png
 background_color: "#ffd1d1"
 previous: 3-make-the-changes
 patterns:
