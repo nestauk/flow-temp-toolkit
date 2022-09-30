@@ -1,7 +1,7 @@
 ---
 title: 3. Make the change
 tagline: Give clear, concise and relevant information on how to change flow temperature.
-icon: /static/files/homepage-symbols-make-the-change.png
+icon: /static/files/homepage-symbols-make-the-change-03.png
 background_color: "#ffebbf"
 previous: 2-check-eligibility
 next: 4-give-wider-guidance
