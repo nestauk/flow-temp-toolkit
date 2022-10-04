@@ -37,5 +37,8 @@ takeaways: >-
   <li>Based on the 9% saving on total gas use from reducing flow temperatures from 80°C to 60°C (reported above), we estimate that a medium-sized household with an annual gas consumption of 12,000 kWh would save 1,092 kWh of gas per year. At a price of 10.3p per kWh of gas (the Energy Price Guarantee unit rate for gas), this equates to £112 per year.</li>
 
   </ul>
+assets:
+  - title: Salford Energy House video
+    file: https://www.youtube.com/watch?v=DN1I9Ol6ZPg
 ---
 T﻿est
