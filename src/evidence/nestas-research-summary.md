@@ -39,9 +39,17 @@ takeaways: >-
 
   </ul>
 assets:
-  - title: Salford Energy House video
-    file: https://www.youtube.com/watch?v=DN1I9Ol6ZPg
   - title: Nesta Project Page
     file: https://www.nesta.org.uk/project/optimising-boilers-reduce-household-emissions/#:~:text=Turn%20down%20your%20boiler%2C%20not%20your%20thermostat&text=These%20boilers%20should%20be%20set,between%2070%2D80%C2%B0C.
+  - title: Salford Energy House video
+    file: https://www.youtube.com/watch?v=DN1I9Ol6ZPg
+  - title: Nesta evidence summary (PDF)
+    file: /static/files/icon.svg
 ---
-T﻿est
+Nesta has created an online tool [simple online tool](http://www.nesta.org.uk/boiler-settings) to help people change their settings, based on extensive user research and testing. Our evaluation clearly shows that users are able to change their boiler settings and feel confident that they’ve done so correctly. Our research has included:
+
+* Early user testing with 46 participants from Nesta and Carbon Co-op, which informed the development of a prototype online tool. Testing usability and comprehension with 165 participants that were broadly representative of the UK population.  Qualitative and quantitative data from this process helped us to further improve the tool. 77% of research participants said they would lower their boiler flow temperature based on the guidance.
+* Field testing via a pilot randomised controlled trial where the tool was sent via email to 3,500 users of Loop, an energy saving advice app. 34% of those who received the tool reported lowering their flow temperature two weeks later, compared to 19% in a control group. This was a statistically significant difference, and suggests that the tool is effective in helping people to reduce their flow temperatures. Participants who used the tool rated the instructions 4.8 out of 5 for ease and 4.3 out of 5 for how confident they felt that they’d changed the settings correctly.
+* Gathering ongoing feedback on the beta tool hosted  on the Nesta website. Based on over 2,000 responses from people who have used the tool, we found that people rated ease and confidence 4.8 and 4.3 out of 5. They also rated the likelihood of sharing the tool with their friends and family 4.6 out of 5.
+
+Given the testing we’ve done, and feedback we’ve received, we’re confident that the majority of digitally literate households will be able to successfully change their boiler settings with our online tool.
