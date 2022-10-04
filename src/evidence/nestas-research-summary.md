@@ -7,7 +7,7 @@ description: Nesta has sought to create a robust and detailed evidence base on
 featured: true
 image: /static/files/energy-house-1.0-credit-october-energy.jpg
 alt: image
-logo: /static/files/nesta-logo.svg
+logo: /static/files/nesta_logo_white_rgb.png
 logo_alt: Nesta Logo
 overview: >-
   Nesta has commissioned or undertaken a number of streams of work, they
