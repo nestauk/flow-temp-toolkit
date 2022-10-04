@@ -17,7 +17,7 @@ overview: >-
 
   <li>Reviewing existing evidence on the impact of reducing flow temperatures. This work was carried out by Salford University.</li>
 
-  <li>Measuring the impact of lowering flow temperatures in the [Energy House](https://energyhouse2.salford.ac.uk/energy-house-labs/energy-house/) at Salford University. The Energy House is a testing lab, including a traditional early twentieth century two bedroom terraced house, set up in an environmental chamber.</li>
+  <li>Measuring the impact of lowering flow temperatures in the <a href="https://energyhouse2.salford.ac.uk/energy-house-labs/energy-house/">Energy House</a> at Salford University. The Energy House is a testing lab, including a traditional early twentieth century two bedroom terraced house, set up in an environmental chamber.</li>
 
   <li>Estimating the proportion of UK homes that could successfully lower flow temperatures, based on modelling work by Cambridge Architectural Research.</li>
 
