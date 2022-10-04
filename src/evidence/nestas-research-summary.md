@@ -10,7 +10,8 @@ alt: image
 logo: /static/files/nesta-logo.svg
 logo_alt: Nesta Logo
 overview: >-
-  The work we have done and commissioned so far includes:
+  Nesta has commissioned or undertaken a number of streams of work, they
+  include:
 
   <ul>
 
