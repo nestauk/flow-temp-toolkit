@@ -5,7 +5,7 @@ tagline: Nesta has sought to create a robust and detailed evidence base on
 description: Nesta has sought to create a robust and detailed evidence base on
   lowering flow temperatures as an energy-saving measure.
 featured: true
-image: /static/files/energy-house-1.0-credit-october-energy.jpg
+image: /static/files/energy-house-visit_boiler-settings-campaign_aug-22-19.jpg
 alt: image
 logo: /static/files/nesta_logo_white_rgb.png
 logo_alt: Nesta Logo
@@ -39,12 +39,12 @@ takeaways: >-
 
   </ul>
 assets:
+  - title: Nesta evidence summary (PDF)
+    file: /static/files/icon.svg
   - title: Nesta Project Page
     file: https://www.nesta.org.uk/project/optimising-boilers-reduce-household-emissions/#:~:text=Turn%20down%20your%20boiler%2C%20not%20your%20thermostat&text=These%20boilers%20should%20be%20set,between%2070%2D80%C2%B0C.
   - title: Salford Energy House video
     file: https://www.youtube.com/watch?v=DN1I9Ol6ZPg
-  - title: Nesta evidence summary (PDF)
-    file: /static/files/icon.svg
 ---
 Nesta has created an online tool [simple online tool](http://www.nesta.org.uk/boiler-settings) to help people change their settings, based on extensive user research and testing. Our evaluation clearly shows that users are able to change their boiler settings and feel confident that they’ve done so correctly. Our research has included:
 
