@@ -2,14 +2,14 @@
 title: Nesta's Research Summary
 tagline: Nesta has sought to create a robust and detailed evidence base on
   lowering flow temperatures as an energy-saving measure.
-description: TEST
+description: TEST 2
 featured: true
 image: /static/files/icon.svg
 alt: image
 logo: /static/files/nesta-logo.svg
 logo_alt: Nesta Logo
 overview: TEST
-takeaways: >+
+takeaways: >
   Homes that currently have their boiler flow temperatures set to 80°C could
   reduce gas consumption for space heating by 12% by setting their flow
   temperature to 60°C, or by 16% by turning down to 55°C. 
