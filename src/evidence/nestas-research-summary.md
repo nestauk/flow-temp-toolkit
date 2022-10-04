@@ -5,7 +5,7 @@ tagline: Nesta has sought to create a robust and detailed evidence base on
 description: Nesta has sought to create a robust and detailed evidence base on
   lowering flow temperatures as an energy-saving measure.
 featured: true
-image: /static/files/icon.svg
+image: /static/files/energy-house-1.0-credit-october-energy.jpg
 alt: image
 logo: /static/files/nesta-logo.svg
 logo_alt: Nesta Logo
