@@ -110,3 +110,21 @@ body pre[class*="language-"] {
 .link:hover {
   text-decoration: none;
 }
+
+@media (min-width: 768px) {
+  #nav-dropdown {
+    position: relative;
+  }
+  #nav-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 120px;
+    height: 0;
+    overflow: hidden;
+    transition: all ease 0.15s;
+  }
+  #nav-dropdown:hover #nav-dropdown-menu {
+    height: auto;
+  }
+}

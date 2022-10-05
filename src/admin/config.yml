@@ -91,6 +91,28 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Tagline, name: tagline, widget: string }
           - { label: Tally ID, name: tally_id, widget: string }
+      - label: "Leaflet"
+        name: "leaflet"
+        file: "src/leaflet.md"
+        editor:
+          preview: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Body, name: body, widget: markdown }
+          - { label: Image, name: image, widget: image }
+          - {
+              label: Alt,
+              name: alt,
+              widget: string,
+              hint: Briefly bescribe the image.,
+            }
+          - label: Assets
+            name: assets
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: File, name: file, widget: file }
 
   - label: "Components"
     name: "components"
