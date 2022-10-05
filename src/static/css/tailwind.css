@@ -23,9 +23,7 @@
   @apply text-xl font-bold;
 }
 .markdown h5,
-.markdown h6,
-.markdown li,
-.markdown p {
+.markdown h6 {
   @apply text-lg;
 }
 .markdown li,
