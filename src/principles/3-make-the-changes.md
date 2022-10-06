@@ -40,15 +40,16 @@ patterns:
       - title: Button only boiler illustration
         image: /static/files/boiler-optimisation-buttons-only-illustration.png
         alt: Illustration of a typical boiler control pattern consisting of only buttons
-        file: /static/files/boiler-optimisation-buttons-only-illustration.png
+        file: /static/files/boiler-optimisation-buttons-only-4x-100.png
       - title: Single dial boiler illustration
         image: /static/files/boiler-optimisation-single-dial-illustration.png
         alt: Illustration of a boiler control panel consisting of a single dial control
         file: /static/files/boiler-optimisation-single-dial-illustration.png
+        thumnail: /static/files/boiler-optimisation-single-dial-4x-100.png
       - title: Multiple dial boiler illustration
         image: /static/files/boiler-optimisation-multiple-dials-illustration.png
         alt: Illustration of a boiler control panel with multiple dial controls
-        file: /static/files/boiler-optimisation-multiple-dials-illustration.png
+        file: /static/files/boiler-optimisation-multiple-dials-4x-100.png
   - title: Give advice specific to boiler type - multiple dial boiler
     description: Specific instructions for users whose boiler controls consist of
       multiple dials and possibly some buttons.
@@ -102,7 +103,7 @@ patterns:
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
         alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
-        file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+        file: /static/files/boiler-dial-illustration-60-degrees.png
   - title: Give advice specific to boiler type - single dial boiler
     description: Specific instructions for users whose boiler controls consist of a
       single dial and possibly some buttons.
