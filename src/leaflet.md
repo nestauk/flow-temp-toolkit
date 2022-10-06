@@ -6,7 +6,7 @@ image: /static/files/leaflet-mock-up.png
 alt: Image description
 assets:
   - title: Leaflet (English)
-    file: /static/files/boiler-optimisation-boiler-symbol.png
+    file: /static/files/how-to-save-money-and-energy-on-your-heating.pdf
 ---
 Users will often not be familiar with the concept of flow temperature, but by understanding some basics they will be more likely to proceed. When offering advice you should start by:
 
