@@ -2,7 +2,7 @@
 layout: leaflet
 title: Leaflet
 tagline: Nesta produced leave behind advice, free to use.
-image: /static/files/leaflet-mock-up.png
+image: /static/files/leaflet-mock-up-crop.png
 alt: Image description
 assets:
   - title: Leaflet (English)
