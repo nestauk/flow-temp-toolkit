@@ -117,7 +117,7 @@ patterns:
         alt: Illustration of boiler radiator symbols
       - title: Flow temperature dial suggested position
         image: /static/files/boiler-dial-illustration-50-55-degrees-01.png
-        file: /static/files/boiler-dial-illustration-50-55-degrees-01.png
+        file: /static/files/boiler-dial-illustration-60-degrees.png
         alt: An illustration showing a dial with a highlighted section in green that
           users should look to turn their dial to
     body: >-
@@ -173,11 +173,11 @@ patterns:
         image: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
         alt: An illustration of boiler controls with the flow temperature button
           highlighted in green.
-        file: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-01-01.png
+        file: /static/files/boiler-optimisation-digital-controls-radiator-highlighted-60-degrees-simplified.png
       - title: Highlighted flow temperature change buttons
         image: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
         alt: An illustration of buttons that are used to raise flow temperature
-        file: /static/files/boiler-optimisation-heating-control-highlight-01-01.png
+        file: /static/files/boiler-optimisation-heating-control-highlighted-60-degrees-simplified.png
     body: >-
       <ul>
 
