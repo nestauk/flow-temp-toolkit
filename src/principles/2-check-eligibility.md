@@ -7,9 +7,9 @@ previous: 1-introducing-the-concept
 next: 3-make-the-changes
 patterns:
   - title: Check whether the user's heating system is suitable
-    description: This guide focuses on gas condensing combination boilers, it’s
-      important that clear questions are asked of households so that they are
-      confident in identifying the type of boiler they have.
+    description: This guide focuses on gas condensing combi boilers. It’s important
+      that clear questions are asked of households so that they are confident in
+      identifying the type of boiler they have.
     slug: check-the-users-heating-system-is-suitable
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist
@@ -26,7 +26,7 @@ patterns:
 
       </ul></li>
 
-      <li>Optional - Check for possible vulnerabilities in the household (see below)
+      <li>(Optional) Check for possible vulnerabilities in the household (see subsection below)
 
       </li>
 
@@ -37,7 +37,7 @@ users:
     heading: Users who require a higher than average heating demand.
     details: >+
       <p>If a member of a household requires higher than average indoor
-      temperatures caution should be employed when providing guidance around
+      temperatures, caution should be employed when providing guidance around
       lowering flow temperatures.</p>
 
       <br>
@@ -46,12 +46,12 @@ users:
 
     alt: checklist icon
   - name: Energy rationers
-    heading: Those who may be limiting their energy use
+    heading: Those who may be limiting their energy use.
     details: >-
-      <p>Caution should be given when presenting this advice to those that only
+      <p>Caution should be given when presenting this advice to those who only
       use their heating for short intensive periods. Those rationing energy may
       ration lower flow temperature heating in a similar way, which may be
-      counterproductive and reduce the level of comfort further. </p>
+      counterproductive and reduce the level of comfort further.  </p>
 
       <br>
 
@@ -62,15 +62,15 @@ users:
     heading: Those users who may live with limited dexterity.
     details: >
       <p>Users with dexterity issues may struggle to change settings on the
-      boiler. </p>
+      boiler.  </p>
 
       <br>
 
-      <p>In order to ensure that these users are able to benefit from low flow temperatures, it may be best to offer in-person advice or ensure that any change to the boiler settings are made by a visiting professional, friend or relative. </p>
+      <p>In order to ensure that these users are able to benefit from low flow temperatures, it may be best to offer in-person advice or ensure that any change to the boiler settings are made by a visiting professional, friend or relative.  </p>
 
       <br>
 
-      <p> It may also be worth ensuring that, if needed, the user has access to people who can tweak settings after the flow temperature has been reduced.</p>
+      <p>It may also be worth ensuring that, if needed, the user has access to people who can tweak settings after the flow temperature has been reduced.</p>
     icon: /static/files/check-eligibility-noun-checking-5002777.svg
     alt: checklist icon
 ---
