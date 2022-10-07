@@ -16,13 +16,13 @@ patterns:
 
       <li>Ask what controls are in the user’s home.</li>
 
-      <ul><li>Ask users how they heat their home
-
-      <li>Do they heat a single room at a time?
+      <li>Ask users how they heat their home
 
       <br>
 
       <ul>
+
+      <li>Do they heat a single room at a time?</li>
 
       <li>Do they have set back temperatures? (A temperature set over night and then one during the day). 
 
