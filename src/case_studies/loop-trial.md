@@ -1,6 +1,6 @@
 ---
 date: 2022-09-01T16:03:07.347Z
-title: Flow Temperature Campaign
+title: Flow temperature campaign
 tagline: An email campaign and online walkthrough to guide users through
   reducing flow temperatures.
 description: Nesta and Loop ran an email campaign in April 2022, contacting Loop
