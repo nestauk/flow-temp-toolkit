@@ -78,9 +78,10 @@ patterns:
 
       <li>Lowering the boiler flow temperature won’t necessarily lead to lowering the temperature of the house.</li>
 
-      <li>There may be a need to tweak other settings in the home to ensure comfort is maintained.
+      <li>There may be a need to tweak other settings in the home to ensure comfort is maintained. 
+
        </li>
-      <li>These changes could lead to the boiler running for slightly longer than before.  <B> N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
+      <li>These changes could lead to the boiler running for slightly longer than before, but it should still save money overall   <B> N.B. further guidance on this is provided in step 4, <a href="/principles/4-give-wider-guidance/">provide wider heating advice.</a></li>
 
       </ul>
   - title: Explain that it’s quick and easy to do
