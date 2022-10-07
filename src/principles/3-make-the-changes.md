@@ -210,12 +210,7 @@ patterns:
     icon: /static/files/icon.svg
     alt: alt
     slug: give-an-idea-of-possible-changes-and-build-confidence
-    assets:
-      - image: /static/files/icon.svg
-        file: /static/files/flow-temperature-reduction-advice-on-what-to-expect-.pdf
-        alt: A pdf explaining some of the changes to expect to heating systems running
-          lower flow temperatures
-        title: Flow temperatures - what to expect pdf
+    assets: []
     body: >-
       <ul>
 
