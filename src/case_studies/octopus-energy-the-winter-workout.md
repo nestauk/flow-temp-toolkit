@@ -1,7 +1,7 @@
 ---
 date: 2022-09-01T09:06:18.366Z
-title: The winter workout
-tagline: Octopus energy customers were sent tips to help reduce Gas consumption
+title: The Winter Workout
+tagline: Octopus energy customers were sent tips to help reduce gas consumption
   and lowering the flow temperature was one of the recommended measures.
 description: The Winter Workout was an initiative run by Octopus Energy between
   December 2021 and March 2022 to help customers reduce their gas consumption.
@@ -10,17 +10,17 @@ image: /static/files/octopus-winter-workout.png
 alt: Graphic showing possible gas savings
 logo: /static/files/octopus-energy-logo-1200-x-1200-.png
 logo_alt: octopus energy logo
-overview: >-
+overview: >
   Octopus Energy set out to see if providing simple guidance and personalised
   targets to customers could noticeably reduce their gas consumption. The hope
-  was that this would save consumers money and lower carbon footprint, all
-  whilst keeping customers warm.
+  was that this would save consumers money and lower carbon footprint, all while
+  keeping customers warm.
 
 
-  Although there are lots of ways consumers can be more energy efficient and save substantially on bills: Octopus have found that energy-saving tips are seen as ten a penny. The many listicles telling consumers - never to leave the TV on standby, or only fill the kettle with the water they need are prime examples. Consumers are also looking to gain a clear understanding of how much they may benefit from energy-saving actions.
+  Although there are lots of ways consumers can be more energy efficient and save substantially on bills: Octopus has found that energy-saving tips are seen as ‘ten a penny’. The many listicles telling consumers never to leave the TV on standby or only fill the kettle with the water they need are prime examples. Consumers are also looking to gain a clear understanding of how much they may benefit from energy-saving actions.
 
 
-  The winter workout provided gas-saving tips to Octopus energy customers between December 2021 and March 2022. Although not the only advice given during the trial, guidance around flow temperature was prominent and rated very highly amongst participants. Significant energy savings were achieved.
+  The Winter Workout provided gas-saving tips to Octopus energy customers between December 2021 and March 2022. Although not the only advice given during the trial, guidance around flow temperature was prominent and rated very highly among participants. Significant energy savings were achieved.
 takeaways: >-
   <ul>
 
