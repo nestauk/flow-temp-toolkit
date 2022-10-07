@@ -38,33 +38,23 @@ patterns:
 
       </ul>
     assets: []
-  - title: Provide guidance - thermostat / programmable timer
-    description: "Specific guidance as to how households may want to adjust their
-      thermostats and programmable timers. "
+  - title: Provide guidance - extending periods of heating
+    description: Specific guidance as to how users may want to extend their heating
+      in order to maintain comfort.
     body: >-
       <ul>
-
-      <li>Identify whether the household uses a thermostat or programmable thermostat and timer. </li>
-
-      <li> It may also be beneficial to explain the reasoning behind making changes to their thermostat or timer. </li>
 
       <li>Suggest that households may want to:
 
       <ul>
 
-      <li>Extend the period of time that their home is heated for. For example, if their heating switches off at night, they should try setting the heating to come on a little earlier than usual.<br>
+      <li>Extend the period of time that their home is heated for. For example, if their heating switches off at night, they should try setting the heating to come on 15-30 minutes earlier than usual. .<br>
 
       <br>
 
-      It may also be beneficial to explain some of the reasoning behind this, for example - “By slightly extending the period of time that your heating is on for you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
+      It may also be beneficial to explain some of the reasoning behind this, for example, - “By slightly extending the period of time that your heating is on, you are allowing for a more gradual warm-up time. As your boiler should now be running more efficiently it should not increase your bills.”</li>
 
-      <li>If a programmable timer or thermostat is used to set a nighttime and daytime temperature, the gap between the daytime and nighttime temperature may need to be reduced. For example, the nighttime temperature may need to be increased by 1 degree. The same principle could be used when people are out of the house during the day.
-
-      <br>
-
-      <br>
-
-      It may also be beneficial to explain some of the reasoning behind this, for example, - “By reducing the gap between the night time and the day time temperature you are ensuring that the boiler doesn't have to work too hard to reach a comfortable temperature in the morning. This will help it maintain its efficiency. ”</li>
+      <li>Explain that by turning their heating on 15-30 minutes earlier than usual, users are allowing for the more gradual warm up time associated with lower boiler flow temperatures. This will reduce their gas savings a little, but it should still save money overall because their boiler will be running more efficiently.</li>
 
       </ul>
 
