@@ -1,6 +1,6 @@
 ---
 date: 2022-10-07T09:06:18.366Z
-title: Octopus Energy - The winter workout
+title: The winter workout
 tagline: Octopus energy customers were sent tips to help reduce Gas consumption
   and lowering the flow temperature was one of the recommended measures.
 description: The Winter Workout was an initiative run by Octopus Energy between
