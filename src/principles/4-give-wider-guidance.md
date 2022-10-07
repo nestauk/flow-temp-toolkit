@@ -91,6 +91,6 @@ Any guidance should aim to ensure that users feel comfortable making further cha
 
 ## Why do it?
 
-Our research revealed that users often find heating controls such as thermostats confusing and difficult to use. They also tend to be weary of over-generalised advice. Ensuring that the advice is clear and tailored to the specific circumstances of their homes and their controls can help overcome this.
+Our research found that users often find heating controls such as thermostats confusing and difficult to use. They also tend to be wary of over-generalised advice. Ensuring that the advice is clear and tailored to the specific circumstances of their homes and their controls can help overcome this. 
 
 There may be concerns that advising people to lower their boiler’s flow temperature will increase in complaints or callouts to heating engineers. This can be mitigated by ensuring that the heating system and controls are set up to work as efficiently as possible at lower flow temperatures, while also maintaining the level of comfort that householders prefer.
