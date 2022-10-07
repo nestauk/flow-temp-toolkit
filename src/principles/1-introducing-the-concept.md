@@ -23,21 +23,23 @@ patterns:
 
       </ul>
   - title: Make it clear what is meant by flow temperature
-    description: Boiler flow temperature isn’t widely understood, outline what it is
-      and what role it plays in heating the home.
+    description: >+
+      Boiler flow temperature isn’t widely understood. Outline what it is and
+      what role it plays in heating the home.
+
     icon: /static/files/icon.svg
     slug: explain-what-flow-temperature-is-clearly
     alt: Image alt text
     body: >-
       <ul>
 
-      <li>Boiler flow temperature is the temperature of the water that is sent to radiators by the boiler. </li>
+      <li>Boiler flow temperature is the temperature of the water that is sent to radiators by the boiler.  </li>
 
       <li>The water is heated by the boiler using gas and, as it travels around the system through the radiators and back to the boiler, it cools down.</li>
 
       <li>It does not affect the water coming from the taps or showers. </li>
 
-      <li>It is separate from the temperature shown on the thermostat, which is the air temperature in a room, not the temperature of the radiators. </li>
+      <li>It is separate from the temperature shown on the thermostat, which is the air temperature in a room, not the temperature of the radiators.  </li>
 
       <li>Combi boilers are only condensing and begin to reach optimum efficiency when the water that has gone through the radiators and is returning to the boiler is 55 degrees or less.</li>
 
