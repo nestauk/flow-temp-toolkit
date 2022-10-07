@@ -16,7 +16,7 @@ patterns:
 
       <li>Ask what controls are in the user’s home.</li>
 
-      <ul><li>Ask users how they heat their home</li>
+      <ul><li>Ask users how they heat their home
 
       <li>Do they heat a single room at a time?</li>
 
