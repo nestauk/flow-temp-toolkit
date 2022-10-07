@@ -42,8 +42,6 @@ takeaways: >-
 
   </ul>
 assets:
-  - title: Nesta evidence summary (PDF)
-    file: /static/files/icon.svg
   - title: Evidence summary page
     file: https://www.nesta.org.uk/report/money-saving-boiler-challenge-supporting-evidence-october-2022/
   - title: Salford Energy House video
