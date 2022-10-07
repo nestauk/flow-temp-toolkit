@@ -224,7 +224,7 @@ patterns:
 
       <li>Communicate where to find more information around these points to address concerns, reassuring users that their homes should still be comfortable.</li>
 
-      <li>Introduce other changes to the heating system, detailed in our next step Provide wider heating advice.
+      <li>Introduce other changes to the heating system, detailed in our next step - Provide wider heating advice.
 
       </li>
 
