@@ -7,7 +7,7 @@ description: The Winter Workout was an initiative run by Octopus Energy between
   December 2021 and March 2022 to help customers reduce their gas consumption.
 image: /static/files/octopus-winter-workout.png
 alt: Graphic showing possible gas savings
-logo: /static/files/8578467d-5403-42ff-8125-6056bb79cd7f.png
+logo: /static/files/octopus-energy-logo-reduced-.png
 logo_alt: octopus energy logo
 overview: >-
   Octopus Energy set out to see if providing simple guidance and personalised
