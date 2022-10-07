@@ -6,7 +6,7 @@ tagline: Online advice for end users is provided through an in-depth online
 description: "The Heating Hub provide guidance on flow temperatures through a
   variety of channels. They have produced an online guide, a walkthrough video
   and a downloadable leaflet. "
-image: /static/files/pexels-kampus-production-7414387-crop.png
+image: /static/files/pexels-kampus-production-7414387-green.png
 alt: Lady sitting with son under a blanket
 logo: /static/files/heating-hub-logo-reduced.png
 logo_alt: The Heating Hub Logo
