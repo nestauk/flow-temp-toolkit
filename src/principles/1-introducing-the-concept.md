@@ -85,26 +85,26 @@ patterns:
 
       </ul>
   - title: Explain that it’s quick and easy to do
-    description: "Households have reservations about changing settings on their
+    description: Households may have reservations about changing settings on their
       boiler. It can often be seen as a complex technology that should only be
-      operated by trained professionals. "
+      operated by trained professionals.
     icon: /static/files/icon.svg
     slug: a-quick-and-easy-change
     alt: Image alt text
     body: >-
       <ul>
 
-      <li>Changing the boiler settings is something that can be done by anyone, including householders, it is recommended by boiler manufacturers and energy companies.  </li>
+      <li>Changing the boiler settings is something that can be done by anyone, including householders. It is recommended by boiler manufacturers and energy companies.  </li>
 
-      <li>It is a quick change, it should take no more than a few minutes to do.  </li>
+      <li>It is a quick change that should take no more than a few minutes. </li>
 
-      <li>Users may have to tweak the settings further to find the right balance between heat and energy/money saving.</li>
+      <li>Users may have to tweak the settings further to find the right balance between heat and energy/money saving.
+
+      </li>
 
       <li>The changes are not permanent, and they can very easily be reverted to a higher temperature or back to the original settings. </li>
 
-      <li>Settings can be changed during the year if necessary, for example, by turning the flow temperatures up during the coldest periods. Remind users to reduce the flow temperature again afterwards.
-
-      </li>
+      <li>Settings can be changed during the year if necessary, for example, by turning the flow temperatures up during the coldest periods. Remind users to reduce the flow temperature again afterwards. </li>
 
       </ul>
 ---
