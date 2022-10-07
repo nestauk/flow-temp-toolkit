@@ -38,7 +38,7 @@ takeaways: >
 
   <br>
 
-  <liNinety-four percent of users were able to reduce their boiler flow temperature to 60°C - with 73% finding the process ‘easy’ or ‘very easy’ vs 19% who found it ‘hard’ or ‘very hard’.</li>
+  <li>Ninety-four percent of users were able to reduce their boiler flow temperature to 60°C - with 73% finding the process ‘easy’ or ‘very easy’ vs 19% who found it ‘hard’ or ‘very hard’.</li>
 
   <br>
 
