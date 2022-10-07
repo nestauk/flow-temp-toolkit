@@ -5,9 +5,7 @@ tagline: A citizen science and participative research project helping our member
   households to engage with and understand how low-temperature heating systems
   might work in their homes.
 description: " In this citizen science project, Carbon Co-op reduced gas combi
-  boiler flow temperature down to heat pump range temperatures. Enabling
-  householders to better understand what additional insulation, airtightness and
-  other works might be necessary before heat pump installation."
+  boiler flow temperature down to heat pump range temperatures. "
 image: /static/files/professional-plumber-checking-a-boiler-square-crop.png
 alt: icon
 logo: /static/files/carbon-co-op-logo.png
