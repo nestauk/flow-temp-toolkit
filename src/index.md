@@ -2,7 +2,7 @@
 tagline: Tested principles, guidance and resources to help your users lower
   their combi boiler’s flow temperatures, save money and reduce their carbon
   emissions.
-why_here_image: /static/files/image-2-1.png
+why_here_image: /static/files/nesta_reduce.jpg
 logos:
   - image: /static/files/loop-stacked-colour.png
     url: http://nesta.org.uk
