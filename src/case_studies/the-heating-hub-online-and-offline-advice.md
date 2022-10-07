@@ -8,7 +8,7 @@ description: "The Heating Hub provide guidance on flow temperatures through a
   and a downloadable leaflet. "
 image: /static/files/pexels-kampus-production-7414387.jpg
 alt: Lady sitting with son under a blanket
-logo: /static/files/heating-hub.png
+logo: /static/files/heating-hub-logo-reduced.png
 logo_alt: The Heating Hub Logo
 overview: >-
   <p>The Heating Hub supports customers in the domestic heating market and
