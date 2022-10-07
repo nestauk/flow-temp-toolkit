@@ -62,24 +62,23 @@ patterns:
 
       </ul>
   - title: Provide guidance - thermostatic radiator valves
-    description: "Specific guidance as to how households may want to adjust their TRVs. "
-    body: >-
+    description: Give guidance on how best to use TRVs. This helps to dispel common
+      misconceptions about how they work and how best to use them.
+    body: >
       <ul>
 
-      <li>If the home has TRVs fitted you could recommend that:
-
-      <ul>
-
-      <li>Households could fine-tune the temperature of individual rooms with their radiator valves. As the flow temperature is lower it may be best to heat all the rooms in a home evenly, so it may be beneficial to open all of the radiator valves. If some rooms are feeling a little colder, users could turn up the radiator valve in that room. If other rooms are too warm, they could turn it down.
+      <li>It’s best to think of radiator valves as individual room thermostats, where each number signifies a certain temperature at which the radiator will “switch off”. 
 
       </li>
 
-      <li>It may also be beneficial to explain some of the reasoning behind this, for example, “Opening these radiator valves will ensure that your radiators remain on until a comfortable temperature has been reached. It should also ensure that your boiler is running as efficiently as possible, as the water returning to your boiler will be cooler.”</li>
+      <li>Explain that radiator valves don’t change the temperature of the radiator, or the speed that the rooms warm up. </li>
 
-      </ul>
+      <li>Ensure that the radiator valves are not at their maximum setting, but towards the middle of the scale instead. This will be 3 on most radiator valves. The maximum setting may be a high temperature that rooms may be uncomfortable at. Setting TRVs to maximum will also use more gas. </li>
 
-      </li>
-
+      <li>If users find certain rooms are too cold, they can turn their radiator valves up a little higher.
+       </li>
+      <li>If users want to make extra savings, they can turn their radiator valves a little lower in unused rooms (e.g. setting 1).
+       </li>
       </ul>
 ---
 ## What's required?
