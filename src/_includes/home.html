@@ -48,7 +48,7 @@ layout: default
         <img
           src="/static/files/nesta-logo.svg"
           alt="Nesta logo"
-          class="w-40 mx-auto"
+          class="w-40 mx-auto py-8"
         />
       </div>
     </div>
@@ -56,13 +56,13 @@ layout: default
 
   <section class="max-w-screen-lg mx-auto px-4 my-16">
     <h2 class="text-4xl font-bold mb-6">Supported by</h2>
-    <div class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 mb-14">
+    <div class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-4 mb-14 py-8">
       {% for l in logos %}
       <a href="{{ l.url }}" target="_blank" rel="noopener noreferrer">
         <img
           src="{{ l.image }}"
           alt="{{ l.alt }}"
-          class="w-20 md:w-32 h-20 md:h-32 mx-auto"
+          class="w-20 md:w-32 h-20 md:h-32 mx-auto "
         />
       </a>
       {% endfor %}
