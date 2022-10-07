@@ -8,7 +8,7 @@ description: The Winter Workout was an initiative run by Octopus Energy between
 featured: false
 image: /static/files/octopus-winter-workout.png
 alt: Graphic showing possible gas savings
-logo: /static/files/octopus-energy-logo-reduced-.png
+logo: /static/files/octopus-energy-logo-1200-x-1200-.png
 logo_alt: octopus energy logo
 overview: >-
   Octopus Energy set out to see if providing simple guidance and personalised
