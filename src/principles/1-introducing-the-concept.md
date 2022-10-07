@@ -6,8 +6,8 @@ background_color: "#f2f1f9"
 next: 2-check-eligibility
 patterns:
   - title: Help people to understand why boilers aren’t running efficiently
-    description: "It’s important to emphasise that combi boilers can be optimised
-      and may not be currently running as efficiently as they could be. "
+    description: It’s important to emphasise that combi boilers can be made to run
+      more efficiently and that this could save gas.
     icon: /static/files/icon.svg
     slug: explain-why-boilers-arent-running-efficiently
     alt: Image alt text
@@ -19,7 +19,7 @@ patterns:
 
       <li>Most boilers in the UK are set at temperatures above this, with the average temperature of water to radiators being around 70 degrees.</li>
 
-      <li>When a combi boiler’s flow temperature is set to under 55 degrees it will be condensing. This allows for the boilers to run more efficiently and burn less gas.</li>
+      <li>When a combi boiler’s flow temperature is set to 60 degrees it will be condensing. This allows for the boilers to run more efficiently and burn less gas.</li>
 
       </ul>
   - title: Make it clear what is meant by flow temperature
