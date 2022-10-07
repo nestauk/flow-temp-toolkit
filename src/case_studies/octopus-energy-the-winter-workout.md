@@ -5,6 +5,7 @@ tagline: Octopus energy customers were sent tips to help reduce Gas consumption
   and lowering the flow temperature was one of the recommended measures.
 description: The Winter Workout was an initiative run by Octopus Energy between
   December 2021 and March 2022 to help customers reduce their gas consumption.
+featured: false
 image: /static/files/octopus-winter-workout.png
 alt: Graphic showing possible gas savings
 logo: /static/files/octopus-energy-logo-reduced-.png
