@@ -6,7 +6,7 @@ tagline: A citizen science and participative research project helping our member
   might work in their homes.
 description: " In this citizen science project, Carbon Co-op reduced gas combi
   boiler flow temperature down to heat pump range temperatures. "
-image: /static/files/professional-plumber-checking-a-boiler-square-crop.png
+image: /static/files/professional-plumber-checking-a-boiler-square-crop-green.png
 alt: icon
 logo: /static/files/carbon-co-op-logo-reduced-.png
 logo_alt: carbon co-op logo
