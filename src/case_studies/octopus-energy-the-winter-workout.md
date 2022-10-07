@@ -24,11 +24,11 @@ overview: >
 takeaways: >-
   <ul>
 
-  <li>115,000 customers tried reducing their flow temperature, 93% rated the tip as useful.</li>
+  <li>One hundred and fifteen thousand customers tried reducing their flow temperature, 93% rated the tip as useful.</li>
 
-  <li>150,000 Winter Workout customers reduced their consumption, cutting their gas use by 12% on average.</li>
+  <li>One hundred and fifty thousand Winter Workout customers reduced their consumption, cutting their gas use by 12% on average.</li>
 
-  <li>Over 12 weeks, customers saved more than £3,100,000</li>
+  <li>Over 12 weeks, customers saved more than £3,100,000.</li>
 
   <li>Customer actions saved 14.3 million kilograms of carbon dioxide from entering the atmosphere.</li>
 
@@ -39,12 +39,12 @@ assets:
   - title: Gas saving tips
     file: https://octopus.energy/blog/winter-workout-gas-saving-tips/#gassavingtips
 ---
-250,000 Octopus Energy customers joined the challenge. They signed up to hear tips from energy and heating experts on how to use less gas in their homes. Using industry data and data science, participating customers received a personalised projected gas consumption. These projections were based on their historic energy usage and adapted regularly to account for changing weather conditions. With the help of a simple online tool, customers could set a personal % savings target, tick off  completed energy-saving tips, and track the savings over the course of the trial.
+Two hundred and fifty thousand Octopus Energy customers joined the challenge. They signed up to hear tips from energy and heating experts on how to use less gas in their homes. Using industry data and data science, participating customers received a personalised projected gas consumption. These projections were based on their historic energy usage and adapted regularly to account for changing weather conditions. With the help of a simple online tool, customers could set a personal % savings target, tick off completed energy-saving tips, and track the savings over the course of the trial.
 
-A range of other energy-saving measures was provided alongside reducing boiler flow temperature. These included blocking drafts, reducing the boiler's hot water temperature, closing curtains as it gets dark, and ensuring that heating isn’t on 24 hours a day.
+A range of other energy-saving measures were provided alongside reducing boiler flow temperature. These included blocking drafts, reducing the boiler's hot water temperature, closing curtains as it gets dark, and ensuring that heating isn’t on 24 hours a day.
 
-Customers were given a target temperature band of 55-60 degrees to reduce their flow temperature too. There was no further guidance on how to reduce the flow temperature given. Participants rated the advice on boiler flow temperature as the most useful tip. 
+Customers were given a target temperature band of 55-60 degrees to reduce their flow temperature. There was no further guidance on how to reduce the flow temperature given. Participants rated the advice on boiler flow temperature as the most useful tip. 
 
-To help encourage more people to get involved in something they might not have been enthusiastic about every Winter Workout customer was entered into a weekly prize draw. Each customer who saved a target of 5% got their share of an £840,000 prize pool. Participants received weekly updates from Octopus about prize draw winners and how many people were taking.
+To help encourage more people to get involved in something they might not have been enthusiastic about, every Winter Workout customer was entered into a weekly prize draw. Each customer who saved a target of 5% got their share of an £840,000 prize pool. Participants received weekly updates from Octopus about prize draw winners and how many people were taking part.
 
 In total, 1.7 million energy-saving tips were completed. Reducing each customer's gas use by an average of 12%.
