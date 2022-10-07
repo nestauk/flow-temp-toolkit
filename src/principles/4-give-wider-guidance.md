@@ -18,13 +18,21 @@ patterns:
 
       <ul><li>Ask users how they heat their home
 
-      <li>Do they heat a single room at a time?</li>
+      <li>Do they heat a single room at a time?
+
+      <br>
+
+      <ul>
 
       <li>Do they have set back temperatures? (A temperature set over night and then one during the day). 
 
       </li>
 
-      <li>Do they use a timer to control their heating.</li></ul>
+      <li>Do they use a timer to control their heating.</li>
+
+      </ul>
+
+      </li>
 
       <li>If giving guidance remotely, use imagery or descriptions as some users may not be sure what controls they have in the home.</li>
 
