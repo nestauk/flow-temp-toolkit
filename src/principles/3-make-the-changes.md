@@ -7,31 +7,29 @@ previous: 2-check-eligibility
 next: 4-give-wider-guidance
 patterns:
   - slug: define-the-type-of-boiler-controls
-    title: "Householders want specific and clear advice, the first step to providing
-      this is identifying the type of controls on the boiler. "
-    description: "Householders want specific and clear advice, the first step to
-      providing this is identifying the type of controls on the boiler. "
+    title: Define the type of boiler controls
+    description: >+
+      Users want specific and clear advice, the first step to providing this is
+      identifying the type of controls on the boiler. 
+
     body: >
       <ul>
         <li>
-         Ensure boiler controls are accessible and visible and open any covering panel.
-        </li>
+      Ensure boiler controls are accessible and visible and open any covering panel.  </li>
         <li>
-       Identify the type of controls the boiler has. We found that there are three main types that cover the majority of systems: 
+      Identify the type of controls the boiler has. We found that there are three main types that cover the majority of systems: 
           <ul>
             <li>
-         button-based boiler - a boiler with no dials on the control panel, only buttons
+      button-based boiler - a boiler with no dials on the control panel, only buttons
             </li>
             <li>
-             single dial boiler - a boiler with a single dial, it may also have some buttons
-            </li>
+      single dial boiler - a boiler with a single dial, it may also have some buttons      </li>
             <li>
-          multiple dial boiler - a boiler with two dials, and maybe some buttons. 
-            </li>
+      multiple dial boiler - a boiler with two dials, and maybe some buttons.       </li>
           </ul>
         </li>
         <li>
-      If guidance is being given remotely ensure that the above options are described and if possible illustrated to users. 
+      If guidance is being given remotely ensure that the above options are described and, if possible, illustrated to users. 
         </li>
       </ul>
     icon: /static/files/icon.svg
@@ -58,11 +56,11 @@ patterns:
 
       <li>Ensure that user eligibility has been confirmed using the guidelines in the checking eligibility step. </li>
 
-      <li>Illustrate what the radiator symbol may look like.  </li>
+      <li>Illustrate what the radiator symbol may look like. 
+       </li>
+      <li>Flow temperature can be mistaken for hot water temperature (hot water being the water that is supplied to the taps and showers).</li>
 
-      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers.</li>
-
-      <li>Ensure that the flow temperature, not the hot water temperature, is being altered.
+      <li>Ensure that the flow temperature - not the hot water temperature - is being altered.
 
       </li>
 
@@ -72,21 +70,21 @@ patterns:
 
       <ul>
 
-      <li>If it does, suggest turning the dial until 55 degrees is displayed.  </li>
+      <li>If it does, suggest turning the dial until 60 degrees is displayed.   </li>
 
       <li>Reassure the user that even if this number changes after the dial has been left, the maximum flow temperature should have been set correctly.</li>
 
-      <li>If the boiler doesn’t have a digital display give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
+      <li>If the boiler doesn’t have a digital display, give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
 
       </ul>
 
       </li>
 
-      <li>(Optional) Give clarification on why the boiler should be set to 55 degrees.
+      <li>(Optional) Give clarification on why the boiler should be set to 60 degrees.
 
       </li>
 
-      <li>(Optional) Direct to further guidance in case users are struggling to change their flow temperature. One option is to direct users to <a href="https://freeboilermanuals.com/" target="_blank">freeboilermanuals.com</a>  and guide them to enter their boilers GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.
+      <li>(Optional) Direct to further guidance in case users are struggling to change their flow temperature. One option is to direct users to freeboilermanuals.com and guide them to enter their boiler’s GC number. Every boiler has a GC number, and it's usually on the front of the boiler. It starts with 'GC' followed by a 7-digit number.
 
       </li>
 
