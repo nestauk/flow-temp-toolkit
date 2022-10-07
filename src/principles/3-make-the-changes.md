@@ -135,6 +135,8 @@ patterns:
 
       <li>Check whether the boiler has a digital display. 
 
+      <br>
+
       <ul>
 
       <li>If it does, suggest turning the dial until 60 degrees is displayed.  </li>
