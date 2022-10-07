@@ -1,5 +1,6 @@
 ---
-title: Carbon Co-op - The heat pump challenge
+date: 2022-10-07T10:53:37.249Z
+title: The heat pump challenge
 tagline: A citizen science and participative research project helping our member
   households to engage with and understand how low-temperature heating systems
   might work in their homes.
