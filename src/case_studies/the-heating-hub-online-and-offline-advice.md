@@ -1,6 +1,6 @@
 ---
 date: 2022-09-15T16:48:42.153Z
-title: The Heating Hub - Online and offline advice
+title: Online and offline advice
 tagline: Online advice for end users is provided through an in-depth online
   guide, a short video and offline advice in the form of a PDF leaflet.
 description: "The Heating Hub provide guidance on flow temperatures through a
