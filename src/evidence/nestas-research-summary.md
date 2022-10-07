@@ -45,7 +45,7 @@ assets:
   - title: Nesta evidence summary (PDF)
     file: /static/files/icon.svg
   - title: Nesta Project Page
-    file: https://www.nesta.org.uk/project/optimising-boilers-reduce-household-emissions/#:~:text=Turn%20down%20your%20boiler%2C%20not%20your%20thermostat&text=These%20boilers%20should%20be%20set,between%2070%2D80%C2%B0C.
+    file: https://www.nesta.org.uk/report/money-saving-boiler-challenge-supporting-evidence-october-2022/
   - title: Salford Energy House video
     file: https://www.youtube.com/watch?v=DN1I9Ol6ZPg
 ---
