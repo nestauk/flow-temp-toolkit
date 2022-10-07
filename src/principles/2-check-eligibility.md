@@ -82,11 +82,13 @@ To ensure the safety and suitability of the advice given, it is important to:
 * check that there is no hot water tank
 * assess any vulnerabilities within the household.
 
-Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate.
+Users will need detailed guidance to ensure that their heating system is suitable as there is a low level of awareness of technical terms and of how the constituent parts of a system relate. 
+
+
 
 ## Why do it?
 
-Households want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible saves time and helps avoid disappointment. Identifying houses that are not eligible early on can also ensure that best practices around the storage and supply of hot water to taps and outlets in the home are upheld and will reduce the risk of legionella bacteria forming. 
+Users want clear, specific advice. Ensuring that anyone who isn’t eligible for this advice is made aware as soon as possible saves time and helps avoid disappointment. Identifying houses that are not eligible early on can also ensure that best practices around the storage and supply of hot water to taps and outlets in the home are upheld and will reduce the risk of legionella bacteria forming. 
 
 On the other hand, confirming that their house is eligible gives users confidence that the advice is tailored to them.
 
