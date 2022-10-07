@@ -101,18 +101,19 @@ patterns:
 
       </ul>
 ---
-
 ## What's required?
 
-Explain what flow temperatures are, how they relate to heating the home and why there may be efficiency savings to be made. To professionals, this can seem straightforward but users generally have low awareness of flow temperatures.
+Explain what flow temperatures are, how they relate to heating the home and why there may be efficiency savings to be made. To professionals, this can seem straightforward but users generally have low awareness of flow temperatures. 
 
 When offering advice you should start by:
 
-- concisely explaining the technical reason for lowering the flow temperature
-- explaining the financial and environmental benefits
-- reassuring users that their comfort will not be affected.
+* concisely explaining the technical reason for lowering the flow temperature
+* explaining the financial and environmental benefits
+* reassuring users that their comfort will not be affected.
 
 You may wish to emphasise these differently depending on the audience.
+
+
 
 ## Why do it?
 
