@@ -11,16 +11,16 @@ alt: Graphic showing possible gas savings
 logo: /static/files/octopus-energy-logo-1200-x-1200-.png
 logo_alt: octopus energy logo
 overview: >
-  Octopus Energy set out to see if providing simple guidance and personalised
+  <p>Octopus Energy set out to see if providing simple guidance and personalised
   targets to customers could noticeably reduce their gas consumption. The hope
   was that this would save consumers money and lower carbon footprint, all while
-  keeping customers warm.
+  keeping customers warm.</p>
 
 
-  Although there are lots of ways consumers can be more energy efficient and save substantially on bills: Octopus has found that energy-saving tips are seen as ‘ten a penny’. The many listicles telling consumers never to leave the TV on standby or only fill the kettle with the water they need are prime examples. Consumers are also looking to gain a clear understanding of how much they may benefit from energy-saving actions.
+  <p>Although there are lots of ways consumers can be more energy efficient and save substantially on bills: Octopus has found that energy-saving tips are seen as ‘ten a penny’. The many listicles telling consumers never to leave the TV on standby or only fill the kettle with the water they need are prime examples. Consumers are also looking to gain a clear understanding of how much they may benefit from energy-saving actions.</p>
 
 
-  The Winter Workout provided gas-saving tips to Octopus energy customers between December 2021 and March 2022. Although not the only advice given during the trial, guidance around flow temperature was prominent and rated very highly among participants. Significant energy savings were achieved.
+  <p>The Winter Workout provided gas-saving tips to Octopus energy customers between December 2021 and March 2022. Although not the only advice given during the trial, guidance around flow temperature was prominent and rated very highly among participants. Significant energy savings were achieved.</p>
 takeaways: >-
   <ul>
 
