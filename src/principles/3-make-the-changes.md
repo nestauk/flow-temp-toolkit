@@ -123,11 +123,11 @@ patterns:
 
       <li>Ensure that user eligibility has been confirmed using the guidelines in the checking eligibility step. </li>
 
-      <li>Illustrate what the radiator symbol may look like. </li>
+      <li>Illustrate what the radiator symbol may look like.  </li>
 
-      <li>Flow temperature can be mistaken for hot water temperature, hot water being the water that is supplied to the taps and showers.</li>
+      <li>Flow temperature can be mistaken for hot water temperature (hot water being the water that is supplied to the taps and showers).</li>
 
-      <li>Ensure that the flow temperature, not the hot water temperature, is being altered.</li>
+      <li>Ensure that the flow temperature - not the hot water temperature - is being altered.</li>
 
       <li>If the radiator symbol is next to a button, suggest pressing this button to select flow temperature. 
 
@@ -137,17 +137,17 @@ patterns:
 
       <ul>
 
-      <li>If it does, suggest turning the dial until 55 degrees is displayed. </li>
+      <li>If it does, suggest turning the dial until 60 degrees is displayed.  </li>
 
       <li>Reassure the user that even if this number changes after the dial has been left, the maximum flow temperature should have been set correctly.</li>
 
-      <li>If the boiler doesn’t have a digital display give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
+      <li>If the boiler doesn’t have a digital display, give guidance on the approximate position to adjust the dial to. We have provided suggested graphics below, although the exact position will depend on the make and model of the boiler. </li>
 
       </ul>
 
       </li>
 
-      <li>(Optional) Give clarification on why the boiler should be set to 55 degrees.
+      <li>(Optional) Give clarification on why the boiler should be set to 60 degrees.
 
       </li>
 
