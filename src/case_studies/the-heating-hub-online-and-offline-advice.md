@@ -48,3 +48,5 @@ The Heating Hub provides three major resources on a dedicated mission webpage. 
 Around 1,000 people have downloaded the PDF leaflet and many have printed themselves for local distribution.
 
 User feedback through social media and YouTube has been very positive, complimenting clarity and the easy to follow instructions. Those that monitor their energy use have reported savings from this one action.
+
+While it feels as though most people are familiar with the concept of turning down the flow temperature, there will be many millions of households for whom this is new advice. Heating Hub gives presentations to community groups and would like to work with more local authorities to ensure this guidance reaches as many people as possible.
