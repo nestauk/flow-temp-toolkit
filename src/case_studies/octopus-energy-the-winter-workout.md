@@ -1,5 +1,5 @@
 ---
-date: 2022-10-07T09:06:18.366Z
+date: 2022-09-01T09:06:18.366Z
 title: The winter workout
 tagline: Octopus energy customers were sent tips to help reduce Gas consumption
   and lowering the flow temperature was one of the recommended measures.
