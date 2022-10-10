@@ -5,8 +5,11 @@ tagline: This toolkit contains tested principles, guidance and resources to help
 why_here_image: /static/files/save-illustration-square.png
 logos:
   - image: /static/files/loop-stacked-colour.png
-    url: http://nesta.org.uk
-    alt: Nesta logo
+    url: https://loop.homes/
+    alt: Loop Logo
+  - image: /static/files/octopus-energy-logo-reduced-.png
+    alt: Octopus Energy Logo
+    url: https://octopus.energy/
 layout: home
 title: Help your users turn down their boiler flow temperature
 shortcuts:
