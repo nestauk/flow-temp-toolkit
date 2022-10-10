@@ -10,7 +10,7 @@ description: >+
 featured: true
 image: /static/files/energy-house-salford-green.png
 alt: image
-logo: /static/files/nesta_logo_white_rgb.png
+logo: /static/files/nesta-600px-logo.png
 logo_alt: Nesta Logo
 overview: >-
   Nesta has commissioned or undertaken a number of streams of work, they
