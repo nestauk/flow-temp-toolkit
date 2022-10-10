@@ -7,7 +7,7 @@ logos:
   - image: /static/files/loop-stacked-colour.png
     url: https://loop.homes/
     alt: Loop Logo
-  - image: /static/files/octopus-energy-logo-1200-x-1200-.png
+  - image: /static/files/octopus-energy-logo-600-x-600-large.png
     alt: Octopus Energy Logo
     url: https://octopus.energy/
 layout: home
