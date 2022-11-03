@@ -33,7 +33,7 @@ created_by: >-
 
   <p>This toolkit has been created by Nesta, the UK's innovation agency for social good</p>
 
-  <p>Nesta’s <a href="https://www.nesta.org.uk/sustainable-future/" target="_blank"> sustainable future mission</a> aim is to accelerate the decarbonisation of household activities in the UK and improve levels of productivity. Our goal is that, by 2030, the UK will have reduced household carbon emissions by 28 per cent from 2019 levels, and will be on track to reach zero by 2048.</p>
+  <p>Nesta’s <a href="https://www.nesta.org.uk/sustainable-future/" target="_blank"> sustainable future mission</a> aim is to accelerate the decarbonisation of household activities in the UK and improve levels of productivity. Our goal is that, by 2030, the UK will have reduced household carbon emissions by 28% from 2019 levels, and will be on track to reach zero by 2048.</p>
 
   <p>Our focus on low flow temperatures is part of our sustainable future mission’s aim to optimise current heating systems, with the goal of reducing emissions.</p>
 ---
