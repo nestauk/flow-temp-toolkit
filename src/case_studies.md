@@ -1,5 +1,5 @@
 ---
 layout: case_studies
-title: Case Studies
+title: Case studies
 tagline: Examples of best practice tried and tested with real users.
 ---
