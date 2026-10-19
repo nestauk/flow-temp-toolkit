@@ -54,17 +54,13 @@ patterns:
     body: >-
       <ul>
 
-      <li>Changing settings on combi boilers could reduce the amount of energy used to heat homes.
+      <li>Changing settings on combi boilers could reduce the amount of energy used to heat homes.</li>
 
-      </li>
+      <li>By reducing the flow temperature users could save up to 10% on their gas bill.  </li>
 
-      <li>By reducing the flow temperature, users could save up to 9% on their gas bill.   </li>
+      <li>This equates to a saving of around £57 a year in energy bills for a typical household. </li>
 
-      <li>This equates to a saving of around £112 a year in energy bills for a typical household.
-       </li>
-      <li>If 10 million UK homes reset the boiler flow temperature to 60 degrees or below, those households would cut £1 billion from their energy bills and save 1.7m tonnes of carbon emissions; the equivalent of almost 6 million transatlantic flights.
-
-      </li>
+      <li>If 1 million UK homes reset the boiler flow temperature to 60 degrees or below, those households would cut £57  million from their energy bills </li>
 
       </ul>
   - title: Reassure that comfort won’t be affected
