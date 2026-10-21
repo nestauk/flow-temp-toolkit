@@ -39,7 +39,7 @@ takeaways: >-
   <li>Homes that currently have their boiler flow temperatures set to 80°C could reduce gas consumption for space heating by 12% by setting their flow temperature to 60°C, or by 16% by turning down to 55°C.</li>
 
 
-  <li>Based on the 9% saving on total gas use from reducing flow temperatures from 80°C to 60°C (reported above), we estimate that a medium-sized household with an annual gas consumption of 12,000 kWh would save 1,092 kWh of gas per year. At a price of 10.3p per kWh of gas (the Energy Price Guarantee unit rate for gas), this equates to £112 per year.</li>
+  <li>Based on the 10% saving on gas used for space heating from reducing flow temperatures from 75°C to 60°C (reported above), we estimate that an average household with an annual gas consumption of 9880 kWh, of which 7400 kWh is used for space heating, would save around 720 kWh of gas per year. At a price of 7.97p per kWh of gas (the Ofgem price cap unit rate for October to December 2026), this equates to £57 per year.</li>
 
   </ul>
 assets:
